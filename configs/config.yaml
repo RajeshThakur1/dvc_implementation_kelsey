@@ -1,0 +1,55 @@
+# It contains all the configs required in the project
+
+artifacts:
+    ARTIFACTS_DIR: artifacts
+    INPUT_DATA: raw_data
+    PREPARED_DATA: prepared
+    TRAINING_DATA: training_data
+    COMBINED_DATA: combined_data.csv
+    TRAIN_DATA: train.csv
+    TEST_DATA: test.csv
+    VALID_DATA: valid.csv
+    FEATURIZED_DATA: features
+    FEATURIZED_DATA_TRAIN: train.pkl
+    FEATURIZED_DATA_TEST: test.pkl
+    MODEL_DIR: model
+    MODEL_NAME: model.pkl
+    LABEL_ENCODER_MODEL: encoder.pkl
+    LABEL_ENCODER_CSV: encoder.csv
+    EVALUATION_DIR: evaluation_dir
+    EVALUATION_RESULT: evaluation_result.csv
+    BENCHMARK_DIR: benchmark_dir
+    BENCHMARK_RESULT: benchmark_result.csv
+
+source_data_dirs:
+  mark4:
+    intent_model:
+      TRAIN_DATA: DVC/mark4/intent_model/train/kelseyai
+      TEST_DATA: DVC/mark4/intent_model/test/test_data
+  bungalow:
+    roommate:
+      TRAIN_DATA: DVC/bungalow/roommate/train/kelseyai
+      TEST_DATA: DVC/bungalow/roommate/test/test_data
+    profile_bot:
+      TRAIN_DATA: DVC/bungalow/profile_bot/train/kelseyai
+      TEST_DATA: DVC/bungalow/profile_bot/test/test_data
+    faq:
+      TRAIN_DATA: DVC/bungalow/faq/train/kelseyai
+      TEST_DATA: DVC/bungalow/faq/test/test_data
+
+
+LOCAL_DATA_DIR: data
+PROJECT_NAME: mark4
+MODEL_NAME: intent_model
+BUCKET_NAME: kelsey-dataset
+
+metrics:
+  SCORES: scores.json
+
+plots:
+  PRC: prc.json
+  ROC: roc.json
+
+local_data_dirs:
+  - path_to_local_data_1
+  - path_to_local_data_2

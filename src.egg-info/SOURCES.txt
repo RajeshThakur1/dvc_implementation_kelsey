@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+src/__init__.py
+src/stage_00_template.py
+src/stage_01_load_local_data_in_s3.py
+src/stage_02_get_trining_data_from_s3.py
+src/stage_03_prepare_data.py
+src/stage_04_label_encoder.py
+src/stage_05_training.py
+src/stage_06_evaluation.py
+src/stage_07_evaluate_metrics.py
+src.egg-info/PKG-INFO
+src.egg-info/SOURCES.txt
+src.egg-info/dependency_links.txt
+src.egg-info/top_level.txt

@@ -1,0 +1,21 @@
+### dependency
+### dependency
+tqdm
+dvc
+pandas
+numpy
+PyYAML
+Scipy
+Scikit-learn
+mkdocs-material
+### local packages -
+-e . # << uncomment this to install from setup.py
+### local packages -
+-e . # << uncomment this to install from setup.py
+sagemaker
+dvc[s3]
+tensorflow_datasets
+transformers
+seaborn
+python-dotenv
+tensorflow_hub

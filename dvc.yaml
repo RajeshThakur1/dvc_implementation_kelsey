@@ -1,0 +1,65 @@
+# add stages here 
+ stages:
+#   push_local_data_to_s3:
+#     cmd: python src/stage_01_load_local_data_in_s3.py
+#     deps:
+#       - data
+#       - src/stage_01_load_local_data_in_s3.py
+
+
+   load_data:
+     cmd: python src/stage_02_get_trining_data_from_s3.py
+     deps:
+     - src/stage_02_get_trining_data_from_s3.py
+     outs:
+     - artifacts/raw_data/train.csv
+     - artifacts/raw_data/test.csv
+
+
+   prepare_data_stage:
+     cmd: python src/stage_03_prepare_data.py
+     deps:
+       - artifacts/raw_data/train.csv
+       - artifacts/raw_data/test.csv
+       - src/stage_03_prepare_data.py
+     outs:
+       - artifacts/prepared/train.csv
+       - artifacts/prepared/test.csv
+
+   create_label_encoder:
+     cmd: python src/stage_04_label_encoder.py
+     deps:
+       - artifacts/prepared/train.csv
+       - src/stage_04_label_encoder.py
+     outs:
+       - artifacts/model/encoder.pkl
+
+   training:
+     cmd: python src/stage_05_training.py
+     deps:
+       - artifacts/prepared/train.csv
+       - src/stage_05_training.py
+     outs:
+       - artifacts/model/mark4_intent_model
+   evaluation:
+     cmd: python src/stage_06_evaluation.py
+     deps:
+       - artifacts/model
+       - artifacts/prepared/test.csv
+     outs:
+       - artifacts/evaluation_dir/evaluation.csv
+
+   create_benchmark_result:
+     cmd: python src/stage_07_evaluate_metrics.py
+     deps:
+       - src/stage_07_evaluate_metrics.py
+       - artifacts/evaluation_dir/evaluation_result.csv
+     outs:
+       - artifacts/benchmark_dir/benchmark_result.csv
+     metrics:
+       - scores.json:
+           cache: false
+#     plots:
+#       - scores.json:
+#           cache: false
+

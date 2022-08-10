@@ -1,0 +1,1510 @@
+,Unnamed: 0,utterance,expected
+0,1231,Location??,community_address
+1,1227,How much do I need to pay before moving in?,moveInCost
+2,120,I'm viewing property this Saturday,unknown
+3,505,Do you have rentals other than San Francisco,unitAssignment
+4,1413,It is out of my budget,wantsLessExpensiveUnit
+5,1416,Can you please show few more options,wantsLessExpensiveUnit
+6,760,The application and guarantor application,leaseGaurantor
+7,1417,Looking for some cheaper unit,wantsLessExpensiveUnit
+8,923,"Hi Kelsey, yes I would like to schedule a virtual tour for a 1bed 1 bath",virtualTour
+9,1422,I need to reschedule,tourReschedule
+10,1351,What's the price difference for 1 bedroom for all three leases?,unitAssignment
+11,149,I was looking for at a 1 1/2 bathrooms,unitAssignment
+12,1030,So me dijeron q esta listo y me lo enseñaron,unknown
+13,1356,Good morning I am just looking for information on what the total move-in cost would be if I was to move in by May 20,moveInCost
+14,1370,Okay and the deposit?,deposit
+15,1182,would -PRON- be able to use the pool,pool
+16,1306,What does your credit score have to be?,creditScore
+17,628,Hi Mrs. Kelsey I would love that but I do have some questions.,unknown
+18,763,How much do I have to put down to move in ?,deposit
+19,990,"Hi Ryan! Thanks for your email. 
+
+I just wanted to confirm the cost of rent for the places you sent over. I noticed the move-in costs but wanted to clarify everything before moving forward. ",moveInCost
+20,631,I am canceling the 500pm tour of 555 O’farrell on the 25 of February.,unknown
+21,394,Dirección por favor,unknown
+22,663,I'm looking for a 1 bedroom preferably on the b side,unitAssignment
+23,460,"Are you friendly pets, have a dryer and washers  in the apartment? ",utility
+24,885,Ok so I pay utilities+ rent?,unknown
+25,378,"Yes , I am still interested ",unitAssignment
+26,519,Yeah I like that one. Are you guys primarily located in downtown sf?,community_address
+27,985,do -PRON- have a pool onsite,pool
+28,410,Just leave me alone,unknown
+29,1395,Yes please what are all your qualifications to move in how much is your deposit admin fee and application,applicationFee
+30,1218,So can you send me the application,applicationProcess
+31,424,Hi so I scheduled a tour and it's supposedly at this time. What number would I reach them at?,tourBooking
+32,21,Thank you so much for your time,unknown
+33,1262,also do y'all have in unit washer & dryer?,laundry
+34,1268,Yes and I haven't received the application link yet,applicationProcess
+35,436,"Hi Kelsey, I reached out to the leasing office and got to know that prices are upgrading. So I was wondering if I book earlier, would I get the prices mentioned in the website? 
+Thanks a lot",unknown
+36,209,be there any application fee for -PRON- property,applicationFee
+37,991,Yes I would love to schedule a tour and I do have a few questions,tourBooking
+38,780,"also what are the details of the move-in/furniture promotion?
+",leasingOfficePromotion
+39,1018,Yes was looking for a med/large 1bdrm or small 2bdrm need prices and availability,unitAssignment
+40,776,It's okay thank you ,unknown
+41,1179,Hi Ryan.. thank you for your email.Is this palace court apartments? Can you confirm the price range for studio?,moveInCost
+42,1014,How much is the apartment? Does the property pay for utilities?,moveInCost
+43,257,can i see the property from my phone/laptop,virtualTour
+44,153,Does this community feature a spa,hotTub
+45,852,"Hi, I would like to know if a Guarantor is required and if there is a security deposit?",leaseGaurantor
+46,1294,"Hello! Thank you for your message, I'm at work so texting helps. But I wanted to know if you work with broken leases? I have one from 2 yrs ago. I live with a family member but me and my partner are looking for a 1 bedroom",evictionPolicy
+47,87,would i be able to park,parking
+48,1272,What are the differences between the units? And is there a washer and drier available,laundry
+49,1190,Can you please text me which apartment ?,community_address
+50,186,Saturday Mar 06 3:00 PM works,tourBooking
+51,187,"Goodmorning, Yes I would love a tour but I'm moving from Norfolk va to Houston is their any way possible that I could do a virtual tour?",virtualTour
+52,1078,Do you have electric car charging?,electricVehicleCharging
+53,928,Yes,unknown
+54,1112,"Yes, I am looking for a rental in the right location.",unitAssignment
+55,891,Please describe the amenities the community offers.,amenities
+56,1188,When are you closed?,leasingOfficeHolidays
+57,34,cancel the tour,tourCancellation
+58,694,Thursday the 11th would be perfect!,tourBooking
+59,832,Do you have a one bedroom available,unitAssignment
+60,1121,Hii,unknown
+61,1066,Does the apartment include furniture,furnishedUnit
+62,17,Ok but yesterday I was told 30th of May is available and was told if an earlier date in May comes up I will be contacted.  I understand the 1st come 1st serve basis. I just need to know a date so I can come in. Thanks,unknown
+63,755,I work Tues thru Sat,unknown
+64,999,"Thank you so much for reaching out to me! I am very much interested in the studio apartment for $1395. I would love to see the place if it is still available. I can be available tomorrow at 11:45am. However, I am in Southern California so if a virtual toor is possible that would be great!",virtualTour
+65,229,Do you accept section 8 voucher,section8
+66,1443,"Hiii! I'm still interested, can we reschedule for today or tomorrow?",tourReschedule
+67,435,Perfect. Could you please share pictures of the interior of the units that are up for rent,amenities
+68,216,I want to reschedule my tour,rescheduleTour
+69,636,what kind of amenity do this place have,amenities
+70,1277,Yes ma'am and I'd love to fill out an application,applicationProcess
+71,715,Hi Ryan. Thanks for reaching out! I am in LA and won't be able to come up to the Bay. I won't be moving until June and wanted to get a head start looking at buildings. I'd love to keep your contact and reach out in May if that's okay with you!,tourBooking
+72,946,I'm Googling it now ,unknown
+73,958,1 bedroom 1 bathroom,unitAssignment
+74,1178,Is this a good call back number,unknown
+75,1402,"Great, when can we set one up? And can you tell me a little more about the units you have available please and the application process?",applicationProcess
+76,182,2 bedrooms town home,unitAssignment
+77,627,New tenant application process?,applicationProcess
+78,1122,Thanks so much! How long is the lease may I ask?,leasePeriod
+79,827,hey kelsey,unknown
+80,114,be laundry extra,laundry
+81,1295,Address,community_address
+82,181,Yes I would like to schedule a tour,tourBooking
+83,158,be there a car parking,parking
+84,246,How often will rent be increased and by how much? (Please include a dollar or percentage amount),rentIncrementPolicy
+85,28,I would like to schedule a tour for next Friday April 1st,tourBooking
+86,1338,Pets,pet
+87,191,3bedroom 2 bath,unitAssignment
+88,302,"Sorry about this but I have to cancel this appointment, I used Zillow to contact you but I was on 1490 pine not 1739, not sure why zilliow sent me to this address and not
+The unit I was viewing",unknown
+89,1127,do -PRON- have income requirement,incomeRequirement
+90,918,Can we do tomorrow at 3:30pm,tourBooking
+91,243,Where you send for me?,unknown
+92,839,Prefer to move in next month like 3rd week of April,unitAssignment
+93,416,I just left downtown can send a virtual video or pics again ?,propertyWebsiteLink
+94,304,Ya I was wondering is the place fully furnished,furnishedUnit
+95,927,I would like to schedule a tour,tourBooking
+96,173,Can you cancel I apologize for the inconvenience. I'll reschedule on my own.,tourCancellation
+97,1005,What will be included in that again ?,amenities
+98,50,Yeah if that's the earliest you got then that works,unknown
+99,1070,Si la verdad me interesa cuánto es la renta y que necesito y para cuándo está disponible,unknown
+100,1239,Yes I would like to do a virtual tour if at all possible,virtualTour
+101,775,How much is that going for,unitAssignment
+102,600,pricing for the apartments,unitAssignment
+103,1300,"Hi Kelsey, sorry for the late reply. Just wonder do you provide 3 month lease for studio?",leasePeriod
+104,877,"I wanted to ask more about the rent and the special y'all have going on , I'm trying to move from Shreveport ",unitAssignment
+105,501,"Can I see it tomorrow after work, 5:45pm?",tourBooking
+106,790,Oh ok thanks!,unknown
+107,1117,Okay thank you,unknown
+108,412,Laundry Facilities,laundry
+109,1350,Hello! I was interested To know what the short term lease they have and how much a 1 bedroom would be a month,unitAssignment
+110,674,Na we good,unknown
+111,1385,"Goodmorning, Yes I would love a tour but I'm moving from Norfolk va to Houston is their any way possible that I could do a virtual tour?",virtualTour
+112,1386,"Goodmorning, Yes I would love a tour but I'm moving from Norfolk va to Houston is their any way possible that I could do a virtual tour?",virtualTour
+113,1328,I would like to know the fee's I have to pay up front including down payment as well as application fee's. I'm a first time renter,applicationFee
+114,686,Also I went to see the 2210 107 place yesterday and the property manager said they allow pets,pet
+115,88,Is scheduling a tour at 6 am moral ?,unknown
+116,1028,2 bedrooms and I'm looking to move April 9,unitAssignment
+117,232,"Yes, I'll do Friday at 9 AM.",tourBooking
+118,1446,can i reschedule please for tomorrow ,tourReschedule
+119,965,Do you have a move in special ?,leasingOfficePromotion
+120,24,Okay,unknown
+121,729,Sure that would be great,unknown
+122,829,10am is cool?,unknown
+123,670,Yes,unknown
+124,1016,Oh okay thank you,unknown
+125,961,Can you give me a call?,unknown
+126,733,"What is the total amount a new resident should expect to pay upon moving in? (Please provide a total number and breakdown by deposit, application fees, move in fees, etc)",moveInCost
+127,94,Sorry tomorrow i need to cancel,tourBooking
+128,938,Ok thank you,unknown
+129,672,Y'all don't have anything available for may,unitAssignment
+130,468,"Hi Kelsey, I will be in area April 20,-22",unknown
+131,823,I definitely would,unknown
+132,227,"1 bedrooms , and 04/02/2022",unitAssignment
+133,996,Por el 313,unknown
+134,766,400 less than what I'm paying now,moveInCost
+135,132,Let me know I'll send app,unknown
+136,1175,For a 1-2 bedroom,unitAssignment
+137,462,"hi ryan, i was looking to learn more about the apartment and the requirements for applicant consideration.",applicationProcess
+138,1032,"What is the application fee, and the requirements for renting? Thank you!",applicationFee
+139,1261,"Hello . Yes , but can you possibly do it virtually?",virtualTour
+140,926,So will he approve if we tried to get that apartment?,unknown
+141,1299,"Additional information, where are you located?",community_address
+142,368,I will let you know later today what day is best for me thanks,unitAssignment
+143,723,"I am a felon, will be eligible",feloniesPolicy
+144,905,yes. I would like a virtual tour,virtualTour
+145,1183,I would like to apply for a studio that was advertised for $1395 if it is still available.,applicationProcess
+146,488,"Total move in $$,also if it is all bills paid",unknown
+147,847,What are all your requirements,unknown
+148,1400,Is all bills paid,applicationFee
+149,792,It's would have to be on the 4th of April,unknown
+150,31,Spanish please,unknown
+151,708,Does this community feature outdoor spaces?,outerSpace
+152,320,i think we are good,unknown
+153,1138,Is there any heater system?,heatingSystem
+154,269,We can schedule a tour .,tourBooking
+155,167,hello,unknown
+156,585,Hey I put in an application I wanted to check the status,unknown
+157,168,Can i see the property online or in person?,tourOptions
+158,711,schedule a tour,tourBooking
+159,170,Okay! I can take a look at them.,unknown
+160,570,Yes I will.,unknown
+161,426,Oh no worries,unknown
+162,277,Thank you ! Do you know when they will be getting I. Touch with me ?,unknown
+163,20,Let me know your rates for the 2 bedroom. And does it include  any bills ?,unitAssignment
+164,1059,Are pit bulls allowed here?,pet
+165,1062,Can you accommodate handicap?,handicapPolicy
+166,685,Is there any central cooling system,airConditioner
+167,1276,Where is this property located,community_address
+168,371,Santa Clara is closer I work in Hayward at the Pepsi plant,unknown
+169,894,Ok thanks Kelsey appreciate it!,unknown
+170,497,Hello do you have a 2 bdrm and how much,unitAssignment
+171,1434,Good Morning I am so sorry I have to cancel I was supposed to tell on Thursday I was so busy I would love to next Saturday I will be on that side of town Noon the same time 6/11 I am so sorry about the inconvenience,tourCancelled
+172,909,Can i charge my Tesla,electricVehicleCharging
+173,559,What is the name of the community?,community_name
+174,1457, I could come by tomorrow,tourBooking
+175,1298,Yes for both of the price is same or different,unitAssignment
+176,338,Many thanks,unknown
+177,1461,Tour,tourBooking
+178,1228,"Hi. No, I just want two pieces of information. How much is the monthly rent for an apartment for a single person? Do you need credit to be able to rent?",unitAssignment
+179,933,"Hi Ryan!
+Thank you
+This studio is actually for my son.
+My son and I would like to see it 
+",tourBooking
+180,1081,2badrom,unknown
+181,876,what are your move in fees,moveInCost
+182,1132,"yeah, tomorrow 3 pm works for me",unknown
+183,1322,"Good morning, before doing so can I confirm if there are in unit washer and dryers?",laundry
+184,1337,Inwould like to know pricing for 2 bedroom floor plans,unitAssignment
+185,610,Ok ya voy para allá,unknown
+186,1448,Sorry I am not interested anymore,notInterested
+187,1198,Ok thanks,unknown
+188,1444,Hey I'm sorry I will have to reschedule ,tourReschedule
+189,1449,"Hello, I'm not interested any longer. Thank you for reaching out",notInterested
+190,1160,"designated parking space for your car. It's located in #10 Studio
+1739",parking
+191,1031,what is the rent?,unitAssignment
+192,1172,"Hi Kelsey, I can take a look at the apartment in a couple weeks. ",tourBooking
+193,1303,What are the requirements to get an apartment there ?,incomeRequirement
+194,363,Yes I just called they have nothing until maybe May .,unknown
+195,379,Hola me interesa información adicional,unknown
+196,633,Yes was looking for a 3 bedroom but it seems you are fresh out when i search on the website,unitAssignment
+197,1215,Good morning I would like info about this apt fees deposit and a application please. Thank you,applicationFee
+198,1017,"Okay, let me get back to you in the morning when I get off. I'll be sure to stay up until I talk to you",unknown
+199,738,I work all day Saturday so sadly that doesn't work for me.,tourBooking
+200,250,"3 beds, 2 baths, and move in date april 21st",unitAssignment
+201,110,how much do -PRON- cost do -PRON- have -PRON- available on december,unitAssignment
+202,643,April 6th I'll be free,unknown
+203,634,"Thanks 
+We decide to stay more time in our current home ... ",unknown
+204,2,what be the location,community_address
+205,577,Okay mañana puedo de 10am a 1pm,unknown
+206,328,That would be great. When would be a good time for you?,tourBooking
+207,1378,i was also seeing if water/ electricity are included,utility
+208,992,Or a 2x1 what ever is cheaper,unitAssignment
+209,718,Where can i wash my clothes,laundry
+210,1366,yes do this unit have any garage,amenities
+211,668,How much is it,unitAssignment
+212,563,What's the location,community_address
+213,752,If you can email some information I'm in El Paso Tx I need to relocate to Houston ,unknown
+214,613,Moving out of state thank you,unknown
+215,586,what lease option do -PRON- have,leasePeriod
+216,171,Great thank you so much!!,unknown
+217,650,Oky thankes good,unknown
+218,23,Is it virtual? I am currently located in SoCal,virtualTour
+219,339,"My budget is $1200, move-in date is July 1st, and it will be 4 occupants",unitAssignment
+220,1069,Can i charge my Prius,electricVehicleCharging
+221,621,1 adult 4 kids,unknown
+222,983,Yes please.  I need a downstairs apartment also,unitAssignment
+223,789,"i want to schedule a tour
+VK",tourBooking
+224,953,Sometime this week and can you send me the address please,community_address
+225,1213,"Hello, I am interested in what your pet policy is. I have a dog that is 77 lbs. Shepard mix.",pet
+226,979,May I have virtual tour. Disabled,virtualTour
+227,677,Hey Ryan! I scheduled an appointment for 2pm tomorrow to see the place,tourBooking
+228,864,I can't afford that.i barely bring home 2400 a month,unknown
+229,1204,Can you send me the application,applicationProcess
+230,1060,Came Saturday be back on Monday,unknown
+231,1321,In unit W/D,laundry
+232,456,saturday works,tourBooking
+233,906,"Disculpe el precio que me enviaron que incluye, o hay que pagar el agua y otras cosas aparte",unknown
+234,352,"Hi, I'm looking for a 1 bedroom apartment on a 2 floor, I'll like to know the prices and availability.",unitAssignment
+235,762,What time?,unknown
+236,1401,"Hi Kelsey, yes I would like to schedule a virtual tour for a 1bed 1 bath",virtualTour
+237,1313,Can I have your address,community_address
+238,599,I won't be able to reach for tour,tourCancellation
+239,1048,what be the address,community_address
+240,518,Yes one for tomorrow at 2 o'clock,tourBooking
+241,25,Beautiful architecture inside,amenities
+242,1237,"Hi, are virtual tours available",virtualTour
+243,861,do -PRON- guy do in person tour,tourBooking
+244,560,where be the property locate again,community_address
+245,140,3-2 and April 24,unknown
+246,48,Liked “Yes the promotion is still on going.”,unknown
+247,1243,The deposit and the application fee,applicationFee
+248,65,1br for now an would upgrade to a two later,unitAssignment
+249,1216,OK can you please email me a application?,applicationProcess
+250,739,So I have a lease rn that ends in may,unknown
+251,842,"Does the community have air conditioning? If yes, what is the type of air conditioning?",airConditioner
+252,300,Sorry but I understood that the tour was canceled.,unknown
+253,1241,Do you have a move in special?,leasingOfficePromotion
+254,1086,Is there any rent for pets?,petRent
+255,1051,What is included with the rent ?,amenities
+256,81,Yes but not until late August. What was the price?,unitAssignment
+257,573,"Kelsey, thank you for reaching out. I am looking for properties that are accepting 3rd party assistance payments.",unitAssignment
+258,1307,How much are your 2/2 & 3/2,unitAssignment
+259,509,2bed 1 bath,unitAssignment
+260,448,monthly charges,unitAssignment
+261,537,Are you going to tell me who this is?,unknown
+262,1110,"Hello, I  stuck at a meeting. Do you have any availability over the weekend ?",tourBooking
+263,807,I'm looking to see if you have any 3 bedroom 2 bath or 2 bedroom 2 bath with a washer and dryer connection available for immediate move in. and how much would the total move in be if so.,unitAssignment
+264,532,Where you guys located,community_address
+265,154,do you have workout area,gym
+266,692,"I can come now, if you guys are ok",tourBooking
+267,680,pet?,pet
+268,920,"Yes I do like to have a tour
+But I am in Houstan only for today and Saturday, please let me know if you can show me the property. Thanks Raza",tourBooking
+269,388,do we have access to a gym,gym
+270,845,what kind of utility be include in -PRON- rent,utility
+271,233,Can I make an appointment,tourBooking
+272,196,Wrong direction,unknown
+273,1114,price per month,unitAssignment
+274,882,What sort of common areas does this community feature?,commonAreas
+275,1264,Yes! Do y'all have a website?,propertyWebsiteLink
+276,467,Yes if you have a 3/2 available downstairs now for rent.,unitAssignment
+277,722,"Sat Feb 27, 2-2:30 is good!",tourBooking
+278,653,"I'm in Florida , can We do a virtual tour? ",virtualTour
+279,261,A tour please,tourBooking
+280,404,I cannot..I work during those hrs..im off work at 830pm,tourBooking
+281,1404,Yes what time you close today,leasingOfficeHoursFriday
+282,152,Thanks. Sounds great,unknown
+283,561,"Yes please , I'm Interested  to  lease a apartment by April 1 , looking for a 2B apt",unitAssignment
+284,148,"Hi Kelsey, I submitted a request for a virtual tour of A2 floor plan on this weekend. Could you please help me confirm the request? Thank you so much",virtualTour
+285,249,No I'm thinking of moving in may or June,unknown
+286,779,I have a car hard to park,parking
+287,1399,Where are you located at,community_address
+288,899,No I get off at 5pm and I am 10min away.,unknown
+289,312,La ubicación,unknown
+290,975,Can you cancel my visit?,tourCancellation
+291,1259,Oh hello! I was wondering if you had in unit laundry or W/D hookup?,laundry
+292,1318,cancel the tour,tourCancellation
+293,134,are there workout facilities,gym
+294,395,Yes! Parking is free?,parking
+295,1007,unit 1 is good for me,unitAssignment
+296,13,is smoking allowed,smoking
+297,1271,Ok. And How much is pet rent,pet
+298,1189,how do i reach there,community_address
+299,260,1,unknown
+300,175,Can you send me virtual tour ?,virtualTour
+301,27,What is the income requirement?,incomeRequirement
+302,290,"Sorry, last question. What is the parking like for this building?",parking
+303,118,"Moving June 2022
+Budget $800-$1200 
+One occupant
+2 bedroom 1 or 2 bathrooms",unitAssignment
+304,15,I would like to schedule a tour,tourBooking
+305,1270,Are pets allowed? I have a cat.,pet
+306,280,Do you allow fogs?,pet
+307,37,"Hello Kelsey, I currently reside in NY. Do you do virtual tours?",virtualTour
+308,503,I am trying to come out to look at apartments in may. Definitely!,tourBooking
+309,162,3:00 PM,unknown
+310,78,Haven't had the tour yet,unknown
+311,156,What was the price again ?,unitAssignment
+312,682,How late are you open?,unknown
+313,56,What's included in rent?,utility
+314,220,How many charging ports are available,electricVehicleCharging
+315,335,Additional information please,unknown
+316,540,Do you work with misdemeanors?,misdemeanorPolicy
+317,707,What happens if I can't make the rent payment on time,rentLateFee
+318,342,"Hi! Are you available tomorrow, Saturday?",leasingOfficeHoursSaturday
+319,343,Do you have any one bedrooms available,unitAssignment
+320,743,Ok sounds good,unknown
+321,1280,"Hi Kelsey, I have a prior eviction from May of 2019; however I have rental history after that. Will that be a issue?",misdemeanorPolicy
+322,1391,Do you Have washer and dryer hook up?,laundry
+323,1004,be there hard income requirement,incomeRequirement
+324,493,Hi yes my husband and I are relocating from Michigan to Texas. What are the qualifications to apply for apartment,unknown
+325,409,Yes please give me a call,unknown
+326,646,Can you provide tour video of the property,virtualTour
+327,605,which location are you with?,community_address
+328,29,Ok thank you,unknown
+329,867,We we're heading from another place in Oakland,unknown
+330,195,"Do you have any current leasing specials, offers, or promotions?",leasingOfficePromotion
+331,417,i want to book a tour,tourBooking
+332,58,Do i need a guarantor?,leaseGaurantor
+333,111,be renter insurance require,renterInsurance
+334,1439,cancel the tour,tourCancelled
+335,791,Thank you! One more q would I be able to see a two bed room too and also what is the price diff,unitAssignment
+336,587,More information for right now please. If any move in special and total move in cost,moveInCost
+337,372,Can i pay early to skip late fees,rentLateFee
+338,85,"Hello, I have the tour schedule it for 2/9 at 6 pm",tourBooking
+339,986,On tomorrow morning,unknown
+340,1456,"Yes yes hello, how much is rent for a 2bed 1 bath",unitAssignment
+341,1115,My boyfriend is scheduled for a tour later today. His name is Jamen Suter-Donaldson!,tourBooking
+342,1072,I want to know if it has been approved,applicationProcess
+343,578,Please give me a call for questions. Thank You,unknown
+344,1352,"I have a voucher for housing do you accept 
+Positive Vibes Only ",leasingOfficePromotion
+345,1381,Also just to let you know i was convicted od a DUI felony back in 2014 will this be an issue,misdemeanorPolicy
+346,301,"Hi Ryan, I have a question. There are two prices listed on both apartments.com and the link in your email. What is the price for the studios ?",unitAssignment
+347,1044,Where can i walk to near the house,nearbyAttractions
+348,1293,Are there any move in specials going on at this time?,leasingOfficePromotion
+349,72,Where are you located?,community_address
+350,1118,Please describe the application process in detail. Be sure to include which documents are required for an application.,applicationProcess
+351,887,Yes,unknown
+352,285,"Please provide us the Name, Phone Number, and Email of your property leasing agent(s)?",leasingAgentContact
+353,169,do -PRON- come with onsite laundry,laundry
+354,324,Do u take second chance people,unknown
+355,987,A tour of that pussy,unknown
+356,80,"Hi yes I was wanting to more information about the unit. How much does a 2 bed cost, and what is the deposit and application fee ?",applicationFee
+357,1061,2bath 3bed is good for me,unitAssignment
+358,720,Is there any one time shifting charges,moveInCost
+359,1301,can it be virtually,virtualTour
+360,652,What is the deposit?,deposit
+361,955,Um sure for tomorrow I have a bunch of tours tomorrow so I can let you know that whenever I'm done with those thank you,tourBooking
+362,1169,can i come for tour,tourBooking
+363,943,"Hi. I have not seen another place yet, but my husband said I should hold on, the place is too far to his office. Thanks",unknown
+364,282,Do you have other Apts available at that price?,moveInCost
+365,471,"On the website it said a live video tour was an option, not just a  recorded video",tourOptions
+366,825,Also just to let you know i was convicted od a DUI felony back in 2014 will this be an issue,misdemeanorPolicy
+367,742,What is monthly rent ?,unitAssignment
+368,597,I understand thank you. Can I come in this Friday at 4pm?,tourBooking
+369,1286,"Hi yes! 
+ So I'm currently in Alabama and planning to move there sometime in June. 
+ Is there a way I can set up a virtual tour or get a video of the 3bedroom unit.",virtualTour
+370,889,yeah sure,unknown
+371,759,Ok no problem I left a voicemail   So hopefully they get back to me this week,unknown
+372,143,(To apply as a tenant),applicationProcess
+373,782,Thank you for reaching out! Yeah I was able to talk to someone earlier.... I will be there 😬,tourBooking
+374,529,Oh ok yes I don't have any pets at the moment only one occupant,unknown
+375,1154,"My budget would be $900, move in date would be April 15th, 1 occupant",unitAssignment
+376,487,Stop,unknown
+377,1310,I was wondering how much are y'all studios,unitAssignment
+378,1053,or actually the weekend of the 19th/20th would be better,tourBooking
+379,644,"Yes, I would like to schedule a tour",tourBooking
+380,572,Ok sounds good thanks. And is there any security deposit discount available?,deposit
+381,89,Do you allow domestic animals,pet
+382,744,how much and when can i move in,unitAssignment
+383,439,be park extra,parking
+384,259,Can you share property website link,propertyWebsiteLink
+385,977,Can you provide me an online tour?,virtualTour
+386,751,I want to cancel the tour,tourCancellation
+387,299,Sunday would work too :),tourBooking
+388,683,Do you allow lease guarantors?,leaseGaurantor
+389,1428,I'm looking for something more of $2200 or less,wantsLessExpensiveUnit
+390,516,I meant today at 2:45.,unknown
+391,924,Can you show me the property on a video call,virtualTour
+392,1105,Had to do something for my job !,unknown
+393,1140,I'd love to set up a time to go look at this property,tourBooking
+394,666,I am looking for two bedrooms and two bathrooms,unitAssignment
+395,527,"Is electricity, water, heating, trash, internet, gas included",utility
+396,758,0-bcce-26e6dd5fb92e&bsft_pid=fce702a5-625b-4905-84b9-ff13b512ee06&utm_campaign=1-week-reminder-for-viewed-in-last-day&utm_source=blueshift&utm_medium=email&bsft,unknown
+397,333,what is included in the common area,commonAreas
+398,1285,My first question would be. Do you accept applicants with broken lease?,evictionPolicy
+399,102,I am looking for 3 bedroom,unitAssignment
+400,539,12,unknown
+401,526,When can I come see the apartments and I wanted to inquire if you might have a 3 bedroom available,unitAssignment
+402,433,12:00 PM,unknown
+403,967,Additional info.,unknown
+404,1165,when do -PRON- have the place for rent and how much be -PRON-,unitAssignment
+405,1438,I want to cancel,tourCancelled
+406,1309,I would like to know how much is a 2b 2b?,unitAssignment
+407,1187,can i come for tour?,tourBooking
+408,724,Do you have a video tour i can see,virtualTour
+409,1222,"Yes , what does it take to get in ? Money wise I mean",moveInCost
+410,294,How many,total_units
+411,959,Yes,unknown
+412,461,"If this is a robot, 2 bedroom 1 bath april 26th 2022",unitAssignment
+413,242,I was hoping to take a look today. Is that possible?,tourBooking
+414,919,"Are pets allowed
+",pet
+415,1373,How much 1 bed,unitAssignment
+416,1095,1 bedroom next month,unitAssignment
+417,544,Yes that's fine.. February! 1 bed/ 1bath. No children nor pets.,unknown
+418,1173,what be -PRON- income requirement,incomeRequirement
+419,1057,Do you accept applicants with felonies on their record?,feloniesPolicy
+420,38,Hey! Thanks for reaching out. I won't be able to until next week,unknown
+421,393,Just need to know prices for now,unitAssignment
+422,1225,Do I need to make a deposit?,deposit
+423,821,"If yes, how much is rent ? ",unitAssignment
+424,533,Yeah can I schedule a tour please,tourBooking
+425,1202,I'm wondering the prices for a efficiency or 1 bedroom,unitAssignment
+426,1033,Can i have cigarettes in building,smoking
+427,1226,"I am not in Houston, TX so virtual tour is better for me",virtualTour
+428,886,"I'm looking for a 2BR, 2BA. Is there any available now?",unitAssignment
+429,513,I'm looking to move in ASAP just needed to know like total move in price that I'll be looking at,moveInCost
+430,1020,"Hi Ryan, thanks for reaching out.  I would like to schedule a tour. Any chance that tomorrow morning would work?",tourBooking
+431,819,what cool amenity do -PRON- have,amenities
+432,748,Can we do a tour Tuesday?,tourBooking
+433,1111,Yes about your rent special,unknown
+434,860,Ok just making sure cause I planned on paying online! An 3x the rent so that should be like 3000 a month then?,unknown
+435,799,Start an app and I'm waiting for an approval response.,applicationProcess
+436,470,"Perfect, thank you! ",unknown
+437,833,Do you have any available?,unitAssignment
+438,929,how much per month,unitAssignment
+439,147,No washer and dryer connection.,laundry
+440,1200,"Hi. Yeah, I just moved to Houston from California a few months ago. I'm just looking for a decent place I can afford on my own. I'm a student, so I'm finding out that it's difficult to study with roommates constantly making lots of noise. What is the lowest rental at Chestnut Hill?",unitAssignment
+441,241,be there any application fee,applicationFee
+442,375,I am looking for 2 bedrooms and will move by april 9,unitAssignment
+443,190,Everything was wonderful!  What's my next step?  ,unknown
+444,327,I am looking to move mid-may,unitAssignment
+445,1348,"Okay, when will my application be reviewed",applicationProcess
+446,1191,Today would be great for 11am,tourBooking
+447,1149,The 6th would be perfect,unknown
+448,511,Is subleasing allowed?,sublease
+449,254,Hopefully I can remove they are in all your units,unknown
+450,709,Is the electric included,unknown
+451,538,can i bring in a dog,pet
+452,336,what is the rent??,unitAssignment
+453,508,what be full cost of move in,moveInCost
+454,553,Do you have a parking area?,parking
+455,757,Ok I will be willing to take a tour on Monday morning I will message tomorrow,tourBooking
+456,499,what's the rent control policy?,rentIncrementPolicy
+457,203,Im looking to move in on the 1st,unitAssignment
+458,1230,Is there a way I can just fill out an online application,applicationProcess
+459,995,how many pet can i have,pet
+460,785,can I come this monday?,tourBooking
+461,1137,Then with all the other money I get and help from my dad I'll be able to afford everything :),unknown
+462,348,Ah. Thank you for reaching out. So I'm currently not based in SF and will be relocating next month. I have a colleague of mine who will check the apartment out on my behalf,tourBooking
+463,341,Does this community feature a jacuzzi,hotTub
+464,1088,Yes that does! What is the pet policy in place at your apartment?,pet
+465,207,"would we be able to come tonight, around 5pm?",tourBooking
+466,875,Do you accept Section 8?,section8
+467,568,yes,unknown
+468,248,On Wednesday,tourBooking
+469,1026,I'm sorry imma try in come in today ,unknown
+470,700,Unit options,unitAssignment
+471,872,Do you have ceiling fans?,ceilingFans
+472,414,What is the actual price monthly for the studio?,unitAssignment
+473,484,Si,unknown
+474,136,"I work for Ambit Energy and wanted to let you know about our customer referral program. Each resident you send to me that signs up for electricity service, our team can pay you $50 for each one!",unknown
+475,849,If that's possible ,unknown
+476,1372,What is the price for a two bed room apartment?,unitAssignment
+477,1355,It will be me and my 3 kids which are all under 8 years old. I make around $5200 per month but looking for something around or under 1200 a month.,unitAssignment
+478,898,"Ok, I can be there 4-4:15. Ok for you? Parking?",parking
+479,0,5/14/2022 . & 2 beds,unitAssignment
+480,892,what length of lease do -PRON- guy have,leasePeriod
+481,396,I will let you know by the end of next week!,unknown
+482,765,I thought y'all had other properties like you guys were connected?,unknown
+483,292,I'm looking for 1 bed and 1 bath,unitAssignment
+484,1049,Sure but you know we are moving in may at most,unknown
+485,1150,Yo aplique ayer?,unknown
+486,1354,What does the apartment include?,amenities
+487,851,How much does utility cost by month,utilityBilling
+488,1002,Would like a tour yes,tourBooking
+489,689,Muchas gracias feliz tarde amigo !!,unknown
+490,761,Are people with a broken lease history allowed,evictionPolicy
+491,794,"Hi, sorry for the late response. I just seem that I'm not qualified, because my income is not enough.",unitAssignment
+492,459,Do you have pool?,pool
+493,978,Let go with Thursday at 6,tourBooking
+494,362,Do you have a guest policy?,guestPolicy
+495,1412,Do you have something cheaper unit,wantsLessExpensiveUnit
+496,444,Maybe before that,unknown
+497,1389,How much is the deposit again miss,deposit
+498,383,I have no pets my income is like 2500 I believe and 5 occuppants,unknown
+499,554,What time? When?,unknown
+500,756,I'm sorry I don't have any pets. ,pet
+501,30,do you allow cats,pet
+502,582,Total Units in Building,total_units
+503,1050,Anytime tomorrow is fine,tourBooking
+504,86,Just want to follow up if he is waiitng for me,unknown
+505,199,can i come for tour?,tourBooking
+506,1282,Is that close to Sugarland?,nearbyAttractions
+507,337,What is the pet pololicy,pet
+508,989,2 bedrooms and I'm looking to move April 9,unitAssignment
+509,963,2 bedrooms are $850,unitAssignment
+510,607,Additional information,unknown
+511,783,"3b-2b, & sometime in may",tourBooking
+512,255,I just want to know if I can park in that space while waiting for my apt,parking
+513,1134,We are looking for a 3 bedroom and 2 bathrooms and want to move by June or July.,unitAssignment
+514,473,hear*,unknown
+515,287,What lease length options are offered? (please specify),leasePeriod
+516,1450,"I am not interested, thank you",notInterested
+517,127,I need to reschedule OR I need to change my time,rescheduleTour
+518,1000,be there any condition because of which -PRON- will with hold the deposit,withholdDeposit
+519,1071,You have any available now,unknown
+520,108,"Hi Kelsey, that was a while ago, I already found a place, thanks though!",unknown
+521,1209,What info do I need to fill out application for 1bedroom,applicationProcess
+522,366,What type of tour options do you provide?,tourOptions
+523,252,Will do.  Thanks!,unknown
+524,55,i was also seeing if water/ electricity are included,utility
+525,1333,Would it be possible to come see it tomorrow and  possibly apply?,applicationProcess
+526,353,"Is there a guest policy? Please describe. Additionally, if you have a guest policy posted online, please paste the link here.",guestPolicy
+527,1161,Thank you so much,unknown
+528,629,Do you have any availability on Sunday?,leaseGaurantor
+529,571,Does the property offer a private bathroom and bedroom ?,amenities
+530,937,under what condition will -PRON- with hold the deposit,withholdDeposit
+531,962,2,unknown
+532,1323,I need to know what your move in requirements  are.,applicationProcess
+533,521,What are the amenities? Is there a washer dryer in unit?,amenities
+534,321,I have a application I will bring it tomorrow at 12:00,applicationProcess
+535,1235,I do also have a dog who is an Australian shepherd. He is 45 lbs so I wanted to check if he was too big to be allowed,pet
+536,865,Yeah I have a felony of 8 years back agg robbery in was wondering if this could stop me from moving into your establishment,misdemeanorPolicy
+537,854,"1 is fine. I'll rearrange some things, thanks!",tourBooking
+538,884,"Yes, please tomorrow 3pm is good for me",tourBooking
+539,124,Hi! Yes pets are allowed,pet
+540,1197,"Hi, I will not be able to arrive at the agreed time. I'm in a meeting and I don't know what time it ends.",unknown
+541,1126,Is the apartment furnished?,furnishedUnit
+542,8,how long of lease do -PRON- offer,leasePeriod
+543,172,I'm not looking for a rental anymore. Please close this out. Thanks!,unknown
+544,1083,How much for a one bedroom?,unitAssignment
+545,1414,Need some cheaper,wantsLessExpensiveUnit
+546,346,monthly cost for the place,unitAssignment
+547,695,Ya que no hay forma de comunicarme cn ustedes y no estoy recibiendo la respuesta que espero,unknown
+548,369,600-800 move in date April 5 1 and 1 pet,unitAssignment
+549,238,Or 6 month lease,leasePeriod
+550,235,How much is the rent?,unitAssignment
+551,893,are the units Furnished in the building,furnishedUnit
+552,311,how much be the rent,unitAssignment
+553,68,"Yes,A 1BdrmOr Studio, However, Do You Accept Section 8?&Is It Possible To Prorate The Security Deposit In Addition To Rent Payment Until The Security Deposit Amount Is Paid In Full? Also How Is Rent For Apts There,& Security Deposit?",section8
+554,1334,Price for 1bedroom,unitAssignment
+555,1236,Based on my travel (driving from Alaska) and schedule it is nearly impossible to do most of this in person.,virtualTour
+556,1420,I want to reschedule my tour,tourReschedule
+557,536,Hi Ryan! Thanks for a prompt repsonse. I would like to schedule a tour. Do you have any availability on the upcoming friday?,tourBooking
+558,1158,im looking for 1 bed and 1 bath,unitAssignment
+559,240,"Are furnished units available? If yes, what furnishings are included?",furnishedUnit
+560,1206,hello your location is in dallas tx?,community_address
+561,817,Im looking for 1 bed and 1 bath,unitAssignment
+562,212,do you have 2 bedroom avablity,unitAssignment
+563,777,???,unknown
+564,194,Got a bridge between please don't give up on me I will be pulling out the application today thank you so much for continue to check on me I would like to try to get approved and moved in maybe the 30th or 31st,unknown
+565,11,To send a rental verification,applicationProcess
+566,949,Hi there! Waiting to hear back from my friend regards getting a place. I was actually helping her to find one. Let you know. Thank you!,unknown
+567,403,I'll keep looking thanks so much,unknown
+568,1289,"Hi. Yeah, I just moved to Houston from California a few months ago. I'm just looking for a decent place I can afford on my own. I'm a student, so I'm finding out that it's difficult to study with roommates constantly making lots of noise. What is the lowest rental at Chestnut Hill?",unitAssignment
+569,178,Townhome ?,unknown
+570,970,Tienen apartamentos disponibles de 2 recámaras,unknown
+571,492,Yes I would. I think I did a virtual tour,virtualTour
+572,770,Thank u I have my appt with him tomarrow I hope he gets the voicemail I cant get there until 3 30 instead of noon time thanks again,tourBooking
+573,810,"I'm sorry,looking for all bills paid for now thanks for your help ",utilityBilling
+574,442,Do you have a pet deposit/rent?,petRent
+575,157,when can i come to see the place,tourBooking
+576,1234,Do you take section 8 vouchers,section8
+577,798,Cool,unknown
+578,1103,I'm trying but I cannt log in,unknown
+579,815,Do you have swimming pool?,pool
+580,1415,Do you have anything else,wantsLessExpensiveUnit
+581,188,It's going to cost me a lot to get out of my apt in south baby,moveInCost
+582,786,Yes I would love to.,unknown
+583,1451,Hello I'm not interested in the apartment I've already found one and actually the one I wanted I greatly appreciate you reaching out have a nice day 😊,notInterested
+584,146,2 beds on or before 03/31,unknown
+585,622,is there any restriction on pets,pet
+586,357,I'll see if I can go tomorrow aftrr work ,tourBooking
+587,164,"Thank you, you too! ",unknown
+588,1208,Yes what's the address,community_address
+589,1109,"I donnt need the tour any way, can I apply for the apartment",unitAssignment
+590,1238,what's your parking policy,parking
+591,704,I will be there,unknown
+592,883,Is there any outer space,outerSpace
+593,1394,Do you have a move in special ?,leasingOfficePromotion
+594,1363,Yes do this unit have any garage,amenities
+595,740,how about a gym,gym
+596,939,yes thatll work,unknown
+597,725,"Are there parks, restaurants, clubs in the neighborhood",nearbyAttractions
+598,1265,"Hi, we are interested in a 3 bedroom apt downstairs. Can you tell me a bit more on what the deposit is and what are the fees?",deposit
+599,389,can i book a tour with -PRON-,tourBooking
+600,76,"I am still looking, what are the prices for 2 and 3 bedrooms?",unitAssignment
+601,806,I want to cancel my tour,tourCancellation
+602,546,"Take me off your 
+Contact list",unknown
+603,16,Yes that's fine.. February! 1 bed/ 1bath. No children nor pets.,unitAssignment
+604,660,"Is there a fitness facility? If yes, what equipment is available?",gym
+605,684,Do I need to have a good credit history?,creditScore
+606,1022,What is the minimum income requirement,incomeRequirement
+607,1029,Yes and the deposit and fees you will need to pay before moving in,moveInCost
+608,1157,I would love to schedule a tour. What time would be best?,tourBooking
+609,6,I did a tour yesterday already.  I will reach out to the leasing office then for further info. thanks,unknown
+610,1335,What all comes with it ?,amenities
+611,139,how do i get there,community_address
+612,385,Because the other units are in soma area,nearbyAttractions
+613,1125,Does your community provide accomodations for the handicapped? Please describe ADA,handicapPolicy
+614,908,"Yes, I was wondering what are you guys 2 bed rooms releasing for ?",unitAssignment
+615,1440,Hello. This is Woohyun. I think I'm going to have to cancel this appointment because I decided to go somewhere else this morning. I'm very sorry.,tourCancelled
+616,1324,I'm sorry where is this property located?,community_address
+617,441,Okay an whats the difference between the one thats $720 & the $908,unitAssignment
+618,994,"Hi Ryan, I'd be interested to get a virtual tour if possible first and more details about building before coming in for a tour",virtualTour
+619,1360,I'm not able to come to houston but I would love to know if y'all go short term leases. I am only staying in town for the summer,leasePeriod
+620,626,"Yes j wanted to see pics of the 2 and 3 bedroom,",unitAssignment
+621,507,unit 2 is good for me,unitAssignment
+622,1255,Do you offer virtual tours as I am moving from out of state and cannot come visit in person as of this point in time,virtualTour
+623,584,do i need good credit,incomeRequirement
+624,490,hey,unknown
+625,703,Yes I was wondering how's the parking like,parking
+626,128,1 bedroom is fine however if two bedrooms 2 bath are available I want to look at those as well and by april8th if that's too soon then by the end of April no later than,unitAssignment
+627,125,One bed for now. Move in date may or June,unitAssignment
+628,658,3bed 2bath its looking good for me,unitAssignment
+629,430,Do you offer virtual tours,virtualTour
+630,1436,"Actually,  I would like to cancel the tour, thank you. ",tourCancelled
+631,1139,9 am works for me,tourBooking
+632,1040,be there a four wheeler parking,parking
+633,1056,Can you call me tomorrow,unknown
+634,73,"i can't call right now, but the best day for me to schedule a tour would be monday march 1st. or a virtual tour",virtualTour
+635,772,Let me get back to you on that!,unknown
+636,714,Hello 2300 is to much for me thank you though I am willing to go 2000 if you find anything,unitAssignment
+637,1104,What is your eviction policy?,evictionPolicy
+638,848,what utility be offer in rent,utility
+639,717,"I will, thank you!",unknown
+640,925,"Hello, currently not at this time but I will be looking very soon. Thank you very much !",unknown
+641,63,What furniture is included,furnishedUnit
+642,897,I want to stop by today,tourBooking
+643,1244,How much is your one bed,unitAssignment
+644,222,i want to schedule a tour,tourBooking
+645,1369,what's the application fee and admin fee,applicationFee
+646,267,I'm looking for a 1 bed 1 bath apartment for the start of may,unitAssignment
+647,1396,I'm looking to move in ASAP just needed to know like total move in price that I'll be looking at,moveInCost
+648,1269,I would like to know additional information. I am looking to move in June 1st (or the first week of June). I would like to schedule a video tour if that is possible.,virtualTour
+649,100,Do y'all do virtual tours? ,virtualTour
+650,1248,How much is the deposit,deposit
+651,816,Ok,unknown
+652,59,Are there 1 bedrooms,unitAssignment
+653,1052,Is the property in HISD?,community_address
+654,350,What are the parking options at the community?,parking
+655,1224,Is the application fee refundable,applicationFee
+656,349,I can come then,unknown
+657,1038,"Hi! I would like to prematurely schedule a virtual tour. I'm living in Covington, Kentucky right now but have job prospects in San Francisco.",virtualTour
+658,61,What places are accessible around the property,nearbyAttractions
+659,524,How do i get to the lease office,leaseOfficeDirection
+660,179,What is the address of the leasing office?,leaseOfficeDirection
+661,425,What is the address of the community?,community_address
+662,428,Hola,unknown
+663,113,There's was no price on these two what are the prices,unitAssignment
+664,1063,Whats app fee and deposit,applicationFee
+665,228,I dont recall asking about an apartment,unknown
+666,224,Im out of town working but im relocating in Houston an im looking for an nice quiet area. I would like to know the pricings for 1 bedroom & if they were updated,unitAssignment
+667,687,second looks fine to me,unitAssignment
+668,850,Show much is move in?,unknown
+669,313,I'm looking for 1 or 2 bed apartment,unitAssignment
+670,1452,I'm not interested. Thank you. ,notInterested
+671,654,"Great, when can we set one up? And can you tell me a little more about the units you have available please and the application process?",applicationProcess
+672,452,Been working with John and Gustavo,unknown
+673,818,Is there a central Air conditioners in the community?,airConditioner
+674,115,I'd love to come take a look at the property today what time you'll be in till,tourBooking
+675,1025,On 1st floor,unknown
+676,1341,Can you send me the address,community_address
+677,411,How often will rent be increased?,rentIncrementPolicy
+678,475,Okay sounds good,unknown
+679,1327,I am going to be moving to the area within the next month I would like to see what is you guys price range,unitAssignment
+680,903,What's the rent increment policy,rentIncrementPolicy
+681,392,Ok,unknown
+682,1148,Any openings for July as for a move in date ? If so we'd be more then happy to apply for the 1bed,unitAssignment
+683,576,do -PRON- require renter insurance,renterInsurance
+684,1217,OK thanks what is your website,propertyWebsiteLink
+685,1223,Is there a move in deposit fee,deposit
+686,253,I got a quote already,unknown
+687,713,Do yall have any move in specials,unknown
+688,93,Where are you located at,community_address
+689,1100,"Hey Ryan! I hope you are as well! 
+Yes I'd like to schedule a tour. I was wondering also the availability of a 3 bed room - is that something you have?",tourBooking
+690,230,I'm sorry I'm going to look at the list again and let you know which one I decide to tour.,tourBooking
+691,1155,Yes I was inquiring about your 2 bedrooms how much are they ? & is there any available,unitAssignment
+692,1252,Hi do you guys have any move in specials at the moment,leasingOfficePromotion
+693,596,be sublease allow,sublease
+694,406,Hey im interested  in the property,tourBooking
+695,940,And is it refundable if not approved? Or applied to rent if approved. Any move in specials?,unknown
+696,291,can i come for a tour,tourBooking
+697,1256,The email I have says $45 app fee and $100 admin fee? Which is it?,applicationFee
+698,1326,Yes prices and any move in ready 3+ available by the 1st,unitAssignment
+699,219,okay thanks,unknown
+700,1015,Yes. I got one.Thanks.,unknown
+701,1253,"Hello I was wondering, how much is the rent there? For two bedrooms",unitAssignment
+702,1376,Yes so I’m looking to possibly relocate however I’m wanting to know about the move in special you guys have I currently live in Monroe Louisiana,leasingOfficePromotion
+703,1192,Ok how about the one bedroom prices,unitAssignment
+704,367,What holidays do you observe during which your leasing offices will be closed or have special hours?,leasingOfficeHolidays
+705,1064,tell price,unitAssignment
+706,1054,"Thank so much,I'm available Tuesday at 6:45pm",tourBooking
+707,26,Someone already reached out to me about that place from sf rent,unknown
+708,1408,"Hi Kelsey, I submitted a request for a virtual tour of A2 floor plan on this weekend. Could you please help me confirm the request? Thank you so much",virtualTour
+709,1437,"Hi, good morning I have to cancel the tour  y let you know on these week what day I can go sorry.",tourCancelled
+710,804,do you have 2x1 bedroom avablity,unitAssignment
+711,1093,Does the AC reach every room,airConditioner
+712,272,Hello I'm looking at your website and it's not showing any 2/2 for may or price's how much are your 2/2 and when will it be available?,unitAssignment
+713,1403,How much are your 1 bed rooms going for,unitAssignment
+714,223,Thursday 6 is good 👍,unknown
+715,1177,how many parking spot do -PRON- come with,parking
+716,485,The day is fine for me can we schedule the tour and you can help me to fill up the application I try to but I am missing some spots,tourBooking
+717,1166,Do you have any times on Friday?,tourBooking
+718,1130,how much do -PRON- cost to apply,applicationFee
+719,826,How many pets are allowed,pet
+720,421,Or 2bed/1bath is ok as well,unitAssignment
+721,528,What is the rent for the 1 bedroom and location?,unitAssignment
+722,141,can i lease on a month to month basis,leasePeriod
+723,665,Parking,parking
+724,1435,I have to cancel my family needs me today,tourCancelled
+725,1291,what utilities if any are included in the rent?,utility
+726,407,"Thank you, when we get to the place will this person be there?",unknown
+727,514,What is your rent payment policy?,rentPaymentPolicy
+728,1365,yes do this unit have any garage,amenities
+729,1120,be there a gym available,gym
+730,1152,2 bed 2 bath looking good for me,unitAssignment
+731,981,hi,unknown
+732,189,what be -PRON- condition to withhold the deposit,withholdDeposit
+733,221,What is the walk score,nearbyAttractions
+734,853,No 2 bedroom?,unitAssignment
+735,1220,"Hey Kelsey, Can You Tell Me What's The Process With Leasing ?",applicationProcess
+736,486,Do you guys have a website?,propertyWebsiteLink
+737,673,Is credit check required,creditScore
+738,732,No not moving now. Lost job. But thank you for checking.,unknown
+739,1247,I currently stay in Irving but I am relocating down to that area. Would credit or background be an issue?,creditScore
+740,932,Is it going to cost extra for pets,petRent
+741,778,can -PRON- tell -PRON- more about the gym in premise,gym
+742,696,could you send me the rent cost?,unitAssignment
+743,1330,Is there a virtual tour possibility.,virtualTour
+744,316,How do i measure a good credit record,creditScore
+745,273,I want to know more the unit?,unitAssignment
+746,964,how much be -PRON- to apply,applicationFee
+747,728,"Ryan , Thank you for showing the room for me ...I will call again soon  ...",unknown
+748,483,No answer,unknown
+749,464,do you have health club,gym
+750,1331,Is there a website for this location I can check out pictures ?,propertyWebsite
+751,640,What is leasing office direction,leaseOfficeDirection
+752,317,I can't make my tour OR I need to cancel OR I won't be able to make it OR Please cancel my tour OR I can't make my tour,tourCancellation
+753,1304,What does your credit score have to be?,creditScore
+754,4,I will get in touch with you next week.,unknown
+755,205,I want the space,parking
+756,1131,Hey Kelsey Good Morning this is Covia so just wondering how much is your application fee?,applicationFee
+757,98,what be the total move in cost,moveInCost
+758,1374,The deposit and the application fee,applicationFee
+759,1123,What is the property website,propertyWebsiteLink
+760,549,We are flexible. But looking for a 2-3 bedroom place.,unitAssignment
+761,374,is there wheelchair access?,handicapPolicy
+762,450,How much is the deposit again miss,deposit
+763,1147,Yes,unknown
+764,482,uinit 1 looks for good for me,unitAssignment
+765,656,What tour types do you offer?,tourOptions
+766,515,Are there any extra utility charges,utilityBilling
+767,808,Where is the property,community_address
+768,1045,Yes! A tour would be great. Do you have any availabilities  the week of April 5-11?,tourBooking
+769,862,"I know lower nob hill is a little pricier, but I would be okay with a studio within that price range there. Do you have any listings there?",unitAssignment
+770,1167,2 Bed 2 Bath Preferably April 6th,unitAssignment
+771,881,do you have gymnasium,gym
+772,1107,"And is this promotion still valid
+
+I sent you an email about it . : $ 2500 REIMBURSEMENT FOR MOVE IN / FURNITURE COST AND NO APPLICATION FEE
+Exclusions may",unitAssignment
+773,1219,What is the website,propertyWebsiteLink
+774,1344,What is the starting rate for deposit??,deposit
+775,1021,Do the apartments have ceiling fans?,ceilingFans
+776,1336,Can it be earlier,rescheduleTour
+777,22,Yes i would love to schedule a tour,tourBooking
+778,202,Does this community feature air conditioning?,airConditioner
+779,60,I'm sorry. I was working. ,unknown
+780,957,Do you have any specials,leasingOfficePromotion
+781,1340,Is it possible to do a virtual tour? I am currently in Chicago and won't be in Texas until the moving in date,virtualTour
+782,1058,We are applying now,unknown
+783,64,can you prvide tomorrow's slot for visit?,tourBooking
+784,122,Are all bills paid,unknown
+785,620,Hey yes,unknown
+786,712,I am looking for 2 beds and 2 baths,unitAssignment
+787,968,reschedule my tour,rescheduleTour
+788,836,be park available,parking
+789,857,Yes I am looking for a 2 bd,unitAssignment
+790,769,I'm available today or Friday afternoon or any time next weekend,tourBooking
+791,1128,"Hi Ryan , what is the price on this place?",unitAssignment
+792,176,jdfbdkjdk,unknown
+793,976,Yes the 1bed 1bath is perfect and do u have any openings next week/weekend,unitAssignment
+794,66,what be the rent,unitAssignment
+795,391,What is the name of the apartment?,community_name
+796,1212,Application please,applicationProcess
+797,589,How much are your 1 bed rooms going for,unitAssignment
+798,174,"Are lease guarantors allowed? If yes, what are your policies/requirements for lease guarantors?",leaseGaurantor
+799,303,"Hi, my job temporarily shut down till Tuesday for some maintenance, any availability for a tour before then starting tomorrow ?",tourBooking
+800,1424,I won't be able to reach for tour,tourCancelled
+801,1085,Let me check it out and I'll let you know,unknown
+802,1292,Do you accept HUD Housing Vocher,section8
+803,217,Just making sure that the property is $1425 a month?,unitAssignment
+804,866,One bedroom 1 bath. May 6,unitAssignment
+805,1003,Price on the two bedroom ?,unitAssignment
+806,639,"We can do tomorrow 5:30-6:30. Sorry I keep missing your calls. I'm at work. Should I text, call or just show up at that time?",tourBooking
+807,1180,The payment for parking is separate?,unitAssignment
+808,150,I can't tomorrow I was wondering if you have any available for next Friday,tourBooking
+809,767,Yes ma'am I wanted price and information on a 22 or 21 available May 1 deposit application fees and requirements to get into apartment thank you so much,unitAssignment
+810,678,Thanks so much,unknown
+811,691,What is your website,propertyWebsiteLink
+812,101,Saturday 10:00am,unknown
+813,517,"Hi Kelsey, I called you a few minutes ago, and we agreed to call again on 29th of march",unknown
+814,289,sorry but is this studio for 3 people?,unitAssignment
+815,1433,Sorry for the inconvenience you can cancel my appointment for Monday I came by there Friday afternoon. The street in front of the apartments stay busy,tourCancelled
+816,914,"Hi Ryan, to thanks for texting me. Yeah, I'd like to schedule a tour and see the place, I'm available on weekends. Let me know a good time for you.",tourBooking
+817,902,We have selected another property thank you for your time,unknown
+818,279,I would like to!,unknown
+819,1135,could i schedule a viewing,tourBooking
+820,1145,do be have in unit laundry,laundry
+821,1257,Hi! Is a zoom tour available?,virtualTour
+822,138,Under what circumstances will a tenant's deposit be held at termination of tenancy?,withholdDeposit
+823,458,I'm getting ready to go back into work now I would like to talk to you at some point,tourBooking
+824,1260,Yes. Do you offer virtual tours?,virtualTour
+825,276,Do you have one bedroom apartment available,unitAssignment
+826,543,Let me get back to you. Ur address is not directly on public transportation. So am i trying to find something on it.,unknown
+827,951,"Hello I was wondering, how much is the rent there? For two bedrooms ",unitAssignment
+828,971,I will want to move ASAP,unitAssignment
+829,9,Says street parking only,parking
+830,278,"Yes, I would like to schedule a tour",tourBooking
+831,1146,Do you have studio or any 1 bedroom apartments available anywhere else in the city? Like the mission or elsewhere?,nearbyAttractions
+832,322,I can do a virtual tour if available as I am moving from California and will be in Houston Wednesday March 30th. Will you have a 2bed/2bath available?,unitAssignment
+833,330,can i smoke,smoking
+834,42,Hey does Saturday still work?,tourBooking
+835,245,Yes I would like a tour.,tourBooking
+836,99,Will do!,unknown
+837,1346,Hi I completed my application,applicationProcess
+838,1342,"I'm not there yet
+I have a black lab 
+Dogs ok?",pet
+839,258,thank you,unknown
+840,1364,yes do this unit have any garage,amenities
+841,315,be subleasing allow,sublease
+842,1358,Okay do you guys have any credit requirements,creditScore
+843,1151,"Do you accept applicants with misdemeanors on their record? If there are any details regarding felonies/misdemeanors, please add them here.",misdemeanorPolicy
+844,1375,How much is your one bed,unitAssignment
+845,161,Do i have to have a job,incomeRequirement
+846,734,1 or 2 bedroom,unitAssignment
+847,1388,"Goodmorning, Yes I would love a tour but I'm moving from Norfolk va to Houston is their any way possible that I could do a virtual tour?",virtualTour
+848,226,be renter 's insurance require,renterInsurance
+849,846,I was looking for a all bills paid apartment but it really didn't say if it is or not,unknown
+850,1454,I was interested in the $2119 apartment,wantsLessExpensiveUnit
+851,1181,do you have 2/1 availability,unitAssignment
+852,1010,1bedroom,unitAssignment
+853,1445,"Yes, that will work. If I have to reschedule, I will let you know (must check with my sitter, but there's usually no issue). Thank you! Btw, my legal name is Candace Abigail Smith, if you want that for your records.",tourReschedule
+854,399,"Hello! I work until 5, but I'm off Wednesday at 1. Any availability Wednesday afternoon?",unitAssignment
+855,895,"Oh, okay",unknown
+856,453,"Thank you so much
+Good night ",unknown
+857,1419,I want to know more the unit?,wantsLessExpensiveUnit
+858,479,do -PRON- allow pet in the apartment,pet
+859,625,What is the link to the community's website?,propertyWebsiteLink
+860,830,I will like to,unknown
+861,950,"Hi, I believe I already sent in my application and was told it is being processed",applicationProcess
+862,1214,How much for I bed room 1bath,unitAssignment
+863,356,What is the minimum credit score requirement?,creditScore
+864,960,Y cuanto debo pagar d renta?,unknown
+865,647,what type of lease do -PRON- offer,leasePeriod
+866,1233,do you have a pool,pool
+867,591,what is your  misdemeanor policy,misdemeanorPolicy
+868,1418,Shell I have few more option to select,wantsLessExpensiveUnit
+869,1447,"Hi Kelsey, I'm sorry but I am not interested anymore thank you",notInterested
+870,262,tell rent,unitAssignment
+871,1273,Do you have virtual tours,virtualTour
+872,840,what be the rent and when can i move,unitAssignment
+873,355,Good morning. Yes I am still interested,unknown
+874,145,"Obviously you didn't list any for Monday, but in case anything opens up please feel free to notify me",unitAssignment
+875,675,Can I come tommorow around 1030 please,tourBooking
+876,974,Is there anyway to see the property without visiting it,virtualTour
+877,478,Prices,unitAssignment
+878,1196,Really a studio  or 1 bed,amenities
+879,747,Do you have a swimming pool,pool
+880,1082,"Hi Divyai, this is Kelsey. I'm following up since you recently inquired about Cantera. Do you have any questions or can I assist you with scheduling a tour?",tourBooking
+881,870,Yes ma'am would Friday at 3 work ?do y'all have a washer and dryer included!,utility
+882,512,"budget would be 1400h or $1500, move in date is 04/28/22, number of occupants is 3 an adult and 2 babies, and I need 3 bedrooms and 2 baths",unitAssignment
+883,1305,Is this a virtual tour ?,virtualTour
+884,90,I want to but I have an eviction and I was told I can't apply or I will be denied,evictionPolicy
+885,1042,Okay sure a virtual tour,virtualTour
+886,10,Can i throw dinners or parties,guestPolicy
+887,811,Do you allow dogs?,pet
+888,420,do -PRON- need renter insurance,renterInsurance
+889,873,what all things are there in outer space,outerSpace
+890,1074,Removed a question mark from “I've scheduled you for 6 PM viewing on Tuesday 02/23/21. See you there! Take care.”,unknown
+891,97,do the landlord pay for water,utility
+892,698,I'm actually getting ready for work,unknown
+893,858,Schedule a tour.,virtualTour
+894,1006,I am looking for a one bed one bath and my lease is up in May so sometime either before or in the beginning of may,unitAssignment
+895,413,What Studios do you have available in the mission district?,unitAssignment
+896,305,I just booked it actually!,tourBooking
+897,296,Good morning I do my application a couple of days ago trying to see is my status,unknown
+898,843,I need to know how much the studios go for?,unitAssignment
+899,604,Can i see the property video on whatsapp,virtualTour
+900,944,Cancel only,tourCancellation
+901,131,Wrong number,unknown
+902,969,"Hi Ryan, sorry I need to reschedule the tour, would it be possible tomorrow morning?",tourBooking
+903,466,price for the property,unitAssignment
+904,530,"Hello Kelsey!  My apologies been such a busy week.  I actually scheduled a tour via email for Saturday (reply via sfrent.net)
+
+I found the listing via hotpads.  Should I just have scheduled with you instead?",unknown
+905,446,Hi Kelsey! Sure! What time?,tourBooking
+906,1001,No something came up I have to take care of it,unknown
+907,1316,When is the best day and time for tour? Do I have to do application online or in office?,applicationProcess
+908,454,Will be available tomorrow morning 10am. Thank you for your response,tourBooking
+909,592,feedback survey. Please inform the office before lease signing.,unknown
+910,1250,"hi , yes virtually",virtualTour
+911,400,Can I park in that space while viewing,parking
+912,123,pets ?,pet
+913,47,How much do call the 2 bed 1bath,unitAssignment
+914,440,What's the security deposit amount?,deposit
+915,183,No,unknown
+916,705,Are guest allowed ?,guestPolicy
+917,288,https://www.zumper.com/apartment-buildings/p268509/635-ellis-tenderloin-san-francisco-ca,propertyWebsiteLink
+918,206,be there a parking space,parking
+919,36,What holidays does your leasing office observe and how does that affect their hours?,leasingOfficeHolidays
+920,606,can the application fee be waived,applicationFee
+921,265,i have a pet be that alright,pet
+922,1279,Is a bit too early. I have to sell my house in Jersey. I don't know if I should buy or rent.,unitAssignment
+923,1245,Yes so Iâ€™m looking to possibly relocate however Iâ€™m wanting to know about the move in special you guys have I currently live in Monroe Louisiana,leasingOfficePromotion
+924,745,"And yes pls, I will like to see available 2bed 2baths you have in advance.  Thanks",tourBooking
+925,160,Is the 2/13 in person or can I do it via a video call with an agent?,tourOptions
+926,1288,No I work do you guys do virtual tours,virtualTour
+927,598,"Is it possible to have a virtual tour? I live in Baton Rouge, LA, which is 5h away.",virtualTour
+928,1347,I have completed my application and paid online,applicationProcess
+929,771,Are there coolers in the apartment,airConditioner
+930,579,what is the cost to apply,applicationFee
+931,1096,Will do. I got your email and will get something scheduled. Thanks!,tourBooking
+932,1329,Yes is there a website ?,propertyWebsite
+933,550,Hi Kelsey- no further information is needed at this time. I appreciate the follow-up!,unknown
+934,325,Sure. Budget of around. 700-800-900$ & only 1.,unitAssignment
+935,774,"Hello Ryan 
+Let me check and I will let you know 
+Thanks ",unknown
+936,52,I just started new job and in Sunnyvale I am there Saturday and Monday 11-3,unknown
+937,495,"Yes, I submitted the application about 3 minutes ago",applicationProcess
+938,1024,I don't have any pets,pet
+939,213,I don t need tour,unknown
+940,664,Yes,unknown
+941,630,Or can you let me know when you have time Wednesday night and after. I'm currently mini vacationing with my son until work Wednesday?,leasingOfficeHoursWednesday
+942,796,No I am not moving until late fall. Thanks you,unitAssignment
+943,837,I work in South Bay,unknown
+944,323,Okay perfect!! Thank You,unknown
+945,534,What are your leasing office hours on Saturday?,leasingOfficeHoursSaturday
+946,166,How to locate the property,community_address
+947,35,What are your leasing office hours on Wednesday?,leasingOfficeHoursWednesday
+948,575,that sounds good,unknown
+949,1296,How much is it to move in,unitAssignment
+950,1281,cancel my tour,tourCancellation
+951,434,This place must be very nice,amenities
+952,1046,do you have a swimming place,pool
+953,494,Will you be able to do a virtual tour?,virtualTour
+954,142,I need this studio🥺,unitAssignment
+955,841,Do you work with felonies?,feloniesPolicy
+956,500,Yes I will be coming today,tourBooking
+957,980,Do you have any virtual tours available?,virtualTour
+958,308,"Hi Ryan, yes I would like to schedule a tour but could we do Thursday instead? Thank you for getting back to me",tourBooking
+959,351,Testing again,unknown
+960,896,Yes how many one bedroom do you have available and if I'm approved how soon would I be able to move I ,unitAssignment
+961,1429,"That is above his budget, but thanks for letting me know",wantsLessExpensiveUnit
+962,911,Is pets allowed?,pet
+963,344,1 bedroom newly renovated and may 12,unitAssignment
+964,1425,Can you cancel my tour,tourCancelled
+965,556,anything under 5000 $,unitAssignment
+966,309,Yes when I just called they said they are not doing tours,tourBooking
+967,504,Do i need a backer,leaseGaurantor
+968,615,"Awesome, this is a great space and am really interested. What is the application process and how can I start?",applicationProcess
+969,735,Monday works great,tourBooking
+970,736,"Yes, please tomorrow 2pm is good for me",tourBooking
+971,251,That doesn't work. I get off work at 6,unknown
+972,1133,what be the price,unitAssignment
+973,332,Questioned “I've scheduled you for 6 PM viewing on Tuesday 02/23/21. See you there! Take care.”,unknown
+974,225,Hi there. Yes I will be there at 4pm for my tour today. Thank you,tourBooking
+975,787,Utility billing,utilityBilling
+976,662,I have all the required documentation,unknown
+977,773,Sunday works for me,tourBooking
+978,1102,No thank you,unknown
+979,541,be renter insurance mandatory,renterInsurance
+980,386,Does the rent increase over time?,rentIncrementPolicy
+981,1,Yes I would like to schedule a tour,tourBooking
+982,502,How*,unknown
+983,754,monthly rental,unitAssignment
+984,480,can i visit this monday?,tourBooking
+985,702,Do you have swimming pool,pool
+986,382,Can i have my family or friends over,guestPolicy
+987,126,What utilities are included in the rent?,utility
+988,218,Hey yes I'm interested in the apartment ,unitAssignment
+989,784,what utility,utility
+990,917,what are all the utilities included,utility
+991,1278,Yes i was wondering if you accepted college students with no credit history but had the income for the apartment ?,creditScore
+992,451,I have time tomorrow and Wednesday-,tourBooking
+993,215,1 bed one bath,unitAssignment
+994,947,can i come in for a tour later today,tourBooking
+995,489,Yes please what are all your qualifications to move in how much is your deposit admin fee and application,applicationFee
+996,1407,"Hi Kelsey, I submitted a request for a virtual tour of A2 floor plan on this weekend. Could you please help me confirm the request? Thank you so much",virtualTour
+997,376,Yes,unknown
+998,594,is the deposit negotiable?,deposit
+999,429,"Hi, yes can i have more info. ",unknown
+1000,552,Yea i would like to!,unknown
+1001,1162,Can they open up for 10 minutes I can't do any of these,tourBooking
+1002,334,And yes I am interested,unknown
+1003,14,346 299 8324,unknown
+1004,1153,do -PRON- come with utility,utility
+1005,1068,Works the best,unknown
+1006,71,Yes I am,unknown
+1007,661,"Questioned “Hi Tandra, this is Kelsey reaching out because I saw you submitted an inquiry for Stratford House Apartments. Would you like to schedule a tour or know any additional information?”",unknown
+1008,231,Yeah that would be fine :),unknown
+1009,1382,"Hi yes I was wanting to more information about the unit. How much does a 2 bed cost, and what is the deposit and application fee ?",applicationFee
+1010,244,looking for where close to the city,nearbyAttractions
+1011,387,I will let my friend know and see what she says. Thank you!,unknown
+1012,1455,"Hello sorry, I'm still looking at apartments, I didn't realize I accidentally submitted something.",unitAssignment
+1013,525,what amenity do this unit have,amenities
+1014,415,"Hi Kelsey,
+Ryan actually scheduled me for the open house tour @3:30 tomorrow.
+I do appreciate your out reach.
+Thanks so much,
+Jayson",unknown
+1015,445,Is there a fan in every bedroom,ceilingFans
+1016,144,Thank you so much and you have a great day as well,unknown
+1017,727,How many apartments are there in this building?,total_units
+1018,1163,I like the 2x1 but i wanna look at the 1x1 too,unitAssignment
+1019,12,I think you have the wrong number,unknown
+1020,1332,"1 person, 2 pets, maximum for rent is what I found listed on apartment list for that apartment which is 960 a month",unitAssignment
+1021,39,May1,unknown
+1022,1302,I unfortunately can not do a in person tour because I currently live in Ohio I am in the process of moving to texas I did want to know some information,virtualTour
+1023,54,What property,unknown
+1024,19,"Hello, thank you. What is the location of the 1 bedroom apartment?",community_address
+1025,555,Unavailable,unknown
+1026,1409,Can you please show me some cheaper unit,wantsLessExpensiveUnit
+1027,688,is there on street parking available for guests,parking
+1028,781,Im having a hard time finding a place for me and my kids to live,unknown
+1029,297,swimming pool,pool
+1030,904,Did you rent out #5 yet?..its been posted off the market,tourBooking
+1031,496,What is the process for application submission ?,applicationProcess
+1032,469,"meaning in great shape, breath able",unknown
+1033,472,1 bed 1 bath. Within 2nd week of April.,unitAssignment
+1034,1367,I have a question about background. I have a class D misdemeanor assault charge that is 7 years old. No previous record and no record ever after. I am educated and I am a teacher. I want to disclose this information and see your leasing company policy prior to visiting and starting the application and deposit process. I can provide any other information to you or management in regards to this issue.,misdemeanorPolicy
+1035,828,what is your felony policy,feloniesPolicy
+1036,941,"Hi Ryan, thanks for reaching out. Not quite yet but I'm considering. 
+
+I wanted to ask where the bathrooms and showers are, also the cost of the rent and deposit. Do you allow students to stay at your apartments?",unknown
+1037,418,Friday works! I'm a chef so work early morning at 6 till 2:30 so Friday works!,tourBooking
+1038,632,Ok,unknown
+1039,419,I need to move in as soon as possible,unitAssignment
+1040,298,What amenities do you offer at the property?,amenities
+1041,531,are there any charges for having a pet,petRent
+1042,427,I tried to come before 3pm today.,unknown
+1043,91,Thank you,unknown
+1044,103,Where are the apartments located ?,community_address
+1045,185,Thanks,unknown
+1046,129,Yes I've scheduled a tour for tomorrow,tourBooking
+1047,1106,Thank you. Cam you please explain what the “move in/furniture cost reimbursement “ means?,unknown
+1048,163,Is utility more expensive during the winter,utilityBilling
+1049,340,Hi! Thanks for reaching out!,unknown
+1050,1287,How much for a 1bedroom 1 bath,unitAssignment
+1051,548,What is the price for a studio,unitAssignment
+1052,455,Hi - not interested - thanks,unknown
+1053,871,Is mornings available,unknown
+1054,214,When can i make a visit,tourBooking
+1055,370,I would love to schedule an tour,tourBooking
+1056,603,Yea I'm here,unknown
+1057,197,do -PRON- allow sublease,sublease
+1058,1387,pet?,pet
+1059,820,unit 2 works for me,unitAssignment
+1060,377,"Hi, yes I'm interested. Is it possible to do a remote tour? I'm actually moving to San Francisco for a job so I'm not in the city yet.",virtualTour
+1061,51,Okay thank.  I apologize for not getting back to you quickly.  Moving is not fun when it's just you.,unknown
+1062,1013,Ok,unknown
+1063,438,Parking?,parking
+1064,264,But that's still pricey,unitAssignment
+1065,1108,Where is the lease office,leaseOfficeDirection
+1066,954,can resident sublease,sublease
+1067,1164,"Hi Kelsey, thank you for reaching out! Before I come in I just have a couple of questions. What amenities do you offer at the property?",amenities
+1068,706,I want to book a tour.,tourBooking
+1069,1176,2 bed 2 bath,unitAssignment
+1070,432,I am currently in San Diego and would like a virtual tour today or tomorrow,virtualTour
+1071,681,can i come for tour?,tourBooking
+1072,5,I would!,unknown
+1073,1275,Yes what are the requirements for move in?,moveInCost
+1074,1080,what be all the fee -PRON- charge for new renter,moveInCost
+1075,809,can i have a dog at the apartment,pet
+1076,1393,And if so how much are they going for?,unitAssignment
+1077,1263,More info for rent,unitAssignment
+1078,1034,How much is it?,unitAssignment
+1079,116,what be -PRON- pet policy,pet
+1080,1240,Virtual would be perfect,virtualTour
+1081,211,I try all day but no answer,unknown
+1082,1194,Do u have one bedroom apartment available?,unitAssignment
+1083,803,I'm trying to complete the application online but it keeps saying to fill out all of the required information but I have filled out all information fields ,unknown
+1084,408,Yes I would like to know more about the apartment,unknown
+1085,401,Not just yet. What are 2bd prices and what's include?,unitAssignment
+1086,1453,Somewhat! I am just not interested in setting up an account right now! ,notInterested
+1087,956,tomorrow 3 pm,tourBooking
+1088,801,Perfect! Whats the pricing on that,unitAssignment
+1089,271,"Hello, I would like to schedule a tour for Saturday 13, I would like to see studio #302",tourBooking
+1090,200,Any specials,leasingOfficePromotion
+1091,547,what kind of amenity do -PRON- have,amenities
+1092,624,where be -PRON-,community_address
+1093,1320,are there breed restrictions on dogs?,pet
+1094,856,?,unknown
+1095,655,I am looking for 2 beds and two baths,unitAssignment
+1096,721,Okay sounds good,unknown
+1097,984,Please describe how rent is collected and any applicable policies.,rentPaymentPolicy
+1098,623,Yes I would like to schedule a tour do you have any available,tourBooking
+1099,331,Yes what is the availability you guys have ?,unitAssignment
+1100,32,How far are u guys from Rosharon tx or pearland,unknown
+1101,731,That would be awesome,unknown
+1102,880,Yeah that'll work,unknown
+1103,45,Get you some sleep god,unknown
+1104,1035,Muchas gracias,unknown
+1105,1221,Can you tell me what do I need to have to lease,applicationProcess
+1106,812,"Yes, would like to schedule a tour. I close from work at 5:30 p.m. Will be available after work. 
+Thanks.",tourBooking
+1107,878,What's the best option  for me in the mission for a studio?,unitAssignment
+1108,193,how do i book a tour,tourBooking
+1109,595,3 bedrooms move in time maybe or June,unitAssignment
+1110,1113,do -PRON- allow pet,pet
+1111,1087,Yes pleas,unknown
+1112,49,I can make that happen,unknown
+1113,651,be cat allow,pet
+1114,913,do you allow dogs,pet
+1115,1094,can i get a short term lease,leasePeriod
+1116,422,What's ur price on the 1 bedrooms,unitAssignment
+1117,204,Hi Kelsey. Would that still be possible?,unknown
+1118,972,be there a gym for resident,gym
+1119,638,can you tell me the apartment name?,community_name
+1120,934,do -PRON- have a gym,gym
+1121,612,"Goodmorning, Yes I would love a tour but I'm moving from Norfolk va to Houston is their any way possible that I could do a virtual tour?",virtualTour
+1122,768,"yes, we will be there.",unknown
+1123,973,Is there an apartment ready to move in this week?,unitAssignment
+1124,43,Can I go head do app,unknown
+1125,916,yes I would like to know if you all except section 8 vouchers please... thanks,section8
+1126,67,What is the frequency of rent increases?,rentIncrementPolicy
+1127,565,And if so how much are they going for?,unitAssignment
+1128,95,2nd option is good for me,unitAssignment
+1129,699,GOODAY do pictures of the place my bed is a cal.king,unknown
+1130,645,and following up,unknown
+1131,1036,be pet allow,pet
+1132,726,Any downstairs and available for move by the 31 or the 1st of April and special anything without carpet,unitAssignment
+1133,1379,Or 6 month lease,leasePeriod
+1134,997,do -PRON- guy have a pool for resident to use,pool
+1135,998,Could you send me information ?,unknown
+1136,293,My credit is not good,unknown
+1137,793,where would i be live,community_address
+1138,121,looking for 1 bed and 1 bath,unitAssignment
+1139,41,I can't,unknown
+1140,1092,Cancel,unknown
+1141,1390,Any specials,leasingOfficePromotion
+1142,1421,I need to change my tour time,tourReschedule
+1143,345,"I would like to yes. Monday - Thursday after 5pm is when my wife and I would be available, is there a time next week that schedule might work?",tourBooking
+1144,1325,Is the 2bd/1ba priced at $980?,unitAssignment
+1145,1124,What type of heating system do your units feature?,heatingSystem
+1146,609,Just looking for potential apartments,unknown
+1147,1185,"Is there a pool? If yes, is it an indoor our outdoor pool?",pool
+1148,1384,cancel the tour,tourCancellation
+1149,1427,"No, that pricing won't work for me",wantsLessExpensiveUnit
+1150,364,Unit 208.,unitAssignment
+1151,1101,"I'm here now with Nora, thank you",unknown
+1152,522,Good- thank you 🙏,unknown
+1153,84,And I would need a 1 bedroom,unitAssignment
+1154,952,Are you able to cater to people with disabilities?,handicapPolicy
+1155,910,pet,pet
+1156,1426,Can you cancel my visit?,tourCancelled
+1157,1405,"What is the rent for 1 bedroom and studio, with washer ad dryer.",unitAssignment
+1158,1079,You can call me any time today,unknown
+1159,1195,"Is there electric car charging? If yes, is the charging available for personal parking spaces or designated spaces?",electricVehicleCharging
+1160,247,Its fine works for me,unknown
+1161,92,Im looking for 1 bed and 1 bath,unitAssignment
+1162,130,Yes. I am available. I ma looking for something between 550 to 620. Are there any other units available?,unitAssignment
+1163,307,be there any utility offerre,utility
+1164,869,Is the tour tomorrow at 6:00 for #306 or #406 1461 Alice or both?,tourBooking
+1165,1207,"Hi Kelsey! May I have a virtual tour? & I am looking to move from Mississippi within the next few months, when do you think would be the best time to apply?",virtualTour
+1166,151,"Hi Kelsey, thanks for reaching out to me. I will be in Houston on Friday and was wondering if there where any available tour's and at what time.",tourBooking
+1167,1423,I want to cancel the tour,tourCancelled
+1168,1199,"Bueno tardes, nesecito ser una cita para un apto de tres avitaciones, este numero me lo dio una amiga ",unknown
+1169,465,Is there any security fee?,deposit
+1170,165,I am looking for 2 bedrooms  and 2 bathrooms,unitAssignment
+1171,177,I'm heading there now to look at a one bedroom.,unknown
+1172,551,can i come for tour?,tourBooking
+1173,70,The 23rd is Wednesday,unknown
+1174,1314,Do you all accept section 8?,section8
+1175,966,Yes I am looking for a 3 bedroom,unitAssignment
+1176,40,I appreciate you responding,unknown
+1177,18,One more question is there any utilities included in the rent?,utilityBilling
+1178,256,Thankyou,unknown
+1179,268,be there any income requirement,incomeRequirement
+1180,1039,Ok he has a pit thanks,pet
+1181,1075,Yes!,unknown
+1182,275,Can i come for tour?,tourBooking
+1183,874,That would be wonderful too actually thank you!,unknown
+1184,1076,"Hi there.  I was on the site checking prices. Unfortunately,  you are out of my price range.",unknown
+1185,795,Can I check out this property on a website,propertyWebsiteLink
+1186,834,3 pm works for me,tourBooking
+1187,510,"No, I found a place. Thank you.",unknown
+1188,1090,what do i need to qualified,unknown
+1189,690,"Thanks! That sounds great!
+Thursday works-I believe the time was 5pm on the listing?",tourBooking
+1190,1099,Do you Have washer and dryer hook up?,laundry
+1191,590,2 beds,unitAssignment
+1192,1041,You too,unknown
+1193,1267,Prices,unitAssignment
+1194,447,Is there any late charges?,rentLateFee
+1195,611,What is the pet polocy,pet
+1196,1297,Do I pay for applications are no,applicationFee
+1197,888,"Oh dang, what address was the other location?",community_address
+1198,1098,what equipment are there in gym?,gym
+1199,3,can you help with specially abled people,handicapPolicy
+1200,1290,Just information I pretty I have seen the property back before Covid-19 2016& 2017 but I need info on a 3 bedroom 2bathroom how much it leasing for!,unitAssignment
+1201,1012,"do you have any 3 bedroom
+2 bath or 2 bedroom 2 barb available with a washer and dryer connection?",unitAssignment
+1202,306,That is pricey,incomeRequirement
+1203,1441,I'm sorry to say I will be canceling the appointment for the viewing. Thank you for your time.,tourCancelled
+1204,948,do -PRON- have any hard income requirement,incomeRequirement
+1205,1229,"Hi Kelsey, do you offer furnished apartments? Also, is there an option for month to month leases?",leasePeriod
+1206,901,Can someone video call me from the house,virtualTour
+1207,82,Is the rent going to be the same over ...,rentIncrementPolicy
+1208,77,I need to speak to someone at your convenience.,leasingAgentContact
+1209,988,I'm not available on the weekend,tourBooking
+1210,1136,I am available Friday at 2:30pm. Would that work?,tourBooking
+1211,1432,I'd like to cancel my tour please,tourCancelled
+1212,1311,Okay would u be able to tell me the deposit it fee and application fee,applicationFee
+1213,1116,"Thanks for reaching out, I've signed up for an open house on 3/06. Is anything else required?",tourBooking
+1214,831,Hours of operation,unknown
+1215,855,"Hello Ryan, is the 6:00pm appt for the moving still available for tomorrow???",tourBooking
+1216,347,Does this community feature a hot tub,hotTub
+1217,477,be pool part of the amenity,pool
+1218,900,April 6th moth the 8th I'll be at work,unknown
+1219,601,1st option is good for me,unitAssignment
+1220,1019,Can you send over the location,community_address
+1221,935,Okay perfect!!,unknown
+1222,1168,"Thanks for the reply I will definitely  be there at 5pm on Tuesday  February  16th to meet  with  Mr. Gothberg, and thank you  for your time 
+Kenneth Quivers",tourBooking
+1223,693,Can you cancel my tour,tourCancellation
+1224,234,21st april 9 pm,tourBooking
+1225,237,"Friday, 10:30Am",tourBooking
+1226,405,yes,unknown
+1227,184,Do i have to opt in for insurance,renterInsurance
+1228,618,I currently live in NYC so would it be possible to schedule a viewing in a week or two? I'm planning to fly out to SF to view apartments,tourBooking
+1229,1170,do you have workout area,gym
+1230,535,I don't need a tour but I'm trying to figure out what exactly I'd be paying to move in asap,moveInCost
+1231,354,Sure!! A virtual tour?,virtualTour
+1232,1156,Does this property have AC,airConditioner
+1233,764,I I'll get this too right,unknown
+1234,608,what would be the total cost of move in to -PRON- property,moveInCost
+1235,1430,"Sorry, I like to cancel the tour.",tourCancelled
+1236,710,Okay I'll go ahead and call him thank you!,unknown
+1237,1383,No washer and dryer connection.,laundry
+1238,788,"Okey that's work for me,",unknown
+1239,481,I need talk to the leasing office,leaseOfficeContact
+1240,33,What utilities are included in the rent?,utility
+1241,201,can i stay for just a month,leasePeriod
+1242,1274,Do you have in unit washer and drier,laundry
+1243,945,Are there any Sunday tours,tourBooking
+1244,283,I have been so busy with work and I work from 9pm to 7 am Sunday through Thursday nights. So when I get off I'm dragging myself because of the type of work I do,unknown
+1245,1047,I am going to have to cancel,unknown
+1246,562,And my move in date is late may,unitAssignment
+1247,737,Yes I have a couple of questions.,unknown
+1248,463,"3, preferably 4 beds/ 2 baths",unitAssignment
+1249,135,"I'm sorry, I take that back, we were just alerted that we're reopening, darn.",unknown
+1250,1210,Do you all have virtual tours,virtualTour
+1251,1362,Hello I wanted to ask how much is it for a one bedroom ? Is there any deposit?,moveInCost
+1252,360,"One bedroom, one bath. If there's a two bedroom available I wouldn't mind seeing it but a one bedroom is fine. 
+I'm hoping to move in by May 1",unitAssignment
+1253,921,Ok. Is the live tour an option?,tourOptions
+1254,1345,Virtual,virtualTour
+1255,879,"Awesome.. See you around the 11th.
+What will be the security deposit and requirements..",deposit
+1256,476,Is all bills paid,applicationFee
+1257,1089,Hi yes I would like that,unknown
+1258,863,I would like more information before I schedule a tour,unknown
+1259,443,"
+Should unarchive AGAIN",unknown
+1260,912,What's the deposit for this unit?,deposit
+1261,1143,I just need a place for me my new Bron please,unknown
+1262,104,"Yes Kelsey, its there any 2 bedrooms available",unitAssignment
+1263,1186,Confirming that the apartment is cat friendly?,pet
+1264,719,Is there a Swimming pool?,pool
+1265,1458,Tour,tourBooking
+1266,750,Si estoy buscando apartamento de 3 recamaras Kelsey,unknown
+1267,566,2bdr 2 bath,unitAssignment
+1268,1397,Do you have any specials,leasingOfficePromotion
+1269,814,could i come and visit,tourBooking
+1270,359,Yes Thank you for replying back to me so fast,unknown
+1271,1460,"Hi Kelsey! Thank you for following up, and yes I would be very interested in scheduling a tour. Do you have anytime available this Saturday? I would like to see some of the available units and ask about move in options, agreements, etc.",tourBooking
+1272,1317,Do you have washer/dryer connections?,laundry
+1273,431,Hi Kelsey. Thank you for reaching out. I would like to tour the apartment on Thursday at 2pm. An in-person tour would be best for me,tourBooking
+1274,107,I prefer a place with a stove. I also am not bringing my car with me so Oakland will be a little far given my job in dogpatch,amenities
+1275,805,No our dog is not allowed. Thank you,unknown
+1276,198,What is the lease lock in time,leasePeriod
+1277,53,I will have to check my work schedule and let you know.,unknown
+1278,112,"Le gustó “Hola Kelvyn. Fue genial hablar contigo por teléfono antes. He confirmado tu visita para el 2022-03-26 a las 2:30 PM. Para su demostración por favor nos encontramos en la oficina de El Sol Del Río en 14405 Río Bonito, Houston, TX, 77083. También enviaré una confirmación con direcciones en la mañana de su tour. Si tiene alguna pregunta, no dude en ponerse en contacto conmigo a través de un mensaje de texto aquí. Gracias y que tenga un buen día!”",unknown
+1279,79,This the address?,community_address
+1280,1011,How many units are there?,total_units
+1281,326,Hey Kelsey. Thanks for the message. Actually I was wondering do you have any studios available? Also is month to month and option?,unitAssignment
+1282,649,I'll head over there after work ,unknown
+1283,83,April 29th is my move in date. And two bedrooms one bath,unitAssignment
+1284,1266,"Yes, more info on price and availability.",unitAssignment
+1285,75,Around 12:15pm,tourBooking
+1286,642,is there any rent control?,rentIncrementPolicy
+1287,159,Me pueden llamar necesito hacerles una pregunta?,unknown
+1288,1359,"What would be the down payment , monthly payment and if the utilities are included",unitAssignment
+1289,1361,Can I do a virtual tour?,virtualTour
+1290,982,"As of right now, no ma'am. We already have a scheduled tour this Thursday at 4:30",tourBooking
+1291,1193,https://www.zumper.com/apartment-buildings/p226885/1025-post-downtown-san-francisco-ca?bsft_eid=f0a0cafe-a1f3-4e5d-93db-897abc412ad2&bsft_aaid=aa62ecf7-2655-4bf,propertyWebsiteLink
+1292,569,I have pay stubs will you be able to get me in if approved in by the end of the month or sooner,unknown
+1293,558,can i sublease,sublease
+1294,859,I called the # and SF rent answered Marcus,unknown
+1295,545,I really need a w/d connections. Thank you,unknown
+1296,890,I need one room apartment and I'm planning to move asap,unitAssignment
+1297,402,It a have to be virtually.,virtualTour
+1298,1129,Hey I was wondering if you had any 2bedroom 2 baths maybe?,unitAssignment
+1299,106,Leasing Office Address,leaseOfficeDirection
+1300,835,Is there additional cost to move in,moveInCost
+1301,1353,How much is the deposit,deposit
+1302,155,Yes maam,unknown
+1303,1251,I'm curious as to what utilities are included into the monthly rent; if any. I've been considering moving to Houston for a decent while now and need somewhere somewhat safe and in a reliable area and considered your area to be as such.,utilityBilling
+1304,57,"Yes, I'd like to schedule a tour.",tourBooking
+1305,671,I said 8:00pm don't believe you heard me correct I can do that time sun,tourBooking
+1306,1254,"Goodmorning, Yes I would love a tour but I'm moving from Norfolk va to Houston is their any way possible that I could do a virtual tour?",virtualTour
+1307,96,how much be the laundry per load,laundry
+1308,1097,Together $3600 a mouth,unknown
+1309,263,That would be perfect,unknown
+1310,907,be there a pool in the property,pool
+1311,520,Hey there sorry for not getting back to you sooner. I'm exploring a few other options I expect to work out so I'll reach out if not,unknown
+1312,824,Rental requirements,unknown
+1313,936,Is there any deposit for pets?,petRent
+1314,993,are viewings only available on weekdays?,tourBooking
+1315,423,"Do you accept applicants with broken lease or eviction history? If yes, how long ago must their broken lease or eviction have been?",evictionPolicy
+1316,180,yes but i'll have time again on Friday will get you back,tourBooking
+1317,1308,Yes I have a question for how much time is the contract?,leasePeriod
+1318,1312,Okay and bills paid or which ones will I have to pay,utility
+1319,1091,If not ill take the 2 bedroom,unitAssignment
+1320,659,Hi I'm here at the office ,unknown
+1321,616,I will have the money Friday I get paid this week please,unknown
+1322,1377,swimming pool,pool
+1323,1339,Yes I wanted to know is there a deposit and app fee ?,deposit
+1324,1203,How do I do the application,applicationProcess
+1325,1067,How much is 3/2,unitAssignment
+1326,295,"Yes thank you
+I'll be there ",unknown
+1327,319,i am looking for 1 bed and 1 bath,unitAssignment
+1328,329,do utility cost more,utility
+1329,593,Yes mam!!!! I would,unknown
+1330,44,What is the phone number for the leasing office?,leaseOfficeContact
+1331,746,1 bedroom & 1 Bathroom whenever it's available,unitAssignment
+1332,398,How much is the rent for a 1br apt?,unitAssignment
+1333,749,Is there any car charging stations,electricVehicleCharging
+1334,117,Hi Kelsey I'm Angela it's my information that should be attached to everything. My wife Brenda sent everything in for me. I live in Missouri and she's already moved to Texas so yes I am trying to get Situated so I can move,unknown
+1335,1380,Yeah I have a felony of 8 years back agg robbery in was wondering if this could stop me from moving into your establishment,misdemeanorPolicy
+1336,1411,Out of my budget,wantsLessExpensiveUnit
+1337,1368,What's the price of them,unitAssignment
+1338,667,Does it except pets,pet
+1339,1201,Hi. I will be in Houston on May 22nd. Can I come by that day? Also how much is required to move into your one b droom on July 1st 2022 altogether?,moveInCost
+1340,657,if i have a pet be that alright,pet
+1341,1246,Yes hello I wanted to know about the utilities and unit size available around the time,utilityBilling
+1342,457,"It would be just me and my son, he's 3. Im 26. I am just looking for a better living situation for us. And affordable because I will be paying alone.",moveInCost
+1343,822,"Thanks you! My budget is 1300. It will be my wife, daughter and I. I don't have any pets.",unitAssignment
+1344,1144,Please describe all costs related to the application process.,applicationFee
+1345,580,What are your leasing office hours on Friday?,leasingOfficeHoursFriday
+1346,1119,APRIL 1ST @11AM,unknown
+1347,574,Llegue a las 3 y me indican que están cerrados y que no me pueden atender ..,unknown
+1348,617,Around 1030 ?,unknown
+1349,390,i be just wonder what be the amenity here,amenities
+1350,1343,Do you offer virtual tours,virtualTour
+1351,1319,Do you have exact pricing on the units available? Can I see an available 1 and 2 bedroom unit on the tour?,unitAssignment
+1352,1258,Does water goes include with the rent?,utility
+1353,614,do -PRON- have a fitness center,gym
+1354,753,How much is the rent for the property?,unitAssignment
+1355,922,Ya pague 130 de aplicación,unknown
+1356,697,"Quick question, were you talking about today or tomorrow for the 3:30 tour?",tourBooking
+1357,1205,Hi are you doing virtual tours?,virtualTour
+1358,868,How much is the late fee?,rentLateFee
+1359,567,do i have to pay for a pet?,petRent
+1360,1442,Can you cancel I apologize for the inconvenience. I'll reschedule on my own. ,tourReschedule
+1361,192,Which holidays are you closed for,leasingOfficeHolidays
+1362,1037,I could try to do Saturday afternoon.,tourBooking
+1363,381,Wed Feb 17 11.30 am works for me,tourBooking
+1364,270,"Goodmorning, Yes I would love a tour but I'm moving from Norfolk va to Houston is their any way possible that I could do a virtual tour?",virtualTour
+1365,1055,So no bills paid,unknown
+1366,676,Yes I wanted to know the payment and requirements for moving in for a studio or 1 bd/1bath,unitAssignment
+1367,1077,But what's the price,unitAssignment
+1368,1008,Is Saturday April 9th at 1pm a good time?,tourBooking
+1369,730,Im coming up from Southern California,unknown
+1370,838,Thank you for your time!,unknown
+1371,74,Hello do you have a 2 bdrm and how much,unitAssignment
+1372,1242,How much 1 bed,unitAssignment
+1373,358,How are utilities billed to residents?,utilityBilling
+1374,641,Or else virtual tour is okay too,virtualTour
+1375,109,"Yes I will possibly interested in a virtual tour eventually, but just looking for more info for now. I viewed your photos and love the atmosphere. My family and I will be moving to Houston from NY in May and are looking to secure housing before we arrive. I would like to know if we can apply from here using our current paystubs or is it required that we are Houston residents with Houston paystubs first?",unknown
+1376,741,What is the income proof document required,incomeRequirement
+1377,1023,"Yes, I would like to schedule a tour",tourBooking
+1378,1211,If the tour isn't virtual I will not be able too until I'm in state which will be next month,virtualTour
+1379,46,common area,commonAreas
+1380,701,do -PRON- have exercise facility,gym
+1381,281,1 bed 1 bath with washer dry connects,unitAssignment
+1382,286,I just submitted the application,applicationProcess
+1383,361,On what day of the month would rent be considered late? What is the late rent fee if rent is paid after that date?,rentLateFee
+1384,602,I also have someone coming with me I'm referring ,unknown
+1385,844,K,unknown
+1386,1171,hi yes i would like to schedule a tour,tourBooking
+1387,1084,I was able to look at a unit so now I'm just waiting for a call. Thanks,unknown
+1388,397,Can you tell me about the current promotion?,leasingOfficePromotion
+1389,491,yess,unknown
+1390,137,hello Ryan thank you for your attention ok I am free that Saturday or Sunday if possible I would like to visit thank you.,tourBooking
+1391,557,"Yes, please",unknown
+1392,1159,I want to see 1 bdrm,unitAssignment
+1393,931,Do I need a lease guarantor,leaseGaurantor
+1394,1371,I would like to ask how much would it be for a 3bed room,unitAssignment
+1395,365,Thanks so much!,unknown
+1396,449,what general amenity do this have,amenities
+1397,1284,Yes can you tell me what is the average cost of utilities and what is covered?? Thank you,moveInCost
+1398,679,Thank you for contacting me. If possible Can we schedule a tour for Thursday or Friday. Thank you,tourBooking
+1399,942,Are the heaters built in?,heatingSystem
+1400,581,could -PRON- tell -PRON- the total fee that i should expect while move in,moveInCost
+1401,1349,925,unitAssignment
+1402,1392,What's the location,community_address
+1403,506,I won't be available this Saturday,tourBooking
+1404,69,"Yes 
+Looking for a 1 or 2 bedroom was w/d connection. Price range $800-$1000",unitAssignment
+1405,208,What are requirements to move in,moveInCost
+1406,210,"KIPP Zenith 11000 Scott st. Houston, Tx is where my daughter will be attending school. And I’m working 6516 Westheimer rd. Is it possible that you can find some places between these two addresses? So far from the list I like Westchase Preserve, and Briarwood.",unitAssignment
+1407,119,Thanks! Are there any units available with balcony?,amenities
+1408,716,"What is the rent for 1 bedroom and studio, with washer ad dryer.",unitAssignment
+1409,648,How can i see the house/property?,tourOptions
+1410,1073,I'm looking to move in may 1,unitAssignment
+1411,284,Hi Ryan! We spoke earlier and booked a tour for Monday at 1 pm :),tourBooking
+1412,7,"Good morning sorry for the delayed response but yes would like to schedule a tour, preferably tomorrow",tourBooking
+1413,669,Y cuánto es más o menos,unknown
+1414,1398,Can you cancel I apologize for the inconvenience. I'll reschedule on my own.,tourCancellation
+1415,637,Is all utilities included garbage electricity heat,utility
+1416,583,"Hi, I wasn't asked to pay a fee for the application. Is there a step I may have missed? Thanks!",applicationFee
+1417,239,With deposit?,deposit
+1418,588,Hi Kelsey. I would love my information. I just tried calling.,unknown
+1419,498,could -PRON- highlight -PRON- top attraction,amenities
+1420,62,Okay thanks! Do you have availability next Thursday afternoon?,tourBooking
+1421,105,Hello yes I found a place,unknown
+1422,1459,"Hi Kelsey! Thank you for following up, and yes I would be very interested in scheduling a tour. Do you have anytime available this Saturday? I would like to see some of the available units and ask about move in options, agreements, etc.",tourBooking
+1423,318,Yes,unknown
+1424,802,I need to change my tour time,rescheduleTour
+1425,1249,I would like to know additional information on application fee and How much would a 1bed room be for a down stairs apartment,moveInCost
+1426,133,"Really wish y'all did , but that's okay . You have a good day as well ",unknown
+1427,1315,hello i was wondering the prices and availability,unitAssignment
+1428,635,Okay That Works,unknown
+1429,1174,"Oh hello and good morning! I have been offered a job in the Galleria area and really liked your complex. However, I would be looking to move until about July, as I am currently in South Carolina.",unknown
+1430,1232,"My apologies, I was sidetracked and just submitted it. I wanted to know what was the monthly income needed for the 3 bedrooms and if there were any available mid June?",incomeRequirement
+1431,310,Hey can I call you,unknown
+1432,1431,Hi my tour was cancelled because you guys said the unit is no longer available ,tourCancelled
+1433,373,can resident sublet,sublease
+1434,1406,How much do I have to put down to move in ?,deposit
+1435,437,No I don't really like that one.,unknown
+1436,266,Do you have tour availability next Saturday,tourBooking
+1437,1043,Thank you very much!,unknown
+1438,1009,I am looking for 2 bedrooms and 2 bathrooms,unitAssignment
+1439,1357,"I filled out application online
+Please check status",applicationProcess
+1440,619,I try to call but no answer,unknown
+1441,1065,Hey! How safe is your area?,unknown
+1442,236,"Are pets allowed at this community? If yes, what types/breeds are allowed and which breeds are prohibited? Additionally, If you have a pet policy posted online, please paste the link here.",pet
+1443,314,be there a laundry room onsite,laundry
+1444,564,"Yes, please tomorrow 6pm is good for me",tourBooking
+1445,1283,What do you require for a person to rent,applicationProcess
+1446,800,"Hi Ryan, yes please I would like to set up a tour of the property.",tourBooking
+1447,274,what is the minimum deposit,deposit
+1448,474,what be the good feature of this apartment,amenities
+1449,1410,It is too expensive,wantsLessExpensiveUnit
+1450,542,What all things are there in common area,commonAreas
+1451,1027,I do apologize for the late response. I am at work. But I was specifically interested in seeing unit #05 that I saw advertised for $1195 per month.,tourBooking
+1452,930,I am looking for 2bed 2 bath,unitAssignment
+1453,380,What's the name of the place? And I would like to set up a tour,tourBooking
+1454,384,Do I need a minimum credit score,creditScore
+1455,523,Quería saber si puedo moverme hoy mismo?,unknown
+1456,813,Ok can I park at your office,parking
+1457,797,"Do you offer virtual tours? If yes, please describe here how virtual tours work.",virtualTour
+1458,1184,2 bedrooms,unitAssignment
+1459,1141,So 95 total?,unknown
+1460,915,No thank you,unknown

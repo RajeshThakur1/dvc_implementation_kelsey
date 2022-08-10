@@ -1,0 +1,13 @@
+{
+    "count": 599,
+    "threshold": 0.2,
+    "correct": 219,
+    "incorrect": 267,
+    "missed": 113,
+    "oos": 0,
+    "correct%": 36.561,
+    "incorrect%": 44.574,
+    "missed%": 18.865,
+    "oos%": 0.0,
+    "point_metric": 28.5
+}

@@ -32,12 +32,6 @@ Install Tensorflow
 ``
 conda install -c apple tensorflow-deps
 ``
-
-```commandline
-https://caffeinedev.medium.com/how-to-install-tensorflow-on-m1-mac-8e9b91d93706
-
-```
-
 ```commandline
 pip install tensorflow-macos
 ```
@@ -66,31 +60,5 @@ To Add the remote repositery to track all the data and Model
 ```commandline
  dvc remote add -d remote_storage Your_S3_dir_URL -f
 ```
-To see the commited file
-```commandline
- git log --oneline
-```
-
-we can checkout the Data 
-
-```commandline
-git checkout HEAD^1 data/train.csv.dvc
-```
-
-while installing the transformers if we get the rust compiler issue
-Solution
-```commandline
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-source $HOME/.carge/env
-```
-
-to get our Data back
-
-```commandline
-
- dvc checkout data/mark4/intent_model/train.csv.dvc
-
-```
-
 
 ### STEP 06- commit and push the changes to the remote repository

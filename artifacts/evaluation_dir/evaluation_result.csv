@@ -1,0 +1,642 @@
+,utterance,expected,predicted,score
+0,"Hi Kelsey, thank you for reaching out! Before I come in I just have a couple of questions. What amenities do you offer at the property?",amenities,unknown,0.13725725
+1,Yes that does! What is the pet policy in place at your apartment?,pet,unitAssignment,0.07880357
+2,Ok sounds good thanks. And is there any security deposit discount available?,deposit,unitAssignment,0.075575374
+3,I understand thank you. Can I come in this Friday at 4pm?,tourBooking,unknown,0.40757465
+4,Are you going to tell me who this is?,unknown,unknown,0.37017033
+5,A tour of that pussy,unknown,unknown,0.5585388
+6,Oh big bug,unknown,unknown,0.69792044
+7,Yes I would like a tour.,tourBooking,unknown,0.48715168
+8,"It would be just me and my son, he's 3. Im 26. I am just looking for a better living situation for us. And affordable because I will be paying alone.",moveInCost,unitAssignment,0.5332287
+9,What's ur price on the 1 bedrooms,whatIntent_rent,unitAssignment,0.7717097
+10,Can we do a tour Tuesday?,tourBooking,tourBooking,0.3153515
+11,I can make that happen,unknown,unknown,0.70811343
+12,I'd love to come take a look at the property today what time you'll be in till,tourBooking,tourBooking,0.30692828
+13,Okay sounds good,unknown,unknown,0.73274964
+14,2 bedrooms are $850,whatIntent_rent,unitAssignment,0.7796119
+15,yes but i'll have time again on Friday will get you back,tourBooking,unknown,0.5149811
+16,No I'm thinking of moving in may or June,unknown,unknown,0.46123543
+17,Santa Clara is closer I work in Hayward at the Pepsi plant,unknown,unknown,0.3039997
+18,Prices,whatIntent_rent,unitAssignment,0.4641487
+19,Hello do you have a 2 bdrm and how much,whatIntent_rent,unitAssignment,0.66344726
+20,Where are you located?,community_address,unknown,0.07344666
+21,i think we are good,unknown,unknown,0.70292187
+22,looking for where close to the city,nearbyAttractions,unknown,0.11624173
+23,Yes that's fine.. February! 1 bed/ 1bath. No children nor pets.,unknown,unitAssignment,0.4514301
+24,"Awesome.. See you around the 11th.
+What will be the security deposit and requirements..",deposit,unknown,0.2935136
+25,Yes I would like to schedule a tour,tourBooking,unknown,0.35474712
+26,Hi! Yes pets are allowed,pet,unknown,0.21732146
+27,"Good afternoon if I would like, tell me at what time and the address",tourBooking,unknown,0.31089583
+28,I dont recall asking about an apartment,unknown,unknown,0.45975968
+29,What is the pet polocy,pet,unknown,0.039774492
+30,What is the pet pololicy,pet,unitAssignment,0.060576063
+31,"Are pets allowed
+",pet,unknown,0.045542516
+32,How many,total_units,unknown,0.516193
+33,How many pets are allowed,pet,unitAssignment,0.07869447
+34,Where are the apartments located ?,community_address,amenities,0.038625102
+35,Is scheduling a tour at 6 am moral ?,unknown,unknown,0.19908607
+36,Wrong direction,unknown,unknown,0.68702877
+37,What is the rent for the 1 bedroom and location?,whatIntent_rent,unitAssignment,0.7220838
+38,Not just yet. What are 2bd prices and what's include?,whatIntent_rent,unitAssignment,0.580312
+39,Are pets allowed- what are fees for same?,pet,unitAssignment,0.12849557
+40,What are the amenities? Is there a washer dryer in unit?,amenities,amenities,0.04111531
+41,No our dog is not allowed. Thank you,unknown,unknown,0.5563453
+42,Sorry but I understood that the tour was canceled.,unknown,unknown,0.47514182
+43,Moving out of state thank you,unknown,unknown,0.6320023
+44,I'm actually getting ready for work,unknown,unknown,0.5837997
+45,"Hi Kelsey, that was a while ago, I already found a place, thanks though!",unknown,unknown,0.6358304
+46,Where you guys located,community_address,unknown,0.15328656
+47,Could you send me information ?,unknown,unknown,0.30466017
+48,I have been so busy with work and I work from 9pm to 7 am Sunday through Thursday nights. So when I get off I'm dragging myself because of the type of work I do,unknown,unknown,0.34926495
+49,Si la verdad me interesa cuánto es la renta y que necesito y para cuándo está disponible,unknown,unknown,0.7490418
+50,"Thanks 
+We decide to stay more time in our current home ... ",unknown,unknown,0.42792675
+51,I will let my friend know and see what she says. Thank you!,unknown,unknown,0.6613476
+52,How much is that going for,whatIntent_rent,unitAssignment,0.46278426
+53,That is pricey,incomeRequirement,unknown,0.54913247
+54,I can't afford that.i barely bring home 2400 a month,whatIntent_rent,unknown,0.3929482
+55,This place must be very nice,amenities,unknown,0.22342913
+56,But that's still pricey,whatIntent_rent,unknown,0.49775603
+57,"Okay, let me get back to you in the morning when I get off. I'll be sure to stay up until I talk to you",unknown,unknown,0.6323755
+58,Do you allow a dog over 65 lbs and pit bull?,pet,unitAssignment,0.08884679
+59,"No, I found a place. Thank you. ",unknown,unknown,0.64628255
+60,Thank you ! Do you know when they will be getting I. Touch with me ?,tourBooking,unknown,0.3036301
+61,Ok no problem I left a voicemail   So hopefully they get back to me this week,tourBooking,unknown,0.5960762
+62,We have selected another property thank you for your time,unknown,unknown,0.6361403
+63,Hello 2300 is to much for me thank you though I am willing to go 2000 if you find anything,whatIntent_rent,unknown,0.40013063
+64,Ok I will be willing to take a tour on Monday morning I will message tomorrow,tourBooking,unknown,0.45685002
+65,What is the deposit?,deposit,unitAssignment,0.06713894
+66,Do you allow fogs?,pet,unknown,0.057801165
+67,No not moving now. Lost job. But thank you for checking.,unknown,unknown,0.6035326
+68,I work in South Bay,unknown,unknown,0.5601065
+69,I have a car hard to park,parking,unknown,0.107834004
+70,Parking,parking,unknown,0.14470467
+71,It's going to cost me a lot to get out of my apt in south baby,moveInCost,unknown,0.37376562
+72,"IN / FURNITURE COST AND NO APPLICATION FEE
+Exclusions may apply.”",unknown,unitAssignment,0.18868111
+73,Ok can I park at your office,parking,unknown,0.32894823
+74,Okay I'll go ahead and call him thank you!,unknown,unknown,0.6862377
+75,"We can do tomorrow 5:30-6:30. Sorry I keep missing your calls. I'm at work. Should I text, call or just show up at that time?",tourBooking,unknown,0.3698034
+76,Thursday the 11th would be perfect!,tourBooking,unknown,0.5895279
+77,GOODAY do pictures of the place my bed is a cal.king,unknown,unknown,0.5266667
+78,Are pit bulls allowed here?,pet,unknown,0.041583583
+79,Do you have any virtual tours available?,virtualTour,tourBooking,0.19507457
+80,pets ?,pet,unknown,0.28987986
+81,"Hello, I have the tour schedule it for 2/9 at 6 pm",tourBooking,unknown,0.33223763
+82,"Hello Kelsey, I currently reside in NY. Do you do virtual tours? ",virtualTour,tourBooking,0.19064294
+83,"Hi, is this regarding a studio apartment?",unknown,unknown,0.11282415
+84,Hi Kelsey! Sure! What time?,tourBooking,unknown,0.653317
+85,I do apologize for the late response. I am at work. But I was specifically interested in seeing unit #05 that I saw advertised for $1195 per month.,tourBooking,unknown,0.41749144
+86,(To apply as a tenant),applicationProcess,unknown,0.039092377
+87,That would be wonderful too actually thank you!,unknown,unknown,0.67016184
+88,Ah. Thank you for reaching out. So I'm currently not based in SF and will be relocating next month. I have a colleague of mine who will check the apartment out on my behalf,tourBooking,unknown,0.4451833
+89,"Hi Kelsey,
+Ryan actually scheduled me for the open house tour @3:30 tomorrow.
+I do appreciate your out reach.
+Thanks so much,
+Jayson ",unknown,unknown,0.55287015
+90,I can't tomorrow I was wondering if you have any available for next Friday,tourBooking,unknown,0.38131407
+91,"Hello Kelsey!  My apologies been such a busy week.  I actually scheduled a tour via email for Saturday (reply via sfrent.net)
+
+I found the listing via hotpads.  Should I just have scheduled with you instead?",unknown,unknown,0.3699998
+92,"Yes, I would like to schedule a tour",tourBooking,unknown,0.34887093
+93,Hi Ryan! We spoke earlier and booked a tour for Monday at 1 pm :),tourBooking,unknown,0.31698775
+94,"Hi Ryan! Thanks for your email. 
+
+I just wanted to confirm the cost of rent for the places you sent over. I noticed the move-in costs but wanted to clarify everything before moving forward. ",moveInCost,unknown,0.44742173
+95,Are there any Sunday tours,tourBooking,tourBooking,0.1675235
+96,"Obviously you didn't list any for Monday, but in case anything opens up please feel free to notify me",leasingOfficeHoursMonday,unknown,0.45890048
+97,"Quick question, were you talking about today or tomorrow for the 3:30 tour?",tourBooking,tourBooking,0.25315693
+98,Hey! Thanks for reaching out. I won't be able to until next week,unknown,unknown,0.6216047
+99,"Yes,A 1BdrmOr Studio, However, Do You Accept Section 8?&Is It Possible To Prorate The Security Deposit In Addition To Rent Payment Until The Security Deposit Amount Is Paid In Full? Also How Is Rent For Apts There,& Security Deposit?",section8,unitAssignment,0.21738176
+100,What's the name of the place? And I would like to set up a tour,tourBooking,tourBooking,0.16536863
+101,Is pets allowed?,pet,unknown,0.04380475
+102,rent ?,whatIntent_rent,unknown,0.40789413
+103,what is the rent?,whatIntent_rent,unitAssignment,0.43507275
+104,"Yes, I am looking for a rental in the right location. ",unknown,unknown,0.38175663
+105,I'm not looking for a rental anymore. Please close this out. Thanks!,unknown,unknown,0.54045665
+106,what is the rent??,whatIntent_rent,unitAssignment,0.45014906
+107,"Hi Ryan, I'd be interested to get a virtual tour if possible first and more details about building before coming in for a tour",virtualTour,tourBooking,0.32075393
+108,"Hello! I work until 5, but I'm off Wednesday at 1. Any availability Wednesday afternoon?",leasingOfficeHoursWednesday,unknown,0.33898902
+109,How much is the rent for a 1br apt?,whatIntent_rent,unitAssignment,0.6292537
+110,Sure!! A virtual tour?,virtualTour,unknown,0.41194054
+111,Studio and 1 bedroom,unknown,unitAssignment,0.51759034
+112,"Hi Ryan, yes I would like to schedule a tour but could we do Thursday instead? Thank you for getting back to me",tourBooking,unknown,0.39741766
+113,I just booked it actually!,tourBooking,unknown,0.6089625
+114,Sure that would be great,unknown,unknown,0.66880405
+115,Its fine works for me,unknown,unknown,0.5819397
+116,Thanks so much!,unknown,unknown,0.71283394
+117,Sure! I can come by today or on Thursday,tourBooking,unknown,0.5437387
+118,Thank you for reaching out! Yeah I was able to talk to someone earlier.... I will be there 😬,tourBooking,unknown,0.61243427
+119,Thanks so much,unknown,unknown,0.7163722
+120,Hey im interested  in the property,tourBooking,unknown,0.50980467
+121,Are there 1 bedrooms,unknown,unitAssignment,0.5496597
+122,Does it except pets,pet,unknown,0.05548279
+123,If not ill take the 2 bedroom,tourBooking,unitAssignment,0.6526722
+124,Also I went to see the 2210 107 place yesterday and the property manager said they allow pets,pet,unknown,0.09569728
+125,Do you allow dogs?,pet,tourBooking,0.036769588
+126,That doesn't work. I get off work at 6,unknown,unknown,0.45065552
+127,or actually the weekend of the 19th/20th would be better,tourBooking,unknown,0.54850364
+128,"You mentioned tomorrow, is that still an option? If not, yes please register me for Saturday. I am very interested in seeing the place.",tourBooking,unknown,0.41068193
+129,Had to do something for my job !,unknown,unknown,0.61677
+130,I'm not available on the weekend,tourBooking,unknown,0.38521156
+131,Great thank you so much!!,unknown,unknown,0.7139687
+132,Do you allow pets?,pet,unitAssignment,0.040264506
+133,I would!,unknown,unknown,0.7051928
+134,Studio and $1245 and under price,whatIntent_rent,unitAssignment,0.6432457
+135,Been working with John and Gustavo,unknown,unknown,0.6263626
+136,You are so awesome much appreciated,unknown,unknown,0.70570314
+137,Beautiful architecture inside,amenities,unknown,0.41967118
+138,Yes! Parking is free?,parking,unknown,0.17581925
+139,"designated parking space for your car. It's located in #10 Studio
+1739",parking,unknown,0.2938519
+140,Hopefully I can remove they are in all your units,unknown,unknown,0.45427188
+141,I just started new job and in Sunnyvale I am there Saturday and Monday 11-3,unknown,unknown,0.39243117
+142,Is utilities included and heat,utility,amenities,0.039071873
+143,"And is this promotion still valid
+
+I sent you an email about it . : $ 2500 REIMBURSEMENT FOR MOVE IN / FURNITURE COST AND NO APPLICATION FEE
+Exclusions may ",whatIntent_rent,unitAssignment,0.32554066
+144,apply.,applicationProcess,unknown,0.50883305
+145,"your friend. No worries, Let's get you a safe location and a peaceful ",unknown,unknown,0.5736618
+146,"• Street parking only costs?
+
+I don't like a ladder in the middle of ",parking,unitAssignment,0.21163212
+147,Says street parking only,parking,unknown,0.12768202
+148,Can I park in that space while viewing,parking,tourBooking,0.07323049
+149,Everyone is offering street parking,parking,unknown,0.14722471
+150,I want the space,parking,unknown,0.41920578
+151,Liked “Yes the promotion is still on going.”,unknown,unknown,0.21408817
+152,Last but not least the bunk bed has got to go,unknown,unknown,0.5610208
+153,Can they open up for 10 minutes I can't do any of these,tourBooking,unknown,0.31656405
+154,Don't want to get towed,parking,unknown,0.5629671
+155,Is all utilities included garbage electricity heat,utility,unitAssignment,0.045300107
+156,I just want to know if I can park in that space while waiting for my apt,parking,tourBooking,0.1651333
+157,Because the other units are in soma area,nearbyAttractions,unknown,0.08872505
+158,What are requirements to move in,moveInCost,unitAssignment,0.059617706
+159,"Hi there! Yes please! 
+I also have a couple questions. How much is the initial deposit? And are utilities included? ",deposit,unitAssignment,0.19801477
+160,feedback survey. Please inform the office before lease signing.,unknown,unknown,0.24680786
+161,I I'll get this too right,unknown,unknown,0.7099028
+162,"Thank so much,I'm available Tuesday at 6:45pm",tourBooking,unknown,0.49268746
+163,Is it virtual? I am currently located in SoCal,virtualTour,tourBooking,0.14595969
+164,"Hello, I would like to schedule a tour for Saturday 13, I would like to see studio #302",tourBooking,tourBooking,0.3410996
+165,Confirming that the apartment is cat friendly?,pet,unknown,0.0772636
+166,"I would like to yes. Monday - Thursday after 5pm is when my wife and I would be available, is there a time next week that schedule might work? ",tourBooking,tourBooking,0.26535684
+167,"Sorry about this but I have to cancel this appointment, I used Zillow to contact you but I was on 1490 pine not 1739, not sure why zilliow sent me to this address and not
+The unit I was viewing ",unknown,unknown,0.45393613
+168,Yes I would. I think I did a virtual tour,unknown,unknown,0.39794824
+169,Is it a live tour or prerecorded?,tourOptions,tourBooking,0.06911938
+170,Ok. Is the live tour an option?,tourOptions,tourBooking,0.13313007
+171,"On the website it said a live video tour was an option, not just a  recorded video ",tourOptions,tourBooking,0.10654953
+172,Thanks! Are there any units available with balcony?,amenities,unitAssignment,0.118147075
+173,What property,unknown,unknown,0.28230965
+174,Is the 2/13 in person or can I do it via a video call with an agent?,tourOptions,tourBooking,0.10428712
+175,"Hello Ryan! Thank you for reaching out. I would love to schedule a showing. I can do this evening if possible, or anytime this weekend. ",tourBooking,unknown,0.5059207
+176,Hi yes I Would like to schedule,tourBooking,unknown,0.5223917
+177,https://www.zumper.com/apartment-buildings/p226885/1025-post-downtown-san-francisco-ca?bsft_eid=f0a0cafe-a1f3-4e5d-93db-897abc412ad2&bsft_aaid=aa62ecf7-2655-4bf,propertyWebsiteLink,unknown,0.2197002
+178,0-bcce-26e6dd5fb92e&bsft_pid=fce702a5-625b-4905-84b9-ff13b512ee06&utm_campaign=1-week-reminder-for-viewed-in-last-day&utm_source=blueshift&utm_medium=email&bsft,unknown,unitAssignment,0.21321918
+179,I called the # and SF rent answered Marcus,unknown,unknown,0.3675944
+180,https://www.zumper.com/apartment-buildings/p268509/635-ellis-tenderloin-san-francisco-ca,propertyWebsiteLink,unknown,0.1500774
+181,Hey does Saturday still work?,tourBooking,unknown,0.16722271
+182,"Hi! I would like to prematurely schedule a virtual tour. I'm living in Covington, Kentucky right now but have job prospects in San Francisco. ",virtualTour,tourBooking,0.27740887
+183,2badrom,unknown,unknown,0.5193553
+184,Oh can we look at all of those apt? They're all same price po dba?,tourBooking,unitAssignment,0.43646115
+185,Will be available tomorrow morning 10am. Thank you for your response,tourBooking,unknown,0.52305984
+186,What space do I park in today,parking,tourBooking,0.057559017
+187,"Hi, my job temporarily shut down till Tuesday for some maintenance, any availability for a tour before then starting tomorrow ? ",tourBooking,tourBooking,0.23121485
+188,"I'm sorry, I take that back, we were just alerted that we're reopening, darn.",unknown,unknown,0.5374325
+189,We are applying now,unknown,unknown,0.42884576
+190,Yea i would like to!,unknown,unknown,0.6502248
+191,"Thanks for the reply I will definitely  be there at 5pm on Tuesday  February  16th to meet  with  Mr. Gothberg, and thank you  for your time 
+Kenneth Quivers ",tourBooking,unknown,0.47977695
+192,Monday works great,tourBooking,unknown,0.5184298
+193,400 less than what I'm paying now,moveInCost,unknown,0.38082725
+194,"Hey Ryan! I hope you are as well! 
+Yes I'd like to schedule a tour. I was wondering also the availability of a 3 bed room - is that something you have? ",tourBooking,tourBooking,0.2562376
+195,But what's the price,whatIntent_rent,unknown,0.39966756
+196,With deposit?,deposit,unknown,0.10678522
+197,What is the price for a studio,whatIntent_rent,unitAssignment,0.4689037
+198,sorry but is this studio for 3 people?,unknown,unitAssignment,0.18117936
+199,I need this studio🥺,unknown,unknown,0.65209895
+200,yes. I would like a virtual tour,virtualTour,unknown,0.40072522
+201,I work Tues thru Sat,unknown,unknown,0.6174535
+202,when are those available?,unknown,unknown,0.17578591
+203,I have all the required documentation,unknown,unknown,0.43488774
+204,"Hi, yes I'm interested. Is it possible to do a remote tour? I'm actually moving to San Francisco for a job so I'm not in the city yet. ",virtualTour,tourBooking,0.25401664
+205,Thanks for reaching out,unknown,unknown,0.6984681
+206,Wed Feb 17 11.30 am works for me,tourBooking,unknown,0.6092773
+207,"also what are the details of the move-in/furniture promotion?
+",leasingOfficePromotion,unitAssignment,0.051849768
+208,How much is it,whatIntent_rent,unitAssignment,0.39387107
+209,The application and guarantor application,leaseGaurantor,unknown,0.040217675
+210,Friday works! I'm a chef so work early morning at 6 till 2:30 so Friday works!,tourBooking,unknown,0.40695518
+211,Ok sounds good,unknown,unknown,0.7302964
+212,Do you have rentals other than San Francisco,unknown,unknown,0.1607789
+213,Perfect. Could you please share pictures of the interior of the units that are up for rent,amenities,unitAssignment,0.21707793
+214,Hi Ryan.. thank you for your email.Is this palace court apartments? Can you confirm the price range for studio?,moveInCost,unitAssignment,0.2402983
+215,I work all day Saturday so sadly that doesn't work for me.,unknown,unknown,0.38450533
+216,And no worries! Thank you so much for getting back to me Ryan!,unknown,unknown,0.6565327
+217,I am currently in San Diego and would like a virtual tour today or tomorrow,virtualTour,unknown,0.30777577
+218,Do you have any availability on Sunday?,leaseGaurantor,tourBooking,0.2514836
+219,Do you have studio or any 1 bedroom apartments available anywhere else in the city? Like the mission or elsewhere?,nearbyAttractions,unitAssignment,0.20675226
+220,I cannot..I work during those hrs..im off work at 830pm,unknown,unknown,0.41552275
+221,Did you rent out #5 yet?..its been posted off the market,tourBooking,unknown,0.39562786
+222,I just wanted to know more about utilities and amenities,amenities,unitAssignment,0.12238193
+223,"Hi Ryan!
+Thank you
+This studio is actually for my son.
+My son and I would like to see it 
+",tourBooking,unknown,0.49695352
+224,Will you be able to do a virtual tour?,virtualTour,tourBooking,0.23392151
+225,Whats the address again,community_address,unknown,0.4184215
+226,Thank you! One more q would I be able to see a two bed room too and also what is the price diff,moveInCost,unitAssignment,0.6359211
+227,What's the best option  for me in the mission for a studio?,moveInCost,unknown,0.26158354
+228,What Studios do you have available in the mission district?,unknown,unitAssignment,0.111661196
+229,Do you have other Apts available at that price?,moveInCost,unitAssignment,0.21306145
+230,Just want to follow up if he is waiitng for me,unknown,unknown,0.43347776
+231,Hi there! Waiting to hear back from my friend regards getting a place. I was actually helping her to find one. Let you know. Thank you!,unknown,unknown,0.6665649
+232,"Hello Ryan 
+Let me check and I will let you know 
+Thanks ",unknown,unknown,0.6713181
+233,"Hi Ryan, sorry I need to reschedule the tour, would it be possible tomorrow morning?",tourBooking,tourBooking,0.28592324
+234,I definitely would,unknown,unknown,0.7260438
+235,Yes I've scheduled a tour for tomorrow,tourBooking,unknown,0.45864812
+236,"Hi, I would like to know if a Guarantor is required and if there is a security deposit?",leaseGaurantor,unitAssignment,0.07813171
+237,"Can I see it tomorrow after work, 5:45pm?",tourBooking,unknown,0.37262025
+238,I keep getting text,unknown,unknown,0.5793791
+239,Get you some sleep god,unknown,unknown,0.7146193
+240,Can you please text me which apartment ?,community_address,unknown,0.121260814
+241,"Hi Ryan, to thanks for texting me. Yeah, I'd like to schedule a tour and see the place, I'm available on weekends. Let me know a good time for you.",tourBooking,unknown,0.5195459
+242,Does the property offer a private bathroom and bedroom ?,amenities,unitAssignment,0.04795978
+243,"Ryan , Thank you for showing the room for me ...I will call again soon  ...",unknown,unknown,0.63833326
+244,I won't be available this Saturday,tourBooking,unknown,0.45844057
+245,What was the price again ?,whatIntent_rent,unknown,0.38067713
+246,What will be included in that again ?,amenities,unknown,0.08633477
+247,What is included with the rent ?,amenities,unitAssignment,0.1326022
+248,Really a studio  or 1 bed,amenities,unitAssignment,0.43736562
+249,"Okey that's work for me,",unknown,unknown,0.62887216
+250,I just left downtown can send a virtual video or pics again ?,propertyWebsiteLink,tourBooking,0.15694962
+251,Many thanks,unknown,unknown,0.73714554
+252,Hi so I scheduled a tour and it's supposedly at this time. What number would I reach them at?,tourBooking,unknown,0.25116584
+253,Let me know I'll send app,unknown,unknown,0.59861135
+254,I said 8:00pm don't believe you heard me correct I can do that time sun,tourBooking,unknown,0.48005942
+255,"Sat Feb 27, 2-2:30 is good!",tourBooking,unknown,0.5087562
+256,Can I go head do app,unknown,unknown,0.3904836
+257,"Hi Ryan, yes please I would like to set up a tour of the property. ",tourBooking,unknown,0.39579016
+258,Just making sure that the property is $1425 a month?,whatIntent_rent,unknown,0.37491804
+259,I am canceling the 500pm tour of 555 O’farrell on the 25 of February.,unknown,unknown,0.42057043
+260,Thanks so much! How long is the lease may I ask?,leasePeriod,unitAssignment,0.25159115
+261,Hey are you guys available for 3:30 or should I just wait until Tuesday?,leasingOfficeHoursTuesday,unknown,0.38242915
+262,Hey Ryan! I scheduled an appointment for 2pm tomorrow to see the place,tourBooking,unknown,0.5454102
+263,"Ok, I can be there 4-4:15. Ok for you? Parking?",parking,unknown,0.36033684
+264,We we're heading from another place in Oakland,unknown,unknown,0.5628742
+265,"Thank you so much
+Good night ",unknown,unknown,0.72920084
+266,Will do. I got your email and will get something scheduled. Thanks!,tourBooking,unknown,0.60872644
+267,Unavailable,unknown,unknown,0.6618811
+268,Would I be able to make another appointment for another day?,tourBooking,unknown,0.16193518
+269,Hi yes I would like that,unknown,unknown,0.6858444
+270,"Hi Ryan, thanks for reaching out.  I would like to schedule a tour. Any chance that tomorrow morning would work?",tourBooking,unknown,0.4581484
+271,Yeah if that's the earliest you got then that works,unknown,unknown,0.6399667
+272,Questioned “I've scheduled you for 6 PM viewing on Tuesday 02/23/21. See you there! Take care.”,unknown,unknown,0.43003374
+273,"Hi, I wasn't asked to pay a fee for the application. Is there a step I may have missed? Thanks!",applicationFee,unknown,0.25447148
+274,i want to schedule a tour,tourBooking,tourBooking,0.29688644
+275,can i come for a tour,tourBooking,unknown,0.4134049
+276,"i want to schedule a tour
+VK",tourBooking,unknown,0.35707593
+277,Let go with Thursday at 6,tourBooking,unknown,0.40109015
+278,Or can you let me know when you have time Wednesday night and after. I'm currently mini vacationing with my son until work Wednesday?,leasingOfficeHoursWednesday,tourBooking,0.3046353
+279,Thursday 6 is good 👍,unknown,unknown,0.5419409
+280,I would like to!,unknown,unknown,0.66507226
+281,Hi! Thanks for reaching out!,unknown,unknown,0.6855289
+282,My boyfriend is scheduled for a tour later today. His name is Jamen Suter-Donaldson!,tourBooking,unknown,0.37430888
+283,I'm available today or Friday afternoon or any time next weekend,tourBooking,unknown,0.46925905
+284,"Hi Ryan, I have a question. There are two prices listed on both apartments.com and the link in your email. What is the price for the studios ? ",whatIntent_rent,unitAssignment,0.39825258
+285,I have time tomorrow and Wednesday-,tourBooking,unknown,0.3950164
+286,Thank you so much,unknown,unknown,0.7189355
+287,Works the best,unknown,unknown,0.68531114
+288,"Hi, I believe I already sent in my application and was told it is being processed",applicationProcess,tourBooking,0.16063842
+289,Haven't had the tour yet,unknown,unknown,0.5549892
+290,How much is it?,unknown,unknown,0.4618546
+291,I'm viewing property this Saturday,unknown,unknown,0.54617006
+292,I can come then,unknown,unknown,0.646156
+293,Unit 208.,unknown,unknown,0.51629585
+294,Removed a question mark from “I've scheduled you for 6 PM viewing on Tuesday 02/23/21. See you there! Take care.”,unknown,unknown,0.48458
+295,Haven't taken a tour yet,unknown,unknown,0.539012
+296,It was 1500 but The highest would be 1800 maybe,whatIntent_rent,unknown,0.40129566
+297,Sure but you know we are moving in may at most,unknown,unknown,0.44358712
+298,So will he approve if we tried to get that apartment?,unknown,unknown,0.2671566
+299,"Thank you, when we get to the place will this person be there?",unknown,unknown,0.32174453
+300,"Hello, I  stuck at a meeting. Do you have any availability over the weekend ?",tourBooking,unknown,0.34480107
+301,Yea just needed to know if I did a all cash payment for rent will i have to pass a credit check? I'm a college student so I have crap credit history!,creditScore,unitAssignment,0.119921006
+302,Thank you for contacting me. If possible Can we schedule a tour for Thursday or Friday. Thank you,tourBooking,unknown,0.4819444
+303,How much is the apartment? Does the property pay for utilities?,moveInCost,unitAssignment,0.23661582
+304,I would like to schedule a tour,tourBooking,unknown,0.3317183
+305,There's was no price on these two what are the prices,whatIntent_rent,unitAssignment,0.62541276
+306,"Hello Ryan, is the 6:00pm appt for the moving still available for tomorrow???",tourBooking,tourBooking,0.3029265
+307,"Thank you so much for reaching out to me! I am very much interested in the studio apartment for $1395. I would love to see the place if it is still available. I can be available tomorrow at 11:45am. However, I am in Southern California so if a virtual toor is possible that would be great!",virtualTour,unknown,0.3252036
+308,"Hi Ryan, thanks for reaching out. Not quite yet but I'm considering. 
+
+I wanted to ask where the bathrooms and showers are, also the cost of the rent and deposit. Do you allow students to stay at your apartments?",unknown,unknown,0.28517297
+309,Someone already reached out to me about that place from sf rent,unknown,unknown,0.58262324
+310,"Awesome, this is a great space and am really interested. What is the application process and how can I start?",applicationProcess,tourBooking,0.11504391
+311,I would like to apply for a studio that was advertised for $1395 if it is still available.,applicationProcess,unitAssignment,0.23691393
+312,Is the tour tomorrow at 6:00 for #306 or #406 1461 Alice or both?,tourBooking,tourBooking,0.2793284
+313,Good- thank you 🙏,unknown,unknown,0.7313678
+314,Oky thankes good,unknown,unknown,0.7381133
+315,"hi ryan, i was looking to learn more about the apartment and the requirements for applicant consideration.",applicationProcess,tourBooking,0.16417176
+316,"i can't call right now, but the best day for me to schedule a tour would be monday march 1st. or a virtual tour",virtualTour,unknown,0.319808
+317,that sounds good,unknown,unknown,0.69831014
+318,hear*,unknown,unknown,0.702287
+319,"Hey Ryan, I'm still just looking but if I do schedule a tour I'll let you know. Thank you.",tourBooking,unknown,0.6210101
+320,"Good morning sorry for the delayed response but yes would like to schedule a tour, preferably tomorrow ",tourBooking,unknown,0.36945152
+321,saturday works,unknown,unknown,0.518472
+322,Okay sure a virtual tour,virtualTour,unknown,0.5521204
+323,Tienen apartamentos disponibles de 2 recámaras,unknown,unknown,0.7404474
+324,"Hi Ryan , what is the price on this place?",whatIntent_rent,unknown,0.35841024
+325,Hey Kelsey. Thanks for the message. Actually I was wondering do you have any studios available? Also is month to month and option?,unknown,tourBooking,0.21787006
+326,I would like to do you have anything available on Sunday?,tourBooking,tourBooking,0.2773478
+327,Sorry tomorrow i need to cancel,tourBooking,unknown,0.5335143
+328,Where you send for me?,unknown,unknown,0.45946592
+329,So I have a lease rn that ends in may,unknown,unknown,0.35355303
+330,I'm looking for a may move in so if you don't get it rented by then,tourBooking,unknown,0.2358578
+331,"Hello, I'd like to cancel my tour.",tourBooking,unknown,0.28278646
+332,Thank u I have my appt with him tomarrow I hope he gets the voicemail I cant get there until 3 30 instead of noon time thanks again,tourBooking,unknown,0.5605102
+333,Yeah I like that one. Are you guys primarily located in downtown sf?,community_address,unknown,0.10871573
+334,"I know lower nob hill is a little pricier, but I would be okay with a studio within that price range there. Do you have any listings there? ",unknown,unknown,0.44147682
+335,"Hi Ryan. Yes, my roommate and I would love to schedule a tour. Does Sunday work?",tourBooking,tourBooking,0.3215945
+336,Thank you so much.,unknown,unknown,0.7264146
+337,"Hi! Are you available tomorrow, Saturday? ",leasingOfficeHoursSaturday,unknown,0.3125085
+338,"1 is fine. I'll rearrange some things, thanks! ",tourBooking,unknown,0.5654514
+339,Can you send me a vr tour,virtualTour,tourBooking,0.256711
+340,Sunday works for me,tourBooking,unknown,0.5996301
+341,Or else virtual tour is okay too,virtualTour,unknown,0.26673988
+342,hello Ryan thank you for your attention ok I am free that Saturday or Sunday if possible I would like to visit thank you.,tourBooking,unknown,0.3739199
+343,How much is the rent?,whatIntent_rent,unitAssignment,0.4441608
+344,"Hello, thank you. What is the location of the 1 bedroom apartment? ",community_address,unitAssignment,0.22489889
+345,"Hi! I'm still looking for a rental - anything max 1300 with utilities included, either a 1br/studio, and commuting distance to dogpatch",unknown,unitAssignment,0.36418012
+346,"Hi, sorry for the late response. I just seem that I'm not qualified, because my income is not enough. ",unknown,unknown,0.4586047
+347,What utilities are included in the rent?,utility,unitAssignment,0.08721254
+348,It a have to be virtually.,virtualTour,unknown,0.52023655
+349,This the address?,community_address,unknown,0.13945934
+350,"Thanks for reaching out, I've signed up for an open house on 3/06. Is anything else required?",tourBooking,unknown,0.31882998
+351,Yeah that'll work,unknown,unknown,0.71015036
+352,Yes Let's schedule a tour,tourBooking,unknown,0.3688718
+353,Saturday Mar 06 3:00 PM works,unknown,unknown,0.5231558
+354,Why are you texting me this late?,unknown,unknown,0.43840647
+355,Yes but not until late August. What was the price?,whatIntent_rent,unitAssignment,0.38001776
+356,Came Saturday be back on Monday,unknown,unknown,0.6274131
+357,which location are you with?,community_address,unknown,0.08236117
+358,I would not feel safe letting my wife walk alone there.,unknown,unknown,0.36738497
+359,That would be perfect,unknown,unknown,0.68950814
+360,"Oh dang, what address was the other location? ",community_address,unknown,0.074955866
+361,I thought y'all had other properties like you guys were connected?,unknown,unknown,0.6064374
+362,The 6th would be perfect,unknown,unknown,0.560532
+363,Im coming up from Southern California,unknown,unknown,0.5976125
+364,That would be awesome,unknown,unknown,0.6504028
+365,Sunday would work too :),tourBooking,unknown,0.3769585
+366,Yeah that would be fine :),unknown,unknown,0.600133
+367,"Okay awesome, thank you so much ",unknown,unknown,0.72638
+368,Okay thank.  I apologize for not getting back to you quickly.  Moving is not fun when it's just you.,unknown,unknown,0.6261315
+369,I just submitted the application,applicationProcess,unknown,0.122326754
+370,"Yes, I submitted the application about 3 minutes ago ",applicationProcess,unknown,0.15092976
+371,I like this property because it's only $765 I think dont quote me lol,tourBooking,unitAssignment,0.42288965
+372,Then with all the other money I get and help from my dad I'll be able to afford everything :),unknown,unknown,0.38766566
+373,Sometime this week and can you send me the address please,community_address,unknown,0.3113353
+374,I prefer a place with a stove. I also am not bringing my car with me so Oakland will be a little far given my job in dogpatch,amenities,unknown,0.26762828
+375,"I can come now, if you guys are ok",tourBooking,unknown,0.5015766
+376,I will get in touch with you next week.,unknown,unknown,0.6250587
+377,I currently live in NYC so would it be possible to schedule a viewing in a week or two? I'm planning to fly out to SF to view apartments,tourBooking,unknown,0.36170402
+378,are viewings only available on weekdays?,tourBooking,tourBooking,0.148107
+379,I have a application I will bring it tomorrow at 12:00,applicationProcess,unknown,0.35689887
+380,Hi Ryan! Thanks for a prompt repsonse. I would like to schedule a tour. Do you have any availability on the upcoming friday?,tourBooking,tourBooking,0.34221464
+381,Let me get back to you on that!,unknown,unknown,0.47718272
+382,"Thanks! That sounds great!
+Thursday works-I believe the time was 5pm on the listing?
+",tourBooking,tourBooking,0.30814633
+383,More information for right now please. If any move in special and total move in cost,moveInCost,unitAssignment,0.14467022
+384,Um sure for tomorrow I have a bunch of tours tomorrow so I can let you know that whenever I'm done with those thank you,tourBooking,unknown,0.51582545
+385,Hi Ryan. Thanks for reaching out! I am in LA and won't be able to come up to the Bay. I won't be moving until June and wanted to get a head start looking at buildings. I'd love to keep your contact and reach out in May if that's okay with you!,tourBooking,unknown,0.51387346
+386,Yeah can I schedule a tour please,tourBooking,unknown,0.34685683
+387,I need to know how much the studios go for?,whatIntent_rent,unknown,0.32494116
+388,What time? When?,unknown,unknown,0.6607995
+389,I will let you know later today what day is best for me thanks,unknown,unknown,0.5343001
+390,"would we be able to come tonight, around 5pm?",tourBooking,tourBooking,0.3226065
+391,What time?,unknown,unknown,0.647234
+392,Can you tell me about the current promotion?,leasingOfficePromotion,tourBooking,0.0949422
+393,"Yes, I was wondering what are you guys 2 bed rooms releasing for ?",whatIntent_rent,unitAssignment,0.438739
+394,"Great!
+I have to check my schedule to see when I can come, my daughter doesn't get out of school until 4pm Monday-Friday ",tourBooking,unknown,0.34223422
+395,Thank you. Cam you please explain what the “move in/furniture cost reimbursement “ means?,unknown,unitAssignment,0.11164419
+396,"Sorry, last question. What is the parking like for this building?",parking,unitAssignment,0.047229372
+397,Hey there sorry for not getting back to you sooner. I'm exploring a few other options I expect to work out so I'll reach out if not,unknown,unknown,0.6293494
+398,The rent for a studio is $1525 correct?,whatIntent_rent,unitAssignment,0.43146113
+399,"Hy Ryan, I would like to schedule a tour on saturday at 4pm.",tourBooking,unknown,0.37720534
+400,ok great! i had a quick question regarding income requirements is that something i could ask you?,incomeRequirement,unknown,0.15494484
+401,ok great! thank you so much ryan,unknown,unknown,0.7114676
+402,"Hello,This Is Lee. I Don't Remember Where Your Apartments Are Located, Perhaps Next Tuesday I Could Come To View The Apartments In Question?",tourBooking,unknown,0.3452339
+403,hi ryan! i'd like to schedule a viewing for today,tourBooking,unknown,0.50693595
+404,That would be awesome! Wednesday afternoon works best for me.,tourBooking,unknown,0.5263601
+405,Hi which city is the property  located in?,community_address,unitAssignment,0.052884366
+406,Where are you located,leaseOfficeDirection,unknown,0.2709226
+407,Is it a video tour?,virtualTour,unknown,0.096392445
+408,I'm in montana I'm looking for a place I can move into when I get down there,tourBooking,unknown,0.48084757
+409,Where are your rentals,community_address,unitAssignment,0.09673852
+410,Is this for chaseview apartments,unknown,unknown,0.15229811
+411,That works perfectly for me,unknown,unknown,0.5930738
+412,Yeah i want too,unknown,unknown,0.68852866
+413,Sounds good. Thank you!!,unknown,unknown,0.70021516
+414,What's the name of this apartment and location please .,community_address,tourBooking,0.066741295
+415,What kind of rental,unknown,unknown,0.21811494
+416,Location,community_address,unknown,0.4490148
+417,"Ty sure, i will once im back ty again",unknown,unknown,0.68436474
+418,That the one bedroom total move in $,moveInCost,unitAssignment,0.59503293
+419,I I got to go my turn,unknown,unknown,0.6232538
+420,Reposit,deposit,unknown,0.5005784
+421,What's the deposit,deposit,unitAssignment,0.052878164
+422,Hi is apt 28 available for 138 Hyde st?,unknown,unitAssignment,0.32163578
+423,I would like to go ahead and apply for unit 28,applicationProcess,unknown,0.19024898
+424,What are your requirements ?,applicationProcess,unknown,0.150541
+425,I also wanted to know if it's rent controlled?,rentIncrementPolicy,unitAssignment,0.12478022
+426,Ok online it says $1395,whatIntent_rent,unknown,0.36060408
+427,Okay so may I see both the studio and 1 bedroom,tourBooking,unitAssignment,0.5661911
+428,"Sorry for switching on you, but Thursday at 6 will actually work better for me! Thanks so much!",tourBooking,unknown,0.5684193
+429,sounds great! thanks so much!,unknown,unknown,0.69244933
+430,"Hi Ryan, yes I would like to schedule the tour for Thursday afternoon, ok?",tourBooking,unknown,0.43072578
+431,"Sorry, actually 6pm works for me on Thursday ",tourBooking,unknown,0.5415653
+432,The time on Thursday Mar 4 actually works,tourBooking,unknown,0.38061792
+433,I can go right after the post one,unknown,unknown,0.33696735
+434,Good,unknown,unknown,0.7500721
+435,Yes please I would like to come for a tour . Ok great that's wonderful,tourBooking,unknown,0.5923047
+436,Do you have 1 bedroom,unknown,unitAssignment,0.7198134
+437,Price range 645-780,whatIntent_rent,unknown,0.44019428
+438,Oh no I'll be at work until 5;30,unknown,unknown,0.6202631
+439,I'm fill out the application and then let you know,applicationProcess,unknown,0.4848107
+440,Thank you for reaching out to me I just set up an tour for the 13th,tourBooking,unknown,0.5235623
+441,Hello. Sorry I'm currently in class (I'm a teacher),unknown,unknown,0.33653215
+442,But yes I'd like to schedule a tour,tourBooking,unknown,0.34994632
+443,6:30 would probably work best for me,tourBooking,unknown,0.56661016
+444,Sounds good. Thanks,unknown,unknown,0.72367114
+445,Melodie🧖‍♀️Kay🏇Hiller🤸I 🚶🏾‍♀️am🧖‍♀️63 Birthday is in 12 30 1957 to12 30 2020 was my birthday I get 800$Dollers🚶🏾‍♀️Brandi 🧖‍♀️Page🤸her🧖‍♀️bithday4 21 1995 is her birthday🤸she gets700$Dollers🧖‍♀️she about to be 26on4 21 2021,unknown,unitAssignment,0.382384
+446,March 6th at 2:00pm works for me,tourBooking,unknown,0.50571144
+447,"All sounds good, thank you!",unknown,unknown,0.7118571
+448,That would be great,unknown,unknown,0.649142
+449,Yes would it be possible to do a virtual tour tomorrow or Friday?,virtualTour,tourBooking,0.22262742
+450,"Thanks, let do a video call your tomorrow at 6pm. ",virtualTour,unknown,0.40500748
+451,Good morning. I'm available this Saturday March 6th at 3pm.,tourBooking,unknown,0.56759447
+452,"Hi Ryan, is Marymount Iris the same as Iris garden? I came here, but apartment 3 is locked, both at 611 and 614 Iris street, cannot get through to Gwen ",unknown,unknown,0.23271815
+453,Hey! I'm out of town rn but I got a link for the virtual tour. I asked about the pricing earlier because your colleague mentioned some special rates?,moveInCost,unitAssignment,0.20463766
+454,Hello I have section 8,section8,unknown,0.22334142
+455,Are u open Saturday,tourBooking,unknown,0.5173566
+456,For the tour??,tourBooking,unknown,0.35934117
+457,"If you would prefer to discuss the details by phone, I'll be available for calls later this evening. Looking forward to hearing back from you!",unknown,unknown,0.59715486
+458,"I'll be available after 3:30 - 4pm, if that's alright",tourBooking,unknown,0.49807706
+459,"Sounds good, thank you!",unknown,unknown,0.7073569
+460,I'm available,unknown,unknown,0.6271434
+461,Do you have other properties ?,unknown,tourBooking,0.037563324
+462,I would like to schedule a tour tomorrow evening if it's possible. Around 6 o'clock,tourBooking,unknown,0.42889264
+463,I'm at work right now. I'm available to talk tomorrow morning,unknown,unknown,0.55010724
+464,That works for me.,unknown,unknown,0.6545935
+465,How much for monthly rent again?,whatIntent_rent,unitAssignment,0.45036763
+466,Thanks! Sure thing.,unknown,unknown,0.73736477
+467,"Hi, can I visit the studio (1,175/mo) on Thuesday or Wednesday after 7pm?",tourBooking,tourBooking,0.30832008
+468,Thank you so much!,unknown,unknown,0.7273868
+469,Are you available this Sunday 12-3pm or next Thursday 11-3pm ? Those are my days off,tourBooking,tourBooking,0.31541854
+470,My current place is a studio at 1600,unknown,unknown,0.39358833
+471,And nothing included,unknown,unknown,0.48748428
+472,Just the tour,tourBooking,unknown,0.55117005
+473,I dont recall this address. I'm looking for in SF,unknown,unknown,0.5359371
+474,Whats the total move in cost ect...,moveInCost,unitAssignment,0.5087724
+475,12pm works fine,unknown,unknown,0.6337431
+476,Sorry like I said I don't recall inquiring about that address. I only inquired about a 729 Jones St. building. I apologize if I did it by accident.,unknown,unknown,0.39932647
+477,"Hi Ryan. Yes, do you have anything available next week 10-14?",tourBooking,tourBooking,0.32542494
+478,"That's work for me, i will be there at 4:00",tourBooking,unknown,0.52210593
+479,"hi ryan, thanks for reaching out. is there a virtual tour for the studio? thanks!",virtualTour,unknown,0.46250603
+480,"Hello Ryan,
+Yes, I would like to schedule a tour. Are there any time slots for tomorrow after 3.30 pm or for Sunday?",tourBooking,tourBooking,0.31675625
+481,What's the current rent for a studio?,whatIntent_rent,unitAssignment,0.51168543
+482,Yes i would like to,unknown,unknown,0.6540398
+483,Hi I'm not available Saturday I work until 5:45,tourBooking,unknown,0.51941425
+484,I work tomorrow,unknown,unknown,0.59463835
+485,Can you send some photos of the unit?,amenities,unknown,0.25506145
+486,these photos appear to be 1/2 bedrooms,amenities,unitAssignment,0.4457206
+487,sf is to pricey for me thanks tho,moveInCost,unknown,0.47297052
+488,trust me i cant afford nothing in the bay area unless i can be a maintenance man after i get off my job🤦🏾‍♂️😂🤣😂but thanks tho,unknown,unknown,0.47561628
+489,"Hi Ryan 
+Is it co living or separate?",amenities,unknown,0.29229015
+490,Do yall work with eviction  and broken lease,evictionPolicy,unknown,0.1772488
+491,What all documents would i need? to get approved?,applicationProcess,unknown,0.099836305
+492,And what about the utilities ?,utility,unknown,0.076710664
+493,"Hello Ryan, I would like to schedule for Tuesday's or Wednesday.",tourBooking,unknown,0.4152319
+494,Yes. Do you offer virtual tours?,virtualTour,unknown,0.17927688
+495,Can you tell me more about the Move In/ Furniture Cost reimbursement promotion?,moveInCost,unitAssignment,0.12985456
+496,"Also, what leasing options do you offer?",leasePeriod,unitAssignment,0.09432532
+497,"Hi, can I schedule a virtual tour? ",virtualTour,tourBooking,0.31035918
+498,Friday from 6-7 would probably work best for me!,tourBooking,unknown,0.47040442
+499,"Hello ,its Benji, I'm sorry to inform you but I'll have to cancel the appointment due to something out of my control occuring. Sorry",unknown,unknown,0.5139038
+500,"Hey Ryan, thank you i am doing well and hoping the same for you. yes i would love to schedule a tour. when are you available?  ",tourBooking,unknown,0.4718521
+501,"I would like to see the 2 bedroom place on Thursday, please.",tourBooking,unknown,0.31446183
+502,"Hi I am, however I currently live in the Sacramento area so I would need to go next weekend if that's possible?",tourBooking,unknown,0.30674478
+503,Do you schedule tours for the Jekyll building as well?,tourBooking,tourBooking,0.14919548
+504,"Oh nevermind , sorry I just received your email ! I will complete that information & get it back to you soon ",unknown,unknown,0.5075934
+505,"Thank you Ryan. Yes, it would be better if I could have a schedule. ",tourBooking,unknown,0.42507
+506,"Yeah, I sure would. Thanks Ryan. Would 4pm work?",tourBooking,unknown,0.40929726
+507,Could I actually see both the O'Farrell apartment and the Hyde apartment during the Saturday showings? It would be more convenient to see both places on the same day. I apologize for the confusion!,tourBooking,unknown,0.28025293
+508,Yes I would like to schedule a tour but I also have a couple questions how long is the lease and how much is the rent?,tourBooking,unitAssignment,0.41799095
+509,"Hi Ryan, thanks for reaching out so quickly! I am available to view the property on March 22nd at 11:30am.",tourBooking,unknown,0.43579033
+510,I won’t be able to move in till May but I would love to do a virtual tour,virtualTour,tourBooking,0.26048967
+511,am i booked?,tourBooking,tourBooking,0.10490394
+512,Ok I will come today Mar 6:00PM up to  7:00 pm,tourBooking,unknown,0.50454193
+513,Hi I've been there before and have seen the place,unknown,unknown,0.5162478
+514,I submitted an application on Thursday and would like to check the status of it and see what else is needed,applicationProcess,tourBooking,0.22862156
+515,As well as a guarantor,leaseGaurantor,unitAssignment,0.07427988
+516,Hello. Sorry for the delay with responding. I can't seem to find the listing I responded to. Do you have any photos of the property you can send?,amenities,unknown,0.22809307
+517,"Hello, I think I'm at the apartment. #33 was that right?",community_address,unknown,0.5390765
+518,"Can you send me the address again, I'm not sure I have the right one",community_address,unknown,0.31228718
+519,Ok thanks sounds good 👍,unknown,unknown,0.6938603
+520,Okay thank you. Do you have any availability tomorrow after 4?,tourBooking,tourBooking,0.3176916
+521,"Yes, hello Ryan, thank you for the quick reply! Sorry I can't answer the call at the moment but I would like to know what the max occupancy for the unit is? ",amenities,tourBooking,0.2508374
+522,Hello! I unfortunately am still in school so I could only take a virtual tour but I would love to if possible,virtualTour,unknown,0.38439795
+523,Hello! I'm at the apartment. I'm not sure where to go,community_address,unknown,0.5735169
+524,Are you available tomorrow morning?,tourBooking,unknown,0.29953456
+525,"Hi Ryan, Do you have 1br appartment for 6 months lease? What is the price?",whatIntent_rent,unitAssignment,0.5668905
+526,I can't I clock up my work at 5 pm,unknown,unknown,0.37095642
+527,How Mach is the price you have at tenderloin,whatIntent_rent,unitAssignment,0.46053833
+528,Are pets allowed?,pet,unknown,0.04172965
+529,"Hi Ryan, yes I would like to schedule a tour ",tourBooking,unknown,0.4235238
+530,We didn't get a notification  or text or call  we waited for the tour but wasn't givin any information  how to do it,tourBooking,unknown,0.48708817
+531,Hi Ryan. An emergency has come up and I will have to reschedule. Can I reach out to you at a later date that works better?,tourBooking,unknown,0.5169418
+532,Yes I like idea went we can do ?,unknown,unknown,0.5164079
+533,Oh ok yea I never got a link but i would like to do that,unknown,unknown,0.5166141
+534,No thank you we signed a leased today with another property,unknown,unknown,0.22258507
+535,"My job starts on the 12th so I would really prefer to find a place before then, so if there is anything I can provide please let me know!",unknown,unknown,0.44206348
+536,I will be back in Southern California by then. I will be in Oakland tomorrow after 3pm and leaving Thursday afternoon,unknown,unknown,0.435127
+537,Yes. Schedule a tour tomorrow,tourBooking,unknown,0.47483763
+538,An earlier time please,unknown,unknown,0.59698045
+539,No Thursday is fine but can it be an earlier time?,tourBooking,unknown,0.35798723
+540,March 12 will do fine and thanks for asking I'm doing good I look forward to seeing the places the 12th,tourBooking,unknown,0.5721096
+541,"Ok i will  come  tomorrow mar 09  2021 
+6:00PM.",tourBooking,unknown,0.61341506
+542,Unfortunately for both my roommate and I are students and cannot schedule a tour for tomorrow. Do you have any time on Wednesday 03/10 perhaps?,tourBooking,tourBooking,0.31704316
+543,Wednesday work for u?,tourBooking,unknown,0.50070983
+544,Are there virtual tours ?,virtualTour,unknown,0.11730239
+545,Hi Ryan. I would like to schedule a tour. Is Wednesday afternoon or night works?,tourBooking,tourBooking,0.34398067
+546," convenient time I can reach you after that, please let me know! Thank you!",unknown,unknown,0.56548315
+547,"Hi Kelsey! I apologize for missing your calls yesterday. If you give me a time to reach out to you, that would be great! I get off work at 3:30 p.m. so whatever",unknown,unknown,0.5835179
+548,Hey! Yup. I believe I booked a tour for Saturday. Did that come through on your end,tourBooking,unknown,0.37980494
+549,Hello Ryan! Thank you for getting back to me! I would love to schedule a tour for this Friday or the following if you're available,tourBooking,unknown,0.4321429
+550,Morning do you have some unit whit 2 beds?,amenities,unitAssignment,0.44170994
+551,sounds good,unknown,unknown,0.7108807
+552,I got a question I filled out my application,applicationProcess,tourBooking,0.11924066
+553,Can we schedule an in person tour,tourBooking,tourBooking,0.17915499
+554,"well i'm in denver, so i can't physically take a tour. i just saw the ad and would like more info",virtualTour,unknown,0.37929365
+555,"Yes I would like to schedule at your, thanks for getting back to me. Is any time tomorrow available?",tourBooking,unknown,0.33408123
+556,"Hey so the link provided in the email you sent to me was for a studio apartment. I not interested in that unit. I am interested in the 3 bedroom, apt  #312. Is this the unit you are planning to show me? Also the rent for this unit is $2,295/month correct?",whatIntent_rent,unitAssignment,0.4919199
+557,"Thursday March 11th, 6:00PM-7:00PM works for me. ",tourBooking,unknown,0.5800039
+558,"Hi Ryan, it was great. Thanks. 
+I saw the 1 bedroom. ",unknown,unknown,0.54891217
+559,I BR has the promo for for 2month free,leasingOfficePromotion,unknown,0.32921958
+560,I was wondering if you have similar promo for a studio apt?,leasingOfficePromotion,tourBooking,0.0898509
+561,"so it's $1,195 ??
+
+what size is that loft space? would it fit a queen mattress?",amenities,unitAssignment,0.47814628
+562,Can you call him and get back to me,unknown,unknown,0.46591786
+563,He didn't call me  and i already send him voice mail,unknown,unknown,0.55002767
+564,hello! i actually have some questions regarding utility prices and move in dates first,utility,unitAssignment,0.19626737
+565,Do you have an earlier time,unknown,unknown,0.14243753
+566,I like person tour,tourBooking,unknown,0.32113138
+567,"Hi Ryan, thanks for responding! I would like to schedule a tour. I am free any time on Friday. ",tourBooking,unknown,0.43477333
+568,Saturday 4:00pm should work for me,tourBooking,unknown,0.47509313
+569,how much are they going for ??,whatIntent_rent,unitAssignment,0.39429858
+570,and how long is the lease ?,unknown,unitAssignment,0.30857974
+571,How much is the rent for one bedroom,whatIntent_rent,unitAssignment,0.71414524
+572,206 sounds good,unknown,unknown,0.6745483
+573,"The reason that I did not  schedule is because I saw no options for a viewing on Fridays, Can I do that?",tourBooking,tourBooking,0.23913056
+574,Can I get the address of the apartment?,community_address,tourBooking,0.108922996
+575,I live in alameda county. You can help ok thanks,unknown,unknown,0.6470774
+576,Hi Ryan yes I would like to tour both locations.,tourBooking,unknown,0.48744372
+577,Do you have any tours available the 23rd?,tourBooking,tourBooking,0.2863991
+578,What are the utilities included?,utility,tourBooking,0.03463045
+579,Saturday I'm not available,unknown,unknown,0.584934
+580,I available on Thursday Mar 11  6:00-6:45 pm not Saturday,tourBooking,unknown,0.4336848
+581,"It's a different building,  I'm sorry I thought you had access to all of the properties listed",unknown,unknown,0.24582675
+582,"Yes,  perhaps later today or tomorrow.   ",unknown,unknown,0.5911896
+583,Thank you Ryan! I was really hoping to come see it in person,tourBooking,unknown,0.6106131
+584,I would but r u able to do a virtual your,virtualTour,unknown,0.4278484
+585,hello can i see the estudio tomorrow like at 12 am,tourBooking,tourBooking,0.27251273
+586,I am working at this time,unknown,unknown,0.41277152
+587,Hey I had a Dr appointment via the phone that went east longer than expected. Could I possibly reschedule the viewing?,tourBooking,tourBooking,0.2397144
+588,Sure. Sounds good,unknown,unknown,0.7278368
+589,"That's a bit out of my price range but, thank you so much for reaching out to me. ",unknown,unknown,0.534925
+590,Y eso como de k es,unknown,unknown,0.747625
+591,Thanks Ryan! This property is ojt of my budget,unknown,unknown,0.48059252
+592,"Hi, my apologies I am working at the moment. Unfortunately I'm going to have to cancel today's tour. I'm sorry for any inconvenience this causes. I hope to reach out at another time I'm available. Thanks for reaching out.",unknown,unknown,0.54245555
+593,What about next Thursday?,tourBooking,unknown,0.31807566
+594,Thank you so much for getting back to me! one of my house mates may be able to make that showing time! let me check in with them and get back to you,unknown,unknown,0.5117058
+595,I'd love to! I'm relocating from Michigan - do you offer virtual tours?,virtualTour,tourBooking,0.22408228
+596,Thank you! Will you have units in this building available for an early May move in?,unknown,tourBooking,0.101247
+597,Yes do yall accept felons,misdemeanorPolicy,unknown,0.5154697
+598,Thank you! I saw In the email that the studio is listed at $2500 but in real listing I saw it was $1345,whatIntent_rent,unitAssignment,0.30923882

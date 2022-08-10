@@ -1,0 +1,82 @@
+schema: '2.0'
+stages:
+  load_data:
+    cmd: python src/stage_02_get_trining_data_from_s3.py
+    deps:
+    - path: src/stage_02_get_trining_data_from_s3.py
+      md5: 2c45721eed2c95cef32254cdd327c620
+      size: 5877
+    outs:
+    - path: artifacts/raw_data/test.csv
+      md5: 8ed89638b39516cdb1cbb9bf2843f1ca
+      size: 152940
+    - path: artifacts/raw_data/train.csv
+      md5: 3e56beac6a06eaa08d7739d35971782b
+      size: 96969
+  push_local_data_to_s3:
+    cmd: python src/stage_01_load_local_data_in_s3.py
+    deps:
+    - path: data
+      md5: eec0e72324191412975bd2a02519c8b0.dir
+      size: 387438
+      nfiles: 20
+    - path: src/stage_01_load_local_data_in_s3.py
+      md5: 03567d800d820caec1bfbb674ebd9981
+      size: 2409
+  prepare_data_stage:
+    cmd: python src/stage_03_prepare_data.py
+    deps:
+    - path: artifacts/raw_data/test.csv
+      md5: 8ed89638b39516cdb1cbb9bf2843f1ca
+      size: 152940
+    - path: artifacts/raw_data/train.csv
+      md5: 3e56beac6a06eaa08d7739d35971782b
+      size: 96969
+    - path: src/stage_03_prepare_data.py
+      md5: 193ebed0f33106ef484ceea1c1faec36
+      size: 4143
+    outs:
+    - path: artifacts/prepared/test.csv
+      md5: 7af55f45c707abcd8a312f72847887df
+      size: 44119
+    - path: artifacts/prepared/train.csv
+      md5: 7d9fc22d0e7b7b2885e138f9ecba17e8
+      size: 96957
+  create_label_encoder:
+    cmd: python src/stage_04_label_encoder.py
+    deps:
+    - path: artifacts/prepared/train.csv
+      md5: 7d9fc22d0e7b7b2885e138f9ecba17e8
+      size: 96957
+    - path: src/stage_04_label_encoder.py
+      md5: 30303f03e30060fa44ba43d1e1046100
+      size: 3419
+    outs:
+    - path: artifacts/model/encoder.pkl
+      md5: 559bf8b31e6a4ebb49c073309783a6fb
+      size: 1281
+  training:
+    cmd: python src/stage_05_training.py
+    deps:
+    - path: artifacts/prepared/train.csv
+      md5: 79d7cf3ef63102098ab4ab324ecf3cf9
+      size: 96935
+    - path: src/stage_05_training.py
+      md5: 9e9a4afe38ca7e8a61c0fdd02f90ae29
+      size: 7194
+  create_benchmark_result:
+    cmd: python src/stage_07_evaluate_metrics.py
+    deps:
+    - path: artifacts/evaluation_dir/evaluation_result.csv
+      md5: 180bf3704f772dae599577d9d53f9d8e
+      size: 56240
+    - path: src/stage_07_evaluate_metrics.py
+      md5: ef5a0e4005058236cc5ccb06ac34fd45
+      size: 3920
+    outs:
+    - path: artifacts/benchmark_dir/benchmark_result.csv
+      md5: 70d38cb3a79549ab307e33ae634cd64b
+      size: 5389
+    - path: scores.json
+      md5: c474ff49cdf091594e5ff151d594f042
+      size: 233

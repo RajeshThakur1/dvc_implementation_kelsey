@@ -1,0 +1,2349 @@
+Unnamed: 0,utterance,expected
+0,"Hi Kelsey, thank you for reaching out! Before I come in I just have a couple of questions. What amenities do you offer at the property?",amenities
+1,Yes that does! What is the pet policy in place at your apartment?,pet
+2,Ok sounds good thanks. And is there any security deposit discount available?,deposit
+3,I understand thank you. Can I come in this Friday at 4pm?,tourBooking
+4,Are you going to tell me who this is?,unknown
+5,A tour of that pussy,unknown
+6,Oh big bug,unknown
+7,Yes I would like a tour.,tourBooking
+8,"It would be just me and my son, he's 3. Im 26. I am just looking for a better living situation for us. And affordable because I will be paying alone.",moveInCost
+9,What's ur price on the 1 bedrooms,whatIntent_rent
+10,Can we do a tour Tuesday?,tourBooking
+11,I can make that happen,unknown
+12,I'd love to come take a look at the property today what time you'll be in till,tourBooking
+13,Okay sounds good,unknown
+14,2 bedrooms are $850,whatIntent_rent
+15,yes but i'll have time again on Friday will get you back,tourBooking
+16,No I'm thinking of moving in may or June,unknown
+17,Santa Clara is closer I work in Hayward at the Pepsi plant,unknown
+18,Prices,whatIntent_rent
+19,Hello do you have a 2 bdrm and how much,whatIntent_rent
+20,Where are you located?,community_address
+21,i think we are good,unknown
+22,looking for where close to the city,nearbyAttractions
+23,Yes that's fine.. February! 1 bed/ 1bath. No children nor pets.,unknown
+24,"Awesome.. See you around the 11th.
+What will be the security deposit and requirements..",deposit
+25,Yes I would like to schedule a tour,tourBooking
+26,Hi! Yes pets are allowed,pet
+27,"Good afternoon if I would like, tell me at what time and the address",tourBooking
+28,I dont recall asking about an apartment,unknown
+29,What is the pet polocy,pet
+30,What is the pet pololicy,pet
+31,"Are pets allowed
+",pet
+32,How many,total_units
+33,How many pets are allowed,pet
+34,Where are the apartments located ?,community_address
+35,Is scheduling a tour at 6 am moral ?,unknown
+36,Wrong direction,unknown
+37,What is the rent for the 1 bedroom and location?,whatIntent_rent
+38,Not just yet. What are 2bd prices and what's include?,whatIntent_rent
+39,Are pets allowed- what are fees for same?,pet
+40,What are the amenities? Is there a washer dryer in unit?,amenities
+41,No our dog is not allowed. Thank you,unknown
+42,Sorry but I understood that the tour was canceled.,unknown
+43,Moving out of state thank you,unknown
+44,I'm actually getting ready for work,unknown
+45,"Hi Kelsey, that was a while ago, I already found a place, thanks though!",unknown
+46,Where you guys located,community_address
+47,Could you send me information ?,unknown
+48,I have been so busy with work and I work from 9pm to 7 am Sunday through Thursday nights. So when I get off I'm dragging myself because of the type of work I do,unknown
+49,Si la verdad me interesa cuánto es la renta y que necesito y para cuándo está disponible,unknown
+50,"Thanks 
+We decide to stay more time in our current home ... ",unknown
+51,I will let my friend know and see what she says. Thank you!,unknown
+52,How much is that going for,whatIntent_rent
+53,That is pricey,incomeRequirement
+54,I can't afford that.i barely bring home 2400 a month,whatIntent_rent
+55,This place must be very nice,amenities
+56,But that's still pricey,whatIntent_rent
+57,"Okay, let me get back to you in the morning when I get off. I'll be sure to stay up until I talk to you",unknown
+58,Do you allow a dog over 65 lbs and pit bull?,pet
+59,"No, I found a place. Thank you. ",unknown
+60,Thank you ! Do you know when they will be getting I. Touch with me ?,tourBooking
+61,Ok no problem I left a voicemail   So hopefully they get back to me this week,tourBooking
+62,We have selected another property thank you for your time,unknown
+63,Hello 2300 is to much for me thank you though I am willing to go 2000 if you find anything,whatIntent_rent
+64,Ok I will be willing to take a tour on Monday morning I will message tomorrow,tourBooking
+65,What is the deposit?,deposit
+66,Do you allow fogs?,pet
+67,No not moving now. Lost job. But thank you for checking.,unknown
+68,I work in South Bay,unknown
+69,I have a car hard to park,parking
+70,Parking,parking
+71,It's going to cost me a lot to get out of my apt in south baby,moveInCost
+72,"IN / FURNITURE COST AND NO APPLICATION FEE
+Exclusions may apply.”",unknown
+73,Ok can I park at your office,parking
+74,Okay I'll go ahead and call him thank you!,unknown
+75,"We can do tomorrow 5:30-6:30. Sorry I keep missing your calls. I'm at work. Should I text, call or just show up at that time?",tourBooking
+76,Thursday the 11th would be perfect!,tourBooking
+77,GOODAY do pictures of the place my bed is a cal.king,unknown
+78,Are pit bulls allowed here?,pet
+79,Do you have any virtual tours available?,virtualTour
+80,pets ?,pet
+81,"Hello, I have the tour schedule it for 2/9 at 6 pm",tourBooking
+82,"Hello Kelsey, I currently reside in NY. Do you do virtual tours? ",virtualTour
+83,"Hi, is this regarding a studio apartment?",unknown
+84,Hi Kelsey! Sure! What time?,tourBooking
+85,I do apologize for the late response. I am at work. But I was specifically interested in seeing unit #05 that I saw advertised for $1195 per month.,tourBooking
+86,(To apply as a tenant),applicationProcess
+87,That would be wonderful too actually thank you!,unknown
+88,Ah. Thank you for reaching out. So I'm currently not based in SF and will be relocating next month. I have a colleague of mine who will check the apartment out on my behalf,tourBooking
+89,"Hi Kelsey,
+Ryan actually scheduled me for the open house tour @3:30 tomorrow.
+I do appreciate your out reach.
+Thanks so much,
+Jayson ",unknown
+90,I can't tomorrow I was wondering if you have any available for next Friday,tourBooking
+91,"Hello Kelsey!  My apologies been such a busy week.  I actually scheduled a tour via email for Saturday (reply via sfrent.net)
+
+I found the listing via hotpads.  Should I just have scheduled with you instead?",unknown
+92,"Yes, I would like to schedule a tour",tourBooking
+93,Hi Ryan! We spoke earlier and booked a tour for Monday at 1 pm :),tourBooking
+94,"Hi Ryan! Thanks for your email. 
+
+I just wanted to confirm the cost of rent for the places you sent over. I noticed the move-in costs but wanted to clarify everything before moving forward. ",moveInCost
+95,Are there any Sunday tours,tourBooking
+96,"Obviously you didn't list any for Monday, but in case anything opens up please feel free to notify me",leasingOfficeHoursMonday
+97,"Quick question, were you talking about today or tomorrow for the 3:30 tour?",tourBooking
+98,Hey! Thanks for reaching out. I won't be able to until next week,unknown
+99,"Yes,A 1BdrmOr Studio, However, Do You Accept Section 8?&Is It Possible To Prorate The Security Deposit In Addition To Rent Payment Until The Security Deposit Amount Is Paid In Full? Also How Is Rent For Apts There,& Security Deposit?",section8
+100,What's the name of the place? And I would like to set up a tour,tourBooking
+101,Is pets allowed?,pet
+102,rent ?,whatIntent_rent
+103,what is the rent?,whatIntent_rent
+104,"Yes, I am looking for a rental in the right location. ",unknown
+105,I'm not looking for a rental anymore. Please close this out. Thanks!,unknown
+106,what is the rent??,whatIntent_rent
+107,"Hi Ryan, I'd be interested to get a virtual tour if possible first and more details about building before coming in for a tour",virtualTour
+108,"Hello! I work until 5, but I'm off Wednesday at 1. Any availability Wednesday afternoon?",leasingOfficeHoursWednesday
+109,How much is the rent for a 1br apt?,whatIntent_rent
+110,Sure!! A virtual tour?,virtualTour
+111,Studio and 1 bedroom,unknown
+112,"Hi Ryan, yes I would like to schedule a tour but could we do Thursday instead? Thank you for getting back to me",tourBooking
+113,I just booked it actually!,tourBooking
+114,Sure that would be great,unknown
+115,Its fine works for me,unknown
+116,Thanks so much!,unknown
+117,Sure! I can come by today or on Thursday,tourBooking
+118,Thank you for reaching out! Yeah I was able to talk to someone earlier.... I will be there 😬,tourBooking
+119,Thanks so much,unknown
+120,Hey im interested  in the property,tourBooking
+121,Are there 1 bedrooms,unknown
+122,Does it except pets,pet
+123,If not ill take the 2 bedroom,tourBooking
+124,Also I went to see the 2210 107 place yesterday and the property manager said they allow pets,pet
+125,Do you allow dogs?,pet
+126,That doesn't work. I get off work at 6,unknown
+127,or actually the weekend of the 19th/20th would be better,tourBooking
+128,"You mentioned tomorrow, is that still an option? If not, yes please register me for Saturday. I am very interested in seeing the place.",tourBooking
+129,Had to do something for my job !,unknown
+130,I'm not available on the weekend,tourBooking
+131,Great thank you so much!!,unknown
+132,Do you allow pets?,pet
+133,I would!,unknown
+134,Studio and $1245 and under price,whatIntent_rent
+135,Been working with John and Gustavo,unknown
+136,You are so awesome much appreciated,unknown
+137,Beautiful architecture inside,amenities
+138,Yes! Parking is free?,parking
+139,"designated parking space for your car. It's located in #10 Studio
+1739",parking
+140,Hopefully I can remove they are in all your units,unknown
+141,I just started new job and in Sunnyvale I am there Saturday and Monday 11-3,unknown
+142,Is utilities included and heat,utility
+143,"And is this promotion still valid
+
+I sent you an email about it . : $ 2500 REIMBURSEMENT FOR MOVE IN / FURNITURE COST AND NO APPLICATION FEE
+Exclusions may ",whatIntent_rent
+144,apply.,applicationProcess
+145,"your friend. No worries, Let's get you a safe location and a peaceful ",unknown
+146,"• Street parking only costs?
+
+I don't like a ladder in the middle of ",parking
+147,Says street parking only,parking
+148,Can I park in that space while viewing,parking
+149,Everyone is offering street parking,parking
+150,I want the space,parking
+151,Liked “Yes the promotion is still on going.”,unknown
+152,Last but not least the bunk bed has got to go,unknown
+153,Can they open up for 10 minutes I can't do any of these,tourBooking
+154,Don't want to get towed,parking
+155,Is all utilities included garbage electricity heat,utility
+156,I just want to know if I can park in that space while waiting for my apt,parking
+157,Because the other units are in soma area,nearbyAttractions
+158,What are requirements to move in,moveInCost
+159,"Hi there! Yes please! 
+I also have a couple questions. How much is the initial deposit? And are utilities included? ",deposit
+160,feedback survey. Please inform the office before lease signing.,unknown
+161,I I'll get this too right,unknown
+162,"Thank so much,I'm available Tuesday at 6:45pm",tourBooking
+163,Is it virtual? I am currently located in SoCal,virtualTour
+164,"Hello, I would like to schedule a tour for Saturday 13, I would like to see studio #302",tourBooking
+165,Confirming that the apartment is cat friendly?,pet
+166,"I would like to yes. Monday - Thursday after 5pm is when my wife and I would be available, is there a time next week that schedule might work? ",tourBooking
+167,"Sorry about this but I have to cancel this appointment, I used Zillow to contact you but I was on 1490 pine not 1739, not sure why zilliow sent me to this address and not
+The unit I was viewing ",unknown
+168,Yes I would. I think I did a virtual tour,unknown
+169,Is it a live tour or prerecorded?,tourOptions
+170,Ok. Is the live tour an option?,tourOptions
+171,"On the website it said a live video tour was an option, not just a  recorded video ",tourOptions
+172,Thanks! Are there any units available with balcony?,amenities
+173,What property,unknown
+174,Is the 2/13 in person or can I do it via a video call with an agent?,tourOptions
+175,"Hello Ryan! Thank you for reaching out. I would love to schedule a showing. I can do this evening if possible, or anytime this weekend. ",tourBooking
+176,Hi yes I Would like to schedule,tourBooking
+177,https://www.zumper.com/apartment-buildings/p226885/1025-post-downtown-san-francisco-ca?bsft_eid=f0a0cafe-a1f3-4e5d-93db-897abc412ad2&bsft_aaid=aa62ecf7-2655-4bf,propertyWebsiteLink
+178,0-bcce-26e6dd5fb92e&bsft_pid=fce702a5-625b-4905-84b9-ff13b512ee06&utm_campaign=1-week-reminder-for-viewed-in-last-day&utm_source=blueshift&utm_medium=email&bsft,unknown
+179,I called the # and SF rent answered Marcus,unknown
+180,https://www.zumper.com/apartment-buildings/p268509/635-ellis-tenderloin-san-francisco-ca,propertyWebsiteLink
+181,Hey does Saturday still work?,tourBooking
+182,"Hi! I would like to prematurely schedule a virtual tour. I'm living in Covington, Kentucky right now but have job prospects in San Francisco. ",virtualTour
+183,2badrom,unknown
+184,Oh can we look at all of those apt? They're all same price po dba?,tourBooking
+185,Will be available tomorrow morning 10am. Thank you for your response,tourBooking
+186,What space do I park in today,parking
+187,"Hi, my job temporarily shut down till Tuesday for some maintenance, any availability for a tour before then starting tomorrow ? ",tourBooking
+188,"I'm sorry, I take that back, we were just alerted that we're reopening, darn.",unknown
+189,We are applying now,unknown
+190,Yea i would like to!,unknown
+191,"Thanks for the reply I will definitely  be there at 5pm on Tuesday  February  16th to meet  with  Mr. Gothberg, and thank you  for your time 
+Kenneth Quivers ",tourBooking
+192,Monday works great,tourBooking
+193,400 less than what I'm paying now,moveInCost
+194,"Hey Ryan! I hope you are as well! 
+Yes I'd like to schedule a tour. I was wondering also the availability of a 3 bed room - is that something you have? ",tourBooking
+195,But what's the price,whatIntent_rent
+196,With deposit?,deposit
+197,What is the price for a studio,whatIntent_rent
+198,sorry but is this studio for 3 people?,unknown
+199,I need this studio🥺,unknown
+200,yes. I would like a virtual tour,virtualTour
+201,I work Tues thru Sat,unknown
+202,when are those available?,unknown
+203,I have all the required documentation,unknown
+204,"Hi, yes I'm interested. Is it possible to do a remote tour? I'm actually moving to San Francisco for a job so I'm not in the city yet. ",virtualTour
+205,Thanks for reaching out,unknown
+206,Wed Feb 17 11.30 am works for me,tourBooking
+207,"also what are the details of the move-in/furniture promotion?
+",leasingOfficePromotion
+208,How much is it,whatIntent_rent
+209,The application and guarantor application,leaseGaurantor
+210,Friday works! I'm a chef so work early morning at 6 till 2:30 so Friday works!,tourBooking
+211,Ok sounds good,unknown
+212,Do you have rentals other than San Francisco,unknown
+213,Perfect. Could you please share pictures of the interior of the units that are up for rent,amenities
+214,Hi Ryan.. thank you for your email.Is this palace court apartments? Can you confirm the price range for studio?,moveInCost
+215,I work all day Saturday so sadly that doesn't work for me.,unknown
+216,And no worries! Thank you so much for getting back to me Ryan!,unknown
+217,I am currently in San Diego and would like a virtual tour today or tomorrow,virtualTour
+218,Do you have any availability on Sunday?,leaseGaurantor
+219,Do you have studio or any 1 bedroom apartments available anywhere else in the city? Like the mission or elsewhere?,nearbyAttractions
+220,I cannot..I work during those hrs..im off work at 830pm,unknown
+221,Did you rent out #5 yet?..its been posted off the market,tourBooking
+222,I just wanted to know more about utilities and amenities,amenities
+223,"Hi Ryan!
+Thank you
+This studio is actually for my son.
+My son and I would like to see it 
+",tourBooking
+224,Will you be able to do a virtual tour?,virtualTour
+225,Whats the address again,community_address
+226,Thank you! One more q would I be able to see a two bed room too and also what is the price diff,moveInCost
+227,What's the best option  for me in the mission for a studio?,moveInCost
+228,What Studios do you have available in the mission district?,unknown
+229,Do you have other Apts available at that price?,moveInCost
+230,Just want to follow up if he is waiitng for me,unknown
+231,Hi there! Waiting to hear back from my friend regards getting a place. I was actually helping her to find one. Let you know. Thank you!,unknown
+232,"Hello Ryan 
+Let me check and I will let you know 
+Thanks ",unknown
+233,"Hi Ryan, sorry I need to reschedule the tour, would it be possible tomorrow morning?",tourBooking
+234,I definitely would,unknown
+235,Yes I've scheduled a tour for tomorrow,tourBooking
+236,"Hi, I would like to know if a Guarantor is required and if there is a security deposit?",leaseGaurantor
+237,"Can I see it tomorrow after work, 5:45pm?",tourBooking
+238,I keep getting text,unknown
+239,Get you some sleep god,unknown
+240,Can you please text me which apartment ?,community_address
+241,"Hi Ryan, to thanks for texting me. Yeah, I'd like to schedule a tour and see the place, I'm available on weekends. Let me know a good time for you.",tourBooking
+242,Does the property offer a private bathroom and bedroom ?,amenities
+243,"Ryan , Thank you for showing the room for me ...I will call again soon  ...",unknown
+244,I won't be available this Saturday,tourBooking
+245,What was the price again ?,whatIntent_rent
+246,What will be included in that again ?,amenities
+247,What is included with the rent ?,amenities
+248,Really a studio  or 1 bed,amenities
+249,"Okey that's work for me,",unknown
+250,I just left downtown can send a virtual video or pics again ?,propertyWebsiteLink
+251,Many thanks,unknown
+252,Hi so I scheduled a tour and it's supposedly at this time. What number would I reach them at?,tourBooking
+253,Let me know I'll send app,unknown
+254,I said 8:00pm don't believe you heard me correct I can do that time sun,tourBooking
+255,"Sat Feb 27, 2-2:30 is good!",tourBooking
+256,Can I go head do app,unknown
+257,"Hi Ryan, yes please I would like to set up a tour of the property. ",tourBooking
+258,Just making sure that the property is $1425 a month?,whatIntent_rent
+259,I am canceling the 500pm tour of 555 O’farrell on the 25 of February.,unknown
+260,Thanks so much! How long is the lease may I ask?,leasePeriod
+261,Hey are you guys available for 3:30 or should I just wait until Tuesday?,leasingOfficeHoursTuesday
+262,Hey Ryan! I scheduled an appointment for 2pm tomorrow to see the place,tourBooking
+263,"Ok, I can be there 4-4:15. Ok for you? Parking?",parking
+264,We we're heading from another place in Oakland,unknown
+265,"Thank you so much
+Good night ",unknown
+266,Will do. I got your email and will get something scheduled. Thanks!,tourBooking
+267,Unavailable,unknown
+268,Would I be able to make another appointment for another day?,tourBooking
+269,Hi yes I would like that,unknown
+270,"Hi Ryan, thanks for reaching out.  I would like to schedule a tour. Any chance that tomorrow morning would work?",tourBooking
+271,Yeah if that's the earliest you got then that works,unknown
+272,Questioned “I've scheduled you for 6 PM viewing on Tuesday 02/23/21. See you there! Take care.”,unknown
+273,"Hi, I wasn't asked to pay a fee for the application. Is there a step I may have missed? Thanks!",applicationFee
+274,i want to schedule a tour,tourBooking
+275,can i come for a tour,tourBooking
+276,"i want to schedule a tour
+VK",tourBooking
+277,Let go with Thursday at 6,tourBooking
+278,Or can you let me know when you have time Wednesday night and after. I'm currently mini vacationing with my son until work Wednesday?,leasingOfficeHoursWednesday
+279,Thursday 6 is good 👍,unknown
+280,I would like to!,unknown
+281,Hi! Thanks for reaching out!,unknown
+282,My boyfriend is scheduled for a tour later today. His name is Jamen Suter-Donaldson!,tourBooking
+283,I'm available today or Friday afternoon or any time next weekend,tourBooking
+284,"Hi Ryan, I have a question. There are two prices listed on both apartments.com and the link in your email. What is the price for the studios ? ",whatIntent_rent
+285,I have time tomorrow and Wednesday-,tourBooking
+286,Thank you so much,unknown
+287,Works the best,unknown
+288,"Hi, I believe I already sent in my application and was told it is being processed",applicationProcess
+289,Haven't had the tour yet,unknown
+290,How much is it?,unknown
+291,I'm viewing property this Saturday,unknown
+292,I can come then,unknown
+293,Unit 208.,unknown
+294,Removed a question mark from “I've scheduled you for 6 PM viewing on Tuesday 02/23/21. See you there! Take care.”,unknown
+295,Haven't taken a tour yet,unknown
+296,It was 1500 but The highest would be 1800 maybe,whatIntent_rent
+297,Sure but you know we are moving in may at most,unknown
+298,So will he approve if we tried to get that apartment?,unknown
+299,"Thank you, when we get to the place will this person be there?",unknown
+300,"Hello, I  stuck at a meeting. Do you have any availability over the weekend ?",tourBooking
+301,Yea just needed to know if I did a all cash payment for rent will i have to pass a credit check? I'm a college student so I have crap credit history!,creditScore
+302,Thank you for contacting me. If possible Can we schedule a tour for Thursday or Friday. Thank you,tourBooking
+303,How much is the apartment? Does the property pay for utilities?,moveInCost
+304,I would like to schedule a tour,tourBooking
+305,There's was no price on these two what are the prices,whatIntent_rent
+306,"Hello Ryan, is the 6:00pm appt for the moving still available for tomorrow???",tourBooking
+307,"Thank you so much for reaching out to me! I am very much interested in the studio apartment for $1395. I would love to see the place if it is still available. I can be available tomorrow at 11:45am. However, I am in Southern California so if a virtual toor is possible that would be great!",virtualTour
+308,"Hi Ryan, thanks for reaching out. Not quite yet but I'm considering. 
+
+I wanted to ask where the bathrooms and showers are, also the cost of the rent and deposit. Do you allow students to stay at your apartments?",unknown
+309,Someone already reached out to me about that place from sf rent,unknown
+310,"Awesome, this is a great space and am really interested. What is the application process and how can I start?",applicationProcess
+311,I would like to apply for a studio that was advertised for $1395 if it is still available.,applicationProcess
+312,Is the tour tomorrow at 6:00 for #306 or #406 1461 Alice or both?,tourBooking
+313,Good- thank you 🙏,unknown
+314,Oky thankes good,unknown
+315,"hi ryan, i was looking to learn more about the apartment and the requirements for applicant consideration.",applicationProcess
+316,"i can't call right now, but the best day for me to schedule a tour would be monday march 1st. or a virtual tour",virtualTour
+317,that sounds good,unknown
+318,hear*,unknown
+319,"Hey Ryan, I'm still just looking but if I do schedule a tour I'll let you know. Thank you.",tourBooking
+320,"Good morning sorry for the delayed response but yes would like to schedule a tour, preferably tomorrow ",tourBooking
+321,saturday works,unknown
+322,Okay sure a virtual tour,virtualTour
+323,Tienen apartamentos disponibles de 2 recámaras,unknown
+324,"Hi Ryan , what is the price on this place?",whatIntent_rent
+325,Hey Kelsey. Thanks for the message. Actually I was wondering do you have any studios available? Also is month to month and option?,unknown
+326,I would like to do you have anything available on Sunday?,tourBooking
+327,Sorry tomorrow i need to cancel,tourBooking
+328,Where you send for me?,unknown
+329,So I have a lease rn that ends in may,unknown
+330,I'm looking for a may move in so if you don't get it rented by then,tourBooking
+331,"Hello, I'd like to cancel my tour.",tourBooking
+332,Thank u I have my appt with him tomarrow I hope he gets the voicemail I cant get there until 3 30 instead of noon time thanks again,tourBooking
+333,Yeah I like that one. Are you guys primarily located in downtown sf?,community_address
+334,"I know lower nob hill is a little pricier, but I would be okay with a studio within that price range there. Do you have any listings there? ",unknown
+335,"Hi Ryan. Yes, my roommate and I would love to schedule a tour. Does Sunday work?",tourBooking
+336,Thank you so much.,unknown
+337,"Hi! Are you available tomorrow, Saturday? ",leasingOfficeHoursSaturday
+338,"1 is fine. I'll rearrange some things, thanks! ",tourBooking
+339,Can you send me a vr tour,virtualTour
+340,Sunday works for me,tourBooking
+341,Or else virtual tour is okay too,virtualTour
+342,hello Ryan thank you for your attention ok I am free that Saturday or Sunday if possible I would like to visit thank you.,tourBooking
+343,How much is the rent?,whatIntent_rent
+344,"Hello, thank you. What is the location of the 1 bedroom apartment? ",community_address
+345,"Hi! I'm still looking for a rental - anything max 1300 with utilities included, either a 1br/studio, and commuting distance to dogpatch",unknown
+346,"Hi, sorry for the late response. I just seem that I'm not qualified, because my income is not enough. ",unknown
+347,What utilities are included in the rent?,utility
+348,It a have to be virtually.,virtualTour
+349,This the address?,community_address
+350,"Thanks for reaching out, I've signed up for an open house on 3/06. Is anything else required?",tourBooking
+351,Yeah that'll work,unknown
+352,Yes Let's schedule a tour,tourBooking
+353,Saturday Mar 06 3:00 PM works,unknown
+354,Why are you texting me this late?,unknown
+355,Yes but not until late August. What was the price?,whatIntent_rent
+356,Came Saturday be back on Monday,unknown
+357,which location are you with?,community_address
+358,I would not feel safe letting my wife walk alone there.,unknown
+359,That would be perfect,unknown
+360,"Oh dang, what address was the other location? ",community_address
+361,I thought y'all had other properties like you guys were connected?,unknown
+362,The 6th would be perfect,unknown
+363,Im coming up from Southern California,unknown
+364,That would be awesome,unknown
+365,Sunday would work too :),tourBooking
+366,Yeah that would be fine :),unknown
+367,"Okay awesome, thank you so much ",unknown
+368,Okay thank.  I apologize for not getting back to you quickly.  Moving is not fun when it's just you.,unknown
+369,I just submitted the application,applicationProcess
+370,"Yes, I submitted the application about 3 minutes ago ",applicationProcess
+371,I like this property because it's only $765 I think dont quote me lol,tourBooking
+372,Then with all the other money I get and help from my dad I'll be able to afford everything :),unknown
+373,Sometime this week and can you send me the address please,community_address
+374,I prefer a place with a stove. I also am not bringing my car with me so Oakland will be a little far given my job in dogpatch,amenities
+375,"I can come now, if you guys are ok",tourBooking
+376,I will get in touch with you next week.,unknown
+377,I currently live in NYC so would it be possible to schedule a viewing in a week or two? I'm planning to fly out to SF to view apartments,tourBooking
+378,are viewings only available on weekdays?,tourBooking
+379,I have a application I will bring it tomorrow at 12:00,applicationProcess
+380,Hi Ryan! Thanks for a prompt repsonse. I would like to schedule a tour. Do you have any availability on the upcoming friday?,tourBooking
+381,Let me get back to you on that!,unknown
+382,"Thanks! That sounds great!
+Thursday works-I believe the time was 5pm on the listing?
+",tourBooking
+383,More information for right now please. If any move in special and total move in cost,moveInCost
+384,Um sure for tomorrow I have a bunch of tours tomorrow so I can let you know that whenever I'm done with those thank you,tourBooking
+385,Hi Ryan. Thanks for reaching out! I am in LA and won't be able to come up to the Bay. I won't be moving until June and wanted to get a head start looking at buildings. I'd love to keep your contact and reach out in May if that's okay with you!,tourBooking
+386,Yeah can I schedule a tour please,tourBooking
+387,I need to know how much the studios go for?,whatIntent_rent
+388,What time? When?,unknown
+389,I will let you know later today what day is best for me thanks,unknown
+390,"would we be able to come tonight, around 5pm?",tourBooking
+391,What time?,unknown
+392,Can you tell me about the current promotion?,leasingOfficePromotion
+393,"Yes, I was wondering what are you guys 2 bed rooms releasing for ?",whatIntent_rent
+394,"Great!
+I have to check my schedule to see when I can come, my daughter doesn't get out of school until 4pm Monday-Friday ",tourBooking
+395,Thank you. Cam you please explain what the “move in/furniture cost reimbursement “ means?,unknown
+396,"Sorry, last question. What is the parking like for this building?",parking
+397,Hey there sorry for not getting back to you sooner. I'm exploring a few other options I expect to work out so I'll reach out if not,unknown
+398,The rent for a studio is $1525 correct?,whatIntent_rent
+399,"Hy Ryan, I would like to schedule a tour on saturday at 4pm.",tourBooking
+400,ok great! i had a quick question regarding income requirements is that something i could ask you?,incomeRequirement
+401,ok great! thank you so much ryan,unknown
+402,"Hello,This Is Lee. I Don't Remember Where Your Apartments Are Located, Perhaps Next Tuesday I Could Come To View The Apartments In Question?",tourBooking
+403,hi ryan! i'd like to schedule a viewing for today,tourBooking
+404,That would be awesome! Wednesday afternoon works best for me.,tourBooking
+405,Hi which city is the property  located in?,community_address
+406,Where are you located,leaseOfficeDirection
+407,Is it a video tour?,virtualTour
+408,I'm in montana I'm looking for a place I can move into when I get down there,tourBooking
+409,Where are your rentals,community_address
+410,Is this for chaseview apartments,unknown
+411,That works perfectly for me,unknown
+412,Yeah i want too,unknown
+413,Sounds good. Thank you!!,unknown
+414,What's the name of this apartment and location please .,community_address
+415,What kind of rental,unknown
+416,Location,community_address
+417,"Ty sure, i will once im back ty again",unknown
+418,That the one bedroom total move in $,moveInCost
+419,I I got to go my turn,unknown
+420,Reposit,deposit
+421,What's the deposit,deposit
+422,Hi is apt 28 available for 138 Hyde st?,unknown
+423,I would like to go ahead and apply for unit 28,applicationProcess
+424,What are your requirements ?,applicationProcess
+425,I also wanted to know if it's rent controlled?,rentIncrementPolicy
+426,Ok online it says $1395,whatIntent_rent
+427,Okay so may I see both the studio and 1 bedroom,tourBooking
+428,"Sorry for switching on you, but Thursday at 6 will actually work better for me! Thanks so much!",tourBooking
+429,sounds great! thanks so much!,unknown
+430,"Hi Ryan, yes I would like to schedule the tour for Thursday afternoon, ok?",tourBooking
+431,"Sorry, actually 6pm works for me on Thursday ",tourBooking
+432,The time on Thursday Mar 4 actually works,tourBooking
+433,I can go right after the post one,unknown
+434,Good,unknown
+435,Yes please I would like to come for a tour . Ok great that's wonderful,tourBooking
+436,Do you have 1 bedroom,unknown
+437,Price range 645-780,whatIntent_rent
+438,Oh no I'll be at work until 5;30,unknown
+439,I'm fill out the application and then let you know,applicationProcess
+440,Thank you for reaching out to me I just set up an tour for the 13th,tourBooking
+441,Hello. Sorry I'm currently in class (I'm a teacher),unknown
+442,But yes I'd like to schedule a tour,tourBooking
+443,6:30 would probably work best for me,tourBooking
+444,Sounds good. Thanks,unknown
+445,Melodie🧖‍♀️Kay🏇Hiller🤸I 🚶🏾‍♀️am🧖‍♀️63 Birthday is in 12 30 1957 to12 30 2020 was my birthday I get 800$Dollers🚶🏾‍♀️Brandi 🧖‍♀️Page🤸her🧖‍♀️bithday4 21 1995 is her birthday🤸she gets700$Dollers🧖‍♀️she about to be 26on4 21 2021,unknown
+446,March 6th at 2:00pm works for me,tourBooking
+447,"All sounds good, thank you!",unknown
+448,That would be great,unknown
+449,Yes would it be possible to do a virtual tour tomorrow or Friday?,virtualTour
+450,"Thanks, let do a video call your tomorrow at 6pm. ",virtualTour
+451,Good morning. I'm available this Saturday March 6th at 3pm.,tourBooking
+452,"Hi Ryan, is Marymount Iris the same as Iris garden? I came here, but apartment 3 is locked, both at 611 and 614 Iris street, cannot get through to Gwen ",unknown
+453,Hey! I'm out of town rn but I got a link for the virtual tour. I asked about the pricing earlier because your colleague mentioned some special rates?,moveInCost
+454,Hello I have section 8,section8
+455,Are u open Saturday,tourBooking
+456,For the tour??,tourBooking
+457,"If you would prefer to discuss the details by phone, I'll be available for calls later this evening. Looking forward to hearing back from you!",unknown
+458,"I'll be available after 3:30 - 4pm, if that's alright",tourBooking
+459,"Sounds good, thank you!",unknown
+460,I'm available,unknown
+461,Do you have other properties ?,unknown
+462,I would like to schedule a tour tomorrow evening if it's possible. Around 6 o'clock,tourBooking
+463,I'm at work right now. I'm available to talk tomorrow morning,unknown
+464,That works for me.,unknown
+465,How much for monthly rent again?,whatIntent_rent
+466,Thanks! Sure thing.,unknown
+467,"Hi, can I visit the studio (1,175/mo) on Thuesday or Wednesday after 7pm?",tourBooking
+468,Thank you so much!,unknown
+469,Are you available this Sunday 12-3pm or next Thursday 11-3pm ? Those are my days off,tourBooking
+470,My current place is a studio at 1600,unknown
+471,And nothing included,unknown
+472,Just the tour,tourBooking
+473,I dont recall this address. I'm looking for in SF,unknown
+474,Whats the total move in cost ect...,moveInCost
+475,12pm works fine,unknown
+476,Sorry like I said I don't recall inquiring about that address. I only inquired about a 729 Jones St. building. I apologize if I did it by accident.,unknown
+477,"Hi Ryan. Yes, do you have anything available next week 10-14?",tourBooking
+478,"That's work for me, i will be there at 4:00",tourBooking
+479,"hi ryan, thanks for reaching out. is there a virtual tour for the studio? thanks!",virtualTour
+480,"Hello Ryan,
+Yes, I would like to schedule a tour. Are there any time slots for tomorrow after 3.30 pm or for Sunday?",tourBooking
+481,What's the current rent for a studio?,whatIntent_rent
+482,Yes i would like to,unknown
+483,Hi I'm not available Saturday I work until 5:45,tourBooking
+484,I work tomorrow,unknown
+485,Can you send some photos of the unit?,amenities
+486,these photos appear to be 1/2 bedrooms,amenities
+487,sf is to pricey for me thanks tho,moveInCost
+488,trust me i cant afford nothing in the bay area unless i can be a maintenance man after i get off my job🤦🏾‍♂️😂🤣😂but thanks tho,unknown
+489,"Hi Ryan 
+Is it co living or separate?",amenities
+490,Do yall work with eviction  and broken lease,evictionPolicy
+491,What all documents would i need? to get approved?,applicationProcess
+492,And what about the utilities ?,utility
+493,"Hello Ryan, I would like to schedule for Tuesday's or Wednesday.",tourBooking
+494,Yes. Do you offer virtual tours?,virtualTour
+495,Can you tell me more about the Move In/ Furniture Cost reimbursement promotion?,moveInCost
+496,"Also, what leasing options do you offer?",leasePeriod
+497,"Hi, can I schedule a virtual tour? ",virtualTour
+498,Friday from 6-7 would probably work best for me!,tourBooking
+499,"Hello ,its Benji, I'm sorry to inform you but I'll have to cancel the appointment due to something out of my control occuring. Sorry",unknown
+500,"Hey Ryan, thank you i am doing well and hoping the same for you. yes i would love to schedule a tour. when are you available?  ",tourBooking
+501,"I would like to see the 2 bedroom place on Thursday, please.",tourBooking
+502,"Hi I am, however I currently live in the Sacramento area so I would need to go next weekend if that's possible?",tourBooking
+503,Do you schedule tours for the Jekyll building as well?,tourBooking
+504,"Oh nevermind , sorry I just received your email ! I will complete that information & get it back to you soon ",unknown
+505,"Thank you Ryan. Yes, it would be better if I could have a schedule. ",tourBooking
+506,"Yeah, I sure would. Thanks Ryan. Would 4pm work?",tourBooking
+507,Could I actually see both the O'Farrell apartment and the Hyde apartment during the Saturday showings? It would be more convenient to see both places on the same day. I apologize for the confusion!,tourBooking
+508,Yes I would like to schedule a tour but I also have a couple questions how long is the lease and how much is the rent?,tourBooking
+509,"Hi Ryan, thanks for reaching out so quickly! I am available to view the property on March 22nd at 11:30am.",tourBooking
+510,I won’t be able to move in till May but I would love to do a virtual tour,virtualTour
+511,am i booked?,tourBooking
+512,Ok I will come today Mar 6:00PM up to  7:00 pm,tourBooking
+513,Hi I've been there before and have seen the place,unknown
+514,I submitted an application on Thursday and would like to check the status of it and see what else is needed,applicationProcess
+515,As well as a guarantor,leaseGaurantor
+516,Hello. Sorry for the delay with responding. I can't seem to find the listing I responded to. Do you have any photos of the property you can send?,amenities
+517,"Hello, I think I'm at the apartment. #33 was that right?",community_address
+518,"Can you send me the address again, I'm not sure I have the right one",community_address
+519,Ok thanks sounds good 👍,unknown
+520,Okay thank you. Do you have any availability tomorrow after 4?,tourBooking
+521,"Yes, hello Ryan, thank you for the quick reply! Sorry I can't answer the call at the moment but I would like to know what the max occupancy for the unit is? ",amenities
+522,Hello! I unfortunately am still in school so I could only take a virtual tour but I would love to if possible,virtualTour
+523,Hello! I'm at the apartment. I'm not sure where to go,community_address
+524,Are you available tomorrow morning?,tourBooking
+525,"Hi Ryan, Do you have 1br appartment for 6 months lease? What is the price?",whatIntent_rent
+526,I can't I clock up my work at 5 pm,unknown
+527,How Mach is the price you have at tenderloin,whatIntent_rent
+528,Are pets allowed?,pet
+529,"Hi Ryan, yes I would like to schedule a tour ",tourBooking
+530,We didn't get a notification  or text or call  we waited for the tour but wasn't givin any information  how to do it,tourBooking
+531,Hi Ryan. An emergency has come up and I will have to reschedule. Can I reach out to you at a later date that works better?,tourBooking
+532,Yes I like idea went we can do ?,unknown
+533,Oh ok yea I never got a link but i would like to do that,unknown
+534,No thank you we signed a leased today with another property,unknown
+535,"My job starts on the 12th so I would really prefer to find a place before then, so if there is anything I can provide please let me know!",unknown
+536,I will be back in Southern California by then. I will be in Oakland tomorrow after 3pm and leaving Thursday afternoon,unknown
+537,Yes. Schedule a tour tomorrow,tourBooking
+538,An earlier time please,unknown
+539,No Thursday is fine but can it be an earlier time?,tourBooking
+540,March 12 will do fine and thanks for asking I'm doing good I look forward to seeing the places the 12th,tourBooking
+541,"Ok i will  come  tomorrow mar 09  2021 
+6:00PM.",tourBooking
+542,Unfortunately for both my roommate and I are students and cannot schedule a tour for tomorrow. Do you have any time on Wednesday 03/10 perhaps?,tourBooking
+543,Wednesday work for u?,tourBooking
+544,Are there virtual tours ?,virtualTour
+545,Hi Ryan. I would like to schedule a tour. Is Wednesday afternoon or night works?,tourBooking
+546," convenient time I can reach you after that, please let me know! Thank you!",unknown
+547,"Hi Kelsey! I apologize for missing your calls yesterday. If you give me a time to reach out to you, that would be great! I get off work at 3:30 p.m. so whatever",unknown
+548,Hey! Yup. I believe I booked a tour for Saturday. Did that come through on your end,tourBooking
+549,Hello Ryan! Thank you for getting back to me! I would love to schedule a tour for this Friday or the following if you're available,tourBooking
+550,Morning do you have some unit whit 2 beds?,amenities
+551,sounds good,unknown
+552,I got a question I filled out my application,applicationProcess
+553,Can we schedule an in person tour,tourBooking
+554,"well i'm in denver, so i can't physically take a tour. i just saw the ad and would like more info",virtualTour
+555,"Yes I would like to schedule at your, thanks for getting back to me. Is any time tomorrow available?",tourBooking
+556,"Hey so the link provided in the email you sent to me was for a studio apartment. I not interested in that unit. I am interested in the 3 bedroom, apt  #312. Is this the unit you are planning to show me? Also the rent for this unit is $2,295/month correct?",whatIntent_rent
+557,"Thursday March 11th, 6:00PM-7:00PM works for me. ",tourBooking
+558,"Hi Ryan, it was great. Thanks. 
+I saw the 1 bedroom. ",unknown
+559,I BR has the promo for for 2month free,leasingOfficePromotion
+560,I was wondering if you have similar promo for a studio apt?,leasingOfficePromotion
+561,"so it's $1,195 ??
+
+what size is that loft space? would it fit a queen mattress?",amenities
+562,Can you call him and get back to me,unknown
+563,He didn't call me  and i already send him voice mail,unknown
+564,hello! i actually have some questions regarding utility prices and move in dates first,utility
+565,Do you have an earlier time,unknown
+566,I like person tour,tourBooking
+567,"Hi Ryan, thanks for responding! I would like to schedule a tour. I am free any time on Friday. ",tourBooking
+568,Saturday 4:00pm should work for me,tourBooking
+569,how much are they going for ??,whatIntent_rent
+570,and how long is the lease ?,unknown
+571,How much is the rent for one bedroom,whatIntent_rent
+572,206 sounds good,unknown
+573,"The reason that I did not  schedule is because I saw no options for a viewing on Fridays, Can I do that?",tourBooking
+574,Can I get the address of the apartment?,community_address
+575,I live in alameda county. You can help ok thanks,unknown
+576,Hi Ryan yes I would like to tour both locations.,tourBooking
+577,Do you have any tours available the 23rd?,tourBooking
+578,What are the utilities included?,utility
+579,Saturday I'm not available,unknown
+580,I available on Thursday Mar 11  6:00-6:45 pm not Saturday,tourBooking
+581,"It's a different building,  I'm sorry I thought you had access to all of the properties listed",unknown
+582,"Yes,  perhaps later today or tomorrow.   ",unknown
+583,Thank you Ryan! I was really hoping to come see it in person,tourBooking
+584,I would but r u able to do a virtual your,virtualTour
+585,hello can i see the estudio tomorrow like at 12 am,tourBooking
+586,I am working at this time,unknown
+587,Hey I had a Dr appointment via the phone that went east longer than expected. Could I possibly reschedule the viewing?,tourBooking
+588,Sure. Sounds good,unknown
+589,"That's a bit out of my price range but, thank you so much for reaching out to me. ",unknown
+590,Y eso como de k es,unknown
+591,Thanks Ryan! This property is ojt of my budget,unknown
+592,"Hi, my apologies I am working at the moment. Unfortunately I'm going to have to cancel today's tour. I'm sorry for any inconvenience this causes. I hope to reach out at another time I'm available. Thanks for reaching out.",unknown
+593,What about next Thursday?,tourBooking
+594,Thank you so much for getting back to me! one of my house mates may be able to make that showing time! let me check in with them and get back to you,unknown
+595,I'd love to! I'm relocating from Michigan - do you offer virtual tours?,virtualTour
+596,Thank you! Will you have units in this building available for an early May move in?,unknown
+597,Yes do yall accept felons,misdemeanorPolicy
+598,Thank you! I saw In the email that the studio is listed at $2500 but in real listing I saw it was $1345,whatIntent_rent
+599,What is the actual price monthly for the studio?,
+600,"Okay, what are you guys fees ? For application and admin ",
+601,I'll stop by next week,
+602,Thank you Ryan for your quick response. Yes I would love to see the place. Kenneth,
+603,Hello! Where do I go through all the leasing information,
+604,I am very interested in renting a room here as it is close to my current volunteer position! Thanks,
+605,"Hello Ryan, yes that would be wonderful ",
+606,"I am little confused, I received confirmation for a unit on Jones street but was looking as well for the 930 Sutter location ",
+607,I feel that may better suit my living space needs,
+608,I'm actually moving to the area so looking for something. Need a short term lease because I'm only going to be in the area for or 5 months for work and then transferring somewhere else. What are the terms and deposit for this property?,
+609,Is there apt with full bathrooms?,
+610,Hi! Thanks for reaching,
+611,I'm still deciding if I'm moving out or not,
+612,Hi sorry about that I'm currently at work!,
+613,"I there, this is Gustavo I want to cancel my appointment. Ty",
+614,Hi..Sorry...Can you confirm the location  please? Any website I can use to browse through the floor plans?,
+615,"I am a full time butcher at Whole Foods market in Berkeley, CA.
+
+Business Owner: 
+Computer Media Technical Engineering 
+
+Monthly income: 3,000$/ Minimum 
+
+No debt - Good credit
+
+Just myself. No pets. 
+
+",
+616,Liked “No worries. That is quite understandable. Please feel free to reach out to us should you feel you need help getting a new place so we can book a tour for you and help you any way we can. Take care!”,
+617,"Thank you for your kind patience and prompt responses.  If possible, I would like to reschedule my tour for Saturday at Noon.  Please let me know if that works. 
+",
+618,thank you so so much,
+619,What all you need now,
+620,Cause I need it ASAP,
+621,"Yes what's your policy on credit for your attendees , and what's the income requirements for roommates. 2 adults to be exact: ",
+622,"Hi Ryan, just another update that I'm interested in finding a 1 bedroom 1 bath apartment located in the Mission District please",
+623,so 2.5x per adult ? because we both make 1800-1900 a month,
+624,"Yes tomorrow at 4pm should be fine.  The best way would be FaceTime on the phone, if that works for you?  Also what is the monthly rent?",
+625,Also is that 138 Hyde St. Redwood City?  Because that would be too far from the Mission District for me,
+626,"That location works for me, but I still couldn't meet in person as I haven't been vaccinated yet, until then I can only meet virtually ",
+627,Thank you very much and stay safe!,
+628,Tuesday at 5:00 should work.,
+629,I would like to know more,
+630,Do still have studios available?,
+631,"Hello , I'm not sure about a tour for right now but I did have a question on the Claridge Hotel LLC Location . Is there no bathroom in the 408,319,318 units ?",
+632,tomorrow at 10:30 am is my best time,
+633,Yes i will come. What time yall close,
+634,Is it possible to book both?,
+635,I need to ask my son.,
+636,For what apartment,
+637,Is this you? If so I will pass. The prices are not what was posted on apartments.com.,
+638,1 bedroom,
+639,I asked yesterday what time yall closed,
+640,"I'm linking up to your,thanks Ryan what's the price on a studio ryan",
+641,I will be out of town for 2 weeks and i know yall wont hold it for mw until then if i get started now. So i can wait til i get back april 6th then come in,
+642,If i pay my deposit and app fee how long will you hold it for?,
+643,I would like to know more information about a 1bedroom to move in 1st April,
+644,I will apply for that apartment,
+645,"yes, but I'm starting my job this week and I'm not completely sure of my schedule just yet",
+646,that would be perfect!,
+647,"Hello Ryan, yes I would love to come by and see the place. Would this Friday afternoon too early evening work ?",
+648,Not at the moment.  I have two job interviews tomorrow so where I live depends on which job I get.  Ill be in touch soon though.,
+649,I'm just curious if they are income based I fear I'd not qualify,
+650,Hi I just scheduled a tour with you but I realized it's not a virtue tour.  Do you provide a virtual tour?,
+651,Ok that's not a problem. Are the apartments income based?,
+652,Thanks Ryan & same to you! Sure I would like to see the place!,
+653,"Oh whoops I didn't realize I was getting emails & texts from you, I am working til 6ish m-f but I could swing tomorrow at 6!",
+654,I was also wondering what are the dimensions of the loft space? How big is the upper area and larger common space?,
+655,Hi! I wanted to confirm what the price of the studio is first?,
+656,Thanks sounds good!,
+657,Can I still make my payment,
+658,Sounds good.,
+659,"Tuesday
+at 4:00 is good for me.what  is the address?",
+660,4pm works fine for me. Thank you.,
+661,Hola estoy en busca de un studio o apartamentos d un cuarto gracias,
+662,Me gustaría tengo que chequiar con mi hija a ver cuando me puede llevar xq no tengo carro y por el área d Katy no tiene ningún studio o apartamentos d un cuarto económico?,
+663,That works for me!,
+664,If that works for you of course,
+665,"Yes Ryan, please would like to schedule to see the place",
+666,I would like to schedule at  12:00pm! 3/16/2021,
+667,Great! Thank you very much.,
+668,"Wonderful, I will meet Toby Meyer tomorrow 12:00pm
+634 15th st
+Thanks again!",
+669,"Hey Ryan just following up, do you have any 1 bedrooms?",
+670,Hi! I'm so sorry for the late reply! I would absolutely love to come see it,
+671,"Thanks, I already applied",
+672,Because my credit is not that good but I can have a cosigner if needed,
+673,"So sorry i was not able to
+Attend the tour I would like to reschedule is that ok?",
+674,Cuanto es la renta$?,
+675,Te lo agradezco mucho gracias,
+676,Hello Yes I would like too,
+677,"Yes, but maybe next week ",
+678,"Hi there. Thank you for the tour.
+We will not go forward with 641 Iris Ave",
+679,Could we reschedule again sorry,
+680,"Hi Ryan, sorry im not able to pick up calls during work. Yes i would like to schedule a tour to see the place. Are you able to schedule me for this sunday the 21st at 1pm? ",
+681,"Hi so sorry for not getting back to you. I'm actually not local, i live near San Diego and I'm a future SFU student this fall. ",
+682,Thank you so much I really appreciate it !,
+683,Monday at 6pm sounds great..do I need to bring anything with me?,
+684,Can you send me a link or video tour I've lost my info,
+685,No that doesn't work for me after 3 pm work for Friday and Wednesday,
+686,I gotta check wth roomie. I ' ll get back to you in a few.,
+687,Ok great thank you so much!,
+688,How many bed rooms are we talking about and what's the rent?,
+689,"How does Tuesday work for you? Frankly,   I'm pretty sure this is a done deal - please don't rent to anybody before Tuesday! LOL!",
+690,Would tomorrow at 5 be convenient for you?,
+691,Are you available tomorrow to give the tour at 4pm?,
+692,"I would like to schedule a tour
+What tour times and days are available?",
+693,All those times work for me. Let's do tomorrow at 6pm,
+694,Good morning! Is the property at 930 Sutter no longer available? I received a notification last night indicating that it was no longer on the market,
+695,"Ok thanks, ill come to that address at 4pm today",
+696,do you have apartment photos you can send me?,
+697,"i'm not ready to schedule yet, i get in town in 3/27",
+698,What address?,
+699,Hi i would but first id like to know what is your price rent for a 1 bd? Just to make sure it matches whats on the website!,
+700,3/27 works for me,
+701,No I'm sorry we already had a tour,
+702,"yea, i was wondering if you guys were doing virtual tours by any chance? ",
+703,"Hi Ryan, nice to meet you. I'd be very Inter to schedule a tour, what's your availability ?",
+704,"Sorry I am at work right now, just saw this message as well. I don't think 1pm will work on Saturday but perhaps a bit later if possible.",
+705,What is all required to get approved for the apartment?,
+706,My first time living on my own,
+707,Thanks so much. Take care.,
+708,Can I sign up for a virtual tour?,
+709,I wanted to know how much is the rent for 1 bed room,
+710,How long is the lease,
+711,Month,
+712,Hello yes I would like to,
+713,Would like to know about ypur 2 bedroom apartments and how much they are,
+714,Can we do 3:30 cause I don't get off of work until 2:30,
+715,I would like a tour and more information also,
+716,Ok I am done. I like unit 54. How much is the deposit? And the rent monthly ?,
+717,can you send me photos! i need a regular shower atleast,
+718,Can you tell me about the price?,
+719,Hi! Yes! I would like to view the unit.,
+720,Are you available Monday the 22nd ?,
+721,"I am , i will schedule a tour online ",
+722,"Yes, I am available Monday, at 6:30pm. What is the exact address for this unit?",
+723,What's the address and what time,
+724,Hello I was wondering if I can come earlier,
+725,Unfortunately He's not answering I'm currently going back to Hayward I was trying to get a tour of it since I work in Oakland currently,
+726,"In that case, no thank you, I need a place that allows pets. Thanks. ",
+727,Hi I work at a dealership so my shifts don't end until 6pm can we make something work?,
+728,Once my partner knows her schedule for the week (later today) we can confirm - thanks!,
+729,Hi I won't be able to view the studio i try contacting Mario silva but couldn't get a hold of him,
+730,"Ah yes, I am but I just got off the phone to scheduled a tour. Thank you for reaching out ",
+731,How much is it for 304,
+732,Absolutely. Thank you so much. I just registered to view the property on Hyde at 400pm tomorrow.,
+733,I would like to schedule a tour please,
+734,I work M-F 8am-4:30,
+735,I was hoping for something this weekend or next,
+736,Is the tour for the 25th of March,
+737,Yes I am still interested...What is the price for a 1 bedrood?,
+738,What is your location?,
+739,Are you open now?,
+740,What property is this?,
+741,I think I'm holding off for a bit while I get vaccinated,
+742,"On Monday, I will return to work. The appointment will have to be at 10am on Monday or Tuesday.",
+743,Would I be able to do a tour today?,
+744,Good afternoon! I am here to view the property at 555 O'Farrell,
+745,What is the rent for a private room furnished?,
+746,Do you have anything for next weekend?,
+747,"Good evening I see theres a apartment available May 7th, unit 1212, and I wanted to see if you can provide a virtual tour or send pictures so I can see how the apartment looks? ",
+748,"Hello good morning Ryan, if I would like to make an appointment to see the apt .. could we schedule it for Tuesday March 23 at 8:00 am?",
+749,"Thanks for reaching out.  What is the address again, plz?",
+750,Is this heatherwood apts?,
+751,Yes im but will be on april. Im waiting for my family,
+752,"Awesome. Yes, i tried calling like 3 times. But, im interested in the 1bed 1bath 670sqft. What is the rent per month on that please?",
+753,Hi Ryan yes I would love to see the place. When can I schedule a viewing?,
+754,Yea Tuesday at 6pm works!,
+755,Thank you so much Ryan!,
+756,Are you available Wednesday March 24?,
+757,"Ok, let me check and will let you know ",
+758,How you get my phone number?,
+759,Hello Ryan! I'm talking to my girlfriend and we would love to schedule a tour! Are your available today or tomorrow?,
+760,"Hello, may I as if we can tour at a later time? We just have work until 6",
+761,Oh ok I appreciate you reaching out to me I am actually looking for my own place right now I'm currently living with my parents we can talk more about it later,
+762,"Hello, thank you likewise! My boyfriend would be able to go check out the place on Wednesday, if that works. ",
+763,Alright sounds good,
+764,"Excellent. 
+I'll be there.
+Please text me an hour in advance. 
+Thanks",
+765,I need a bigger 1 bdrm,
+766,what is the rent ?,
+767,how many bathrooms ?,
+768,Is woods allowd?,
+769,rooms,
+770,Yes but I don't get off til 4pm,
+771,Yes please  what is the  rent again,
+772,Hi Ryan I'm already with sf rents.. isn't that green tree property management,
+773,I reside at 660 clipper st and I'm trying to down grade or upgrade IF I can find a HOME for rent,
+774,"Hi Ryan, yes, I'd like to schedule a tour. I see in your email that 6p on Thursday is available, right? ",
+775,Tomorrow 5pm would work thanks,
+776,"Hi, I'm still interested just a little confused on what the rent is. ",
+777,"I am still in the market for an apartment in that price range in the city, but if you know of one with parking, I would be interested! ",
+778,"I am, do you have any 1 bedroom or studio available now to about a month out? If so how much? And do you allow dogs?",
+779,"Hi Ryan, thanks for reaching out. I'm definitely interesting in viewing the place. May I ask when the availability for this extends to? ",
+780,"I can do virtual 
+",
+781,"No, i just wanted to ask",
+782,Buy my parents send me money,
+783,I would like to schedule a tour for tomorrow if possible.,
+784,"Hi, I'm not in SF, but would a virtual tour this Thursday or Friday evening work?",
+785,"Hello Ryan ,yeah I would love to schedule a tour ,that would be great,when are your available times to check it out",
+786,I registered through the form online.,
+787,"Hi Ryan! Thank you for the messages. I was in different country so I didn't receive your text during last few days. So I apologize for delayed response. For now, I don't think I'll move to Sunnyvale but further south. I'll let you know if I decide to move to Sunnyvale, because I'm definitely interested in your apt if I choose Sunnyvale.",
+788,Please send me other studio properties within that price range.,
+789,Saturday 6 pm works,
+790,"Correct, not at the moment. If my house doesn't close in one week I will reach back out! 😬",
+791,"Hi Ryan,yes I would like to schedule a tour ",
+792,"Hey there, I was unable to make the appointment due to being stuck in a meeting ",
+793,Would I be able to sign a 6 mo lease with this location?,
+794,Do you have something open?,
+795,Yes I would like that,
+796,Ok I will remember to ask him on the tour.,
+797,It's a google meet or I need to come that address??,
+798,Ok thank you so much,
+799,"I'm sorry but I'm going to have to cancel—unfortunately I had to drive my mom to get an emergency root canal, so I'm not sure that I'll be free by 6pm.  Sorry!",
+800,Should I see the place first before application?,
+801,"Yeah, I can look at those as well, what are the prices and rooms? ",
+802,All these allow dogs as well?,
+803,I'm doing good thank you. Yes I would like to see itThursday.,
+804,Thursday works!,
+805,"Hey Ryan! I am, but I actually don't believe I'll make the income requirement; I make 2.5X the income, not 3X.",
+806,I'm available on Wednesday,
+807,Yes that would be great. A virtual tour. If I decide no that apartment can I meet you on Friday morning or midday for paper work.,
+808,Hi! I thought I did through the email already!! Maybe it didn't go through but I'll be there :),
+809,I have booked doing hair for my clients.. may i come in friday?,
+810,"4:30? Can I please have the address? I'm new to the area and would appreciate landmarks per the rental. 
+Thank You 
+Ruscelyn ",
+811,I'm at work,
+812,"Next week  if i able to, out of town. ",
+813,"Yeah I'm at work
+I don't what time I'm getting off work",
+814,Six 530 sounds good or 5 o'clock at your earliest convenience,
+815,"Hi! I hope you are well and healthy as well. Yes, I would love to schedule a tour.",
+816,"How much is
+Rent Monthly because I was looking at a lot of places so I'm just trying to be sure which one this exactly is",
+817,I am jus not in San Francisco at this time do u have any other locations available.,
+818,6pm pacific time or est?,
+819,That works!  Will you send me a zoom link or another platform for virtual tour?,
+820,"Yes, I'm not going to be in the Bay until April so I'd like a virtual tour please ",
+821,Thank you! Question: is the loft bed a twin or full size?,
+822,Tomorrow would be awesome,
+823,"Sorry, not tomorrow but Saturday works for sure. See you at 12?",
+824,Is it ok if I bring my small dog? Just so you can meet him..,
+825,Hi. That actually works for me,
+826,Wonderful. Thank you so much,
+827,"Just checking, thank you. Your guys' website said something else",
+828,"Ok that works 
+I will be there",
+829,Just got off of work thank you for a response. Definitely still interested in coming in to see. Anytime this weekend would work preferably in the morning,
+830,Hey I know it's late I don't mean to bother you do you mind sending me the address with the ZIP Code and everything so I can look up up on my gps tomorrow,
+831,Studio that accepts cats,
+832,two cats,
+833,"What is approx utilities bill?
+
+What is 3rd party services? ",
+834,"Hi Ryan, thank you so far have been pretty healthy. I hope you are well yourself. I did have a question regarding the price of the unit given the it shows 1,345 on the post and 2,500 on the terms.
+Also, do you happen to do virtual tours since I am currently in Southern, CA?
+ ",
+835,"So what is responsibilities here? I will only book to tour when I have details. And I want to go thru that.
+I do not want to waste their or my time, go tour, and then know the measurements, approx utilities bill.
+You know I am here to rent the place and not buy the property. ",
+836,"Hi Ryan, thanks for following up! I am most interested in 424 Jones Street. However, I would like to have a tour of all places. They would all be the studio units available ",
+837,What apartments are these and where are u located,
+838,Hi good afternoon what exactly can you tell me about the apartment?,
+839,i'm not available at that time for tomorrow. I am free sunday after 3pm,
+840,I will not be able to get down to oakland until almost 7pm... i work up until 6,
+841,Hi Ryan. Saturday morning would be fine with me.,
+842,Ill try another time. Thanks!,
+843,Bedroom,
+844,Are you going to right me back,
+845,For utility wise,
+846,You don't have any available now,
+847,i'll come for saturday at 3pm,
+848,I mean the security deposit,
+849,How's the parking situation there???,
+850,"Thanks for reaching out, Ryan.",
+851,Can I do virtual tour today?,
+852,Yes address,
+853,Sorry just got off at work,
+854,Sure do you have any photos of the apartments?,
+855,"Hello Ryan, what time can you do Friday? Also what was the rent again?",
+856,I would like to come out to all of these showings on Saturday.,
+857,And it would be 5,
+858,Hi. Could I come in Friday morning ?,
+859,No comprendo hablo español,
+860,"I'm off on Thursday and Friday, my work schedule is heavy and by the time I get off I know you'll be closed",
+861,Tomorrow I'm working also,
+862,"hi! i'm curious about total move in price, and any rent specials.",
+863,"Hi Ryan 
+
+sorry I missed The Mar 23 Appointment 
+
+Can I come today at 6:00 to 6:45 for tour 
+
+Thanks ",
+864,"Hi Ryan.
+Sorry just saw the messages now. I found a place on Filbert/Gough. 
+Thank you for your consideration. ",
+865,How much up front?,
+866,Is there laundry on the facility ?,
+867,Yes please can you send the address to me again please,
+868,"Thursday, April 1 at 6pm works. Please send address and any info I may need regarding the tour.",
+869,Hello my name is James and yes id like to schedule a tour,
+870,Sat 12-1 would be great,
+871,So its a 300 move in?,
+872,Any more information you can send about the unit before the tour?,
+873,Yes I would love to schedule a time to come see the place,
+874,Can I get a 3 month lease,
+875,Thank you for your understanding. I'll let you know ASAP as we get our new working sched.,
+876,That could work out actually!,
+877,When are you available for a tour?,
+878,I never toured,
+879,Hi! Is it okay if I'm a little late ?,
+880,That's too expensive.,
+881,Do you have a virtual tour you can send me?,
+882,Virtual,
+883,Can I come in 2:30 p.m.,
+884,That works with me! This upcoming?,
+885,"Hi Ryan, I double check the place and the rent for a 1 bed is out of my budget. My maximum is below $2100 monthly rent. Thanks",
+886,"Thank you, I Rent an apartment ",
+887,Do you have layout of what studio apartment looks like?,
+888,Hi! I'm not currently in town. So I think I'll follow up with you a little close to this summer to see if there are openings,
+889,"Hi. I apologize for a late response.. I wanted to know, what is your price for a 2 bedroom apartment? -Bianca",
+890,"Hey kelsey,
+I actually wanted to know for 1 bedroom or studio whichever is the cheapest available for short term lease. Thank you. ",
+891,"Hi, I want to confirm my tour tomorrow at noon?",
+892,"Hi Ryan, yes, we'd like to schedule a tour. Is virtual an option or just in person? ",
+893,"Hello, I am not available now.",
+894,Hi: I'd like to give the company the $400 Ernest Payment but would like to it with Credit Card. Is there a way of doing that?,
+895,Maybe Thursday April 1 can work for meeee!,
+896,Thanks. First thing tomorrow. Have a great weekend!,
+897,I am actually available this morning and am 13 min away,
+898,"Hey Ryan, I just wanted to confirm how much the rent was per month for a studio. It says a different price on the ad on the website I found it from compared to the email you've sent me.",
+899,I would.,
+900,Was curious about something… What's the price of the one bedroom unit?… I see it 16+ in one place and a different price in another,
+901,Can someone call me,
+902,I am but I literally work all 3 of those times,
+903,"Yes still looking my apologies been very busy how much for the 1 bedroom and does it come with all
+Utilities as well?",
+904,I was hoping to look at any available studios at that property,
+905,"Hi Ryan, how did the studio get rented before I could see it?",
+906,Hey just wondering where you are at?,
+907,I wont be in town those dates. Do you do virtual tours?,
+908,"I'm Driving
+
+- Sent from MY CAR",
+909,Okay I'm cool can I at 5?,
+910,"If you recall, the unit had been rented before I saw it...",
+911,I did on the website. Do you see it?,
+912,"Hi Ryan. Thank you for your quick response. Yes,  would like to schedule a tour.",
+913,Hi do you have any 1 br available and what do they start at?,
+914,"What does that include? As far as water, electric, internet ?",
+915,"Hi Ryan, yes please I would like to schedule a tour",
+916,Thank you! I can come by 12 pm today for a tour.,
+917,"Good morning yes I will be coming over for the tour, thanks for the reminder!",
+918,Yes could I schedule one for today,
+919,Yes I am but unfortunately do to recent change in job status my budget for me and my wife is 1500>,
+920,Not at the moment. In about 6 months I will so I will definitely re apply. I'm still trying to finish school so I have to remain close to the school. But definitely in August I will apply again,
+921,"Hi, thank you for getting back to me so soon. Yes I would. I work in San Francisco and typically get off at 4 or 5. But my fiancé works from home. What times do you have available?",
+922,Yeah that works perfectly actually,
+923,Would like to talk with someone,
+924,Yes how much was the rent again!,
+925,"Yes, please. Could we do a video tour?",
+926,Registered online for noon tomorrow.,
+927,"I was wondering what the parking situation was for the apartments, and how much are you studios ",
+928,Im working on Thur afternoon,
+929,Send me a link to a virtual tour!,
+930,"Thanks for sending! A few questions:
+-Are utilities included?
+-How is parking?
+-How long is the lease length?",
+931,"Also, can it come furnished?",
+932,Sure we can do the virtual,
+933,"Hi Ryan, yes I would! Can we do a virtual tour ? ",
+934,"For that price, I figured as much. 😊 Thank you, and if you hear of something under $850 per month that allows pets? Feel free to contact me! Have a great evening!",
+935,"Actually, I don't think I'm going to go through with a tour. Thank you though!",
+936,Do the 1 brs have washer and dryer in them?,
+937,"Hello Ryan, thank you for contacting me. I would like to schedule a virtual tour to view this apartment, is that possible? ",
+938,What is the lease length?,
+939,Hey im running late,
+940,I'm wondering if y'all still have the $765 unit,
+941,Which unit is it,
+942,I would love to schedule a tour!,
+943,Thanks for reaching out.,
+944,"Hello Ryan, 
+Yes I would to schedule a tour. Was this a studio or 1 bedroom?",
+945,Liked “Sure! Let me book you that tour.”,
+946,It's alright. I can do tomorrow after 4PM,
+947,Absolutely thank you! I was curious about if there is rent control?,
+948,Hi  I see the place already how much the deposit,
+949,When should I feel up application,
+950,Great! Is it ok if I bring my partner?,
+951,Thank you! Also I forgot if I saw if the apartment allowed cats?,
+952,Awesome thank you so much!!,
+953,Hey we stop by and they said the apartment wasn't available.  He already had his money ready,
+954,So for the live tour is in person or virtual? Is the virtual tour another option?,
+955,12 pm would be great 👍🏻,
+956,meet at the property?,
+957,Hi Ryan I would like to schedule it for Thursday around 12-1!,
+958,Is this located in the tenderloin?,
+959,"Loved “Hi Stephanie, I am so sorry to know you're in the hospital right now with your mom. I hope it's nothing serious. In regard to your tour, no worries. Although there's no available tour schedule tomorrow, we can book you for a tour on Saturday, Apr 03 2021 @ 1:00 PM. Just let us know later when you're free, if you're okay with this and we are more than happy to help. Take your time. Your priority is you and your family's safety and wellness. We are just here, and we're willing to wait. Please take care.”",
+960,Sure - that works! Thanks.,
+961,I would like to know more information like can you break everything down how much is rent and how much do I have to make to qualify,
+962,But I am serious about moving,
+963,Could I do a virtual tour with him?,
+964,You have pictures u can send me now?,
+965,I would recommended both,
+966,Interested in the studio!!,
+967,Hi Ryan. Yes do you have any time available for this coming Friday or Monday of next week?,
+968,"Hi Ryan, thank you for following up. Is there availability this Sunday for a tour?",
+969,Friday the 2nd 12-1 is good.  Thank you!,
+970,"Yeah that would be great, but as of right now I can't tell you when though ",
+971,"Yes I would but I am moving to Oakland from out of town, do you have virtual tours available?",
+972,How much is a studio? Its just for me,
+973,"Not at the moment, plans have been delayed, but thank you!",
+974,Alright and thank you!,
+975,I'm available for the rest of today or Monday-Wednesday next week,
+976,"Hi! Sorry, I read that it's required to have an income that's 3x the rent, I can't afford it.",
+977,Sounds good! Is there anything else I need to do for the tour this saturday?,
+978,No thanks I decided to move to Vegas! Thanks,
+979,"okay, go to the tour on friday",
+980,Hi schedule me for Tuesday April 6 for a viewing!! Thank you so much,
+981,4pm works,
+982,I'm at work and will respond ASAP. Thanks,
+983,Hello I would like to know the studios prices first .,
+984,Can I come in on Monday,
+985,Ok that's good . I will be there,
+986,rooms ?,
+987,Hi! Yes I would like to schedule one on 4/16 if possible I will be in Houston that weekend,
+988,"Hello Ryan, i would like to cancel my appointment for the tour. Sorry for the inconvenience.",
+989,"Hi. So sorry for the late response. I appreciate you reaching out bit, yes, I will have to withdraw my inquiry. So sorry but thank you.",
+990,Yes I would like to schedule a tour!,
+991,"Hello sorry for not responding earlier,  can I get a little more information about the house first it's a studio right?",
+992,Yeah 4pm Monday would be great,
+993,Oh yes that would be wonderful.,
+994,Yea okay you can schedule a tour. I still have some questions if that's okay with you?,
+995,what time tomarrow,
+996,"Okay, thank you very much ",
+997,"Loved “Thank you for scheduling a tour on Tuesday, Apr 06 2021 @ 5:00 PM for #07 138 Hyde Street San Francisco, CA 94102. You’ll be meeting with Larry Gothberg who can be reached at 415-671-5200”",
+998,How much the rent ?,
+999,"Okay yea thanks I think that's all, when should we come? ",
+1000,Studio or a 1 bedroom,
+1001,I definitely will. Thank you so much!,
+1002,"Oh ok I think Tuesday is fine,in live  not on video right,?",
+1003,"Hi, I am actually getting the vaccine thus saturday. Is there any availability on Sunday to see the apartments?",
+1004,Thursday at 6 works perfectly!,
+1005,Sounds good! Thank you,
+1006,Hello I can come Saturday @1:15,
+1007,Yes . How much are the utilities or is it covered with rent,
+1008,But the price showed me was 700$ ~,
+1009,Ok that's cool . I would like to know how much is the deposit and hidden fees,
+1010,Hi Maya! I talked with Yohans and I really like unit 400 at 1461 Alice St Oakland. He said I should talk to you. I'm wondering if I can pay in advance a couple of months and get a rent discount?,
+1011,pets allowed ?,
+1012,are pets allowed ?,
+1013,pets policy ?,
+1014,what is pets policy ?,
+1015,I did it say closed today could reschedule for Monday,
+1016,Hi Ryan! Thank you for reaching out! Yes I would!,
+1017,We're the utility's included,
+1018,Next Sat is suitable for me . Thanks,
+1019,Can I keep my tour for Tuesday April 6 th,
+1020,That's the best time,
+1021,Sure. But before I go ahead do you accept section 8. I just got approved for it,
+1022,I am i just dont have time i get out late from work,
+1023,"Hi Marj, thank you for reaching out to me! I would like to tour tomorrow afternoon, if you're available then?",
+1024,"Liked “Hi Sofia, thanks for scheduling a tour on Saturday, Apr 10 2021 4:00 PM to 04:45 PM for 138 Hyde Street unit28, you’ll be meeting with Larry Gothberg who can be reached at 415-671-5200. Feel free to reach out with any questions if you have any!”",
+1025,"Great hearing from you, Ryan!",
+1026,I was wondering what the requirements were for the listing?,
+1027,Oh okay. Is the price listed accurate?,
+1028,"Yes,
+I am very interested however there is a discrepancy between the price on the (Zillow)  and the site you sent me.
+Please let me know witch is the right one.",
+1029,"Hi! I’ll be moving from Louisiana. I have many jobs offers set up, but I don’t have a place to live yet down there yet. I was wondering what would my options be knowing that I don’t have a job yet in Houston but will. I need a place to live first. I’ll sign a 12 to 14 month lease.",
+1030,Ok how do i send in my app or can you guys get it off the site,
+1031,I just called the apartments but didn't get a answer,
+1032,Maybe next weekend?,
+1033,"My apologies... due to the recent phone call I was wondering can you give me a call back at your convenience, with lower monthly  rent ",
+1034,I'm at work right now,
+1035,How to I apply??,
+1036,Okay thank you so much so Tuesday 6 Pm perfecto 👌,
+1037,We are outside the house,
+1038,"Hello! Having trouble submitting this application, it appears it does not submit fully ",
+1039,Application submitted!,
+1040,"No thank you, there was some confusion about prices and units available. Thank you. ",
+1041,I currently stay in ohio i dont leave for texas til the 30th,
+1042,Can I come in today at 12 ?,
+1043,I'm available this Thursday around 1:30 for a virtual tour if you're available then,
+1044,"Hi there Ryan I'm so sorry, can you remind me which house this is for?",
+1045,"Hey, thanks for reaching out. I probably wasn't clear enough in the initial inquiry, but I am moving from MN to SF in about a week. I plan to rent a room for the first month but will be touring apartments when I arrive. I'll reach out shortly once I'm there! ",
+1046,Yes please provide me info of the location,
+1047,I can come in today for a tour,
+1048,When are y'all available,
+1049,Saturday works perfectly for me,
+1050,Yes that should work great. And this place allows dogs right? I have two puppies,
+1051,"Yes apologies I just got a new phone, if possible I would like to schedule for sometime early evening tomorrow.",
+1052,"Wednesday at 11:30 works. you mind sending along the exact address, rent price along with any other  properties around that area for rent.",
+1053,Saturday at 1:15 works,
+1054,Thank you.  Sure! I would love to. I am free Wednesday of this week. Any time works for me. Are there other locations available through this company ? Or any other locations you work with Ryan? Thank you!,
+1055,"Hello Ryan,
+Thank you so much for reaching out ! I hope you are well and healthy as well . I would love to schedule a tour . I am free anytime after 4 during the week ",
+1056,"Good afternoon. I canceled my tour via email, I will reach out at a later date to reschedule. Thanks!",
+1057,Would 4:30pm tomorrow work?,
+1058,"I am interested in apartments available for between 1,000-1,300 in SF. I prefer studio or up to 3 roommates. Are there locations with those accommodations? Thank you",
+1059,"Quick question, so sorry . Does the unit have a bathroom ? ",
+1060,"Yes , I would love to schedule a tour.",
+1061,Like wise. Stay safe and clean. 😁,
+1062,Where is this located again?,
+1063,Ok sounds good! Thank you,
+1064,Is there parking and on site laundry?,
+1065,"I can do a live tour on May 5th or 6th.
+I can do a virtual tour in April for sure! I won't sign a lease until after a live tour- would that be a problem?",
+1066,I live in a different state,
+1067,"Yes do you mind sending along the link so I can compare pricing for the unit on Alice Street, if it's within my budget I would like to schedule that one for 12:30",
+1068,There's two different prices for this unit,
+1069,Thursday is good for me,
+1070,What time do you have available?,
+1071,"Hello Ryan, thanks for getting back to me. I will have to check with roomates for that date, we are very interested in this unit and I will get back to you very soon, I also have a quick question, will you accept small chihuahuas in the home? ",
+1072,I'm going to have to pass on this unit. Thank you for reaching out though,
+1073,I'm not sure which place that is. What was the rent and area?,
+1074,Hi remind me what studio this is,
+1075,"Hi yes, could you remind me what address this is?",
+1076,Sounds good I'll take that slot,
+1077,"Sure, that would be great!",
+1078,Anytime works,
+1079,"Hi Ryan, I would like to but remind me of the property. Sorry, I've clicked on a few the last couple of days!",
+1080,"I can come tomorrow during my lunch. 11:30-12:30 
+
+How long does approval usually take? 
+What's the total move in price? ",
+1081,How much is the prorated rent?,
+1082,May I have the address.,
+1083,"Not yet, I live in northern Kentucky so we're not sure when we can come visit. However I am curious what studios will you have available between July-September. ",
+1084,Hi Ryan! Can you remind me again the address of this one?,
+1085,Ahh found my list hehe. Yes please. Can we schedule a tour?,
+1086,Perfect! Any instructions we need to follow?,
+1087,Perfect. Thank you so much Ryan!,
+1088,Hello Ryan than you for reaching out. Which apartment is this for?,
+1089,"Hello, 
+
+What is the price range for 1bd 
+
+Looking to move for school ",
+1090,"Where is it located again 
+
+Thank you Ryan ",
+1091,I'm canceling my appointment for pine street not in my price range thank u!,
+1092,Saturday works for me,
+1093,Hi I am truly sorry that I am not able to make it I would like to resedule,
+1094,Great! Can I bring my dog who would also be moving in to see how she feels about the space?,
+1095,Friday at four,
+1096,Okay thank you so much,
+1097,Top floor studio apartment correct? Do you have anything earlier Thursday?,
+1098,"You mean this place, right?",
+1099,Cool,
+1100,I will let you know when i am available for the tour. And its online right?,
+1101,I will do the virtual tour,
+1102,i want to move by may 1st,
+1103,Ok thanks so much,
+1104,Hi Ryan! Yes I'd love to schedule a tour,
+1105,Thursday at 6 works for me,
+1106,what hours are you open,
+1107,I would love to get some more information about other apartments in different locations ! Thank you so much Ryan,
+1108,"Hi Ryan 
+Sorry for not being able to get back to you.
+I am just not comfortable with the area and neighborhood ",
+1109,I'm renting with you guys.,
+1110,"Studio -separated kitchen 
+In decent and safe area below $1500 ",
+1111,Sorry that was typo,
+1112,"I already rent with you guys,",
+1113,"Hello, I'm here on the buildings.
+Fortino ",
+1114,Are studio,
+1115,Hello! Yes I would like to schedule a tour. I will be in SF this weekend would Saturday work for you?,
+1116,$1200/month,
+1117,"Hey Ryan, I've stopped searching for the time being. ",
+1118,Studio/1,
+1119,Is this for the studio ?,
+1120,Thank you so much 😊,
+1121,This coming Saturday,
+1122,I don't live in Texas yet. That's the thing,
+1123,No minimum but maximum would be 1600.,
+1124,"Hi Ryan, I'm well and healthy,  thank you for asking.  Hope same to you.  Yes I would like to schedule,  when can we schedule?",
+1125,"hello Ryan, 
+thank you for reaching out and same to you. Yes I would like to schedule a tour ",
+1126,"Thank you and see you tomorrow.  Kindly send me the address and apt. # please and your phone #.  Thank you
+",
+1127,"Hi Ryan, thanks for reaching out. Sure! Is this for 333 Hyde or 360 Hyde?",
+1128,"Hi I'm on call so I don't get a lunch today, is there a virtual tour? I've seen the pictures so i have an idea on how nice it is. ",
+1129,Hello Ryan! Thank you and yes I would like to schedule a tour. Would tomorrow at 3:15pm work for you?,
+1130,"Hello! Friday would work better, I just finish work right at 5:30pm and then could be there at 5:45pm?",
+1131,I completely forgot you told me you guys are open Saturday. Can I schedule a viewing for Saturday around 12 or 1?,
+1132,Thursday @ 6p would be great!,
+1133,"Hi Larry, did you get my email about combing my viewing of 555 O'Farrell and 360 Hyde for tomorrow? ",
+1134,Hey this is Dominique I'm in front of the building,
+1135,no thank you. your post was misleading in the prices of the spaces available.,
+1136,"sounds great, thanks again. i'll reach out again in a few weeks. much appreciated.
+",
+1137,I'm at work sorry I'll touch base with you tomorrow,
+1138,Hi This is Jay. We talked yesterday. Do you have studio apartments in San Francisco or Daly City?,
+1139,How many for 2 bebrond,
+1140,I'm looking to stay permanently. so my budget is a bit low. It's under $1000.,
+1141,Saturday April 10th 1:00pm would be great. Thank you,
+1142,"Shayj1179@gmail.com
+Lets go with Saturday @3:00pm
+Perfect",
+1143,Thank you! I can move in as fast as before Sunday morning,
+1144,UnFortunately I was caught in a snowstorm last night and it put me behind getting back to the bay area. I won't be able to make it tonight and I am really sorry. Hopefully going to be getting back into town around midnight tonight,
+1145,"Monday at 6pm would be ideal, thank you!",
+1146,"Liked “I would also like to remind you and confirm your attendance for your tour today, Thursday, Apr 08 2021 @ 5:00 PM to 05:30 PM for 555 O'Farrell Street San Francisco, CA 94102 ,you’ll be meeting with Larry Gothberg who can be reached at 415-671-5200 Feel free to reach out with any questions if you have any!”",
+1147,Yes do u guys have virtual tours,
+1148,And do you guys have 2bedroom,
+1149,Hi tyrone i found a place would you like to come for dinner sometimes,
+1150,What apartments are these?,
+1151,"Hey Ryan, thanks for getting back. Bummer, I'm only in town and available this weekend (Fri, Sat, or Sun). Quick question though, do you guys offer low vs moderate income based rent?",
+1152,Ok can we do it virtually,
+1153,Next week most likely,
+1154,2 bedroom,
+1155,How much do they go for,
+1156,Yes when's the next available appointment,
+1157,I can do Monday at 6:00! Thanks so much for your flexibility.,
+1158,THANKYOU SO MUCH!! I WILL BE THERE ON SATURDAY AT 10AM.,
+1159,"Yes, where is the location again?",
+1160,Oh I actually would just like an application. Im not picky,
+1161,Saturday is good,
+1162,"Loved “""Thanks for scheduling a tour on  
+ Saturday, Apr 10 2021 1:00 PM to 01:45 PM for  780 Post Street San Francisco, CA 94109 you’ll be meeting with Gustavo Herrera  who can be reached at 510-694-2852 Feel free to reach out with any questions if you have any!""”",
+1163,Hello Ryan I would love to schedule a tour but I'm going to been very honest with you before we with schedule the tour. I do have some questions like if there's any parking? Or a garage and how much would cost? Because is very essential for me to keep my car if the building doesn't come or offer any parking or there's no garage around the area I'm really sorry to say it won't work for me I just don't want you to spend your time if I'm not going to move forward to apply. I really sorry if I sound demanding it just I know what I need. I thank you for getting back to me soon I really appreciate it .,
+1164,Sorry I need to know ahead of time I just don't want to get my hopes up and it won't be what I looking for I'm really sorry for the inconvenience,
+1165,"Is this about the inquiry I submitted this morning, for 1461 Alice St? Thanks for clarifying -- I’m juggling a lot of appointments right now",
+1166,"Oh, I see your email now. Would you be able to answer the questions I submitted with my inquiry before we arrange a viewing?",
+1167,Lets go for thurs. April 15 at 6pm,
+1168,Unfortunately we both work during those times,
+1169,Saturday at 3pm will work,
+1170,Hi Kelsey im currently in the process of applying online once i complete the required info. I will reach out to u.,
+1171,Ok I'll send you a text Sunday once I know when I'm available Monday,
+1172,"Hi Kelsey, I live in California right now. I was wondering what are prices for a 1bd 1ba unit?",
+1173,Hello and yes I would like to know about a 3 Bedroom please?,
+1174,Is it possible to do a virtual tour? I'm 3 hours away and thinking about relocating soon?!,
+1175,Are you doing virtual tours?,
+1176,I will have to check my schedule but I'll get back to you.,
+1177,"Okay, what times?",
+1178,Are these for in person tours?,
+1179,Located,
+1180,Hi Ryan. Sounds good. What is the address,
+1181,Ok I'll fillip up the application where should I submitted that,
+1182,Are u guys open today,
+1183,Thanks! What is the website for sf rent?,
+1184,"Good Morning, so quick question? Since I'm relocating and I have the move in money at the moment, you'll still require me to get a job before I move in or do I have to get the job first? I'm asking because I still have income in far as savings from my job I quit on Thursday and I receive Social Security as well...",
+1185,"It's okay, so what if I transfer the job I'll still have to be at that job in Houston for 6 months correct?",
+1186,Find the location of 634 15th Street Oakland California 94612,
+1187,I'm sorry I meant to send that to my map,
+1188,I was literally just there they said they only have 2bdrms available,
+1189,Great! I can go in this Monday 4/12 at 6. Lmk if you need any details from me. Thanks!,
+1190,I see but the prices say $2500-4000?,
+1191,ok thank you very much!,
+1192,whats the lowest price apts you have right now,
+1193,Hi Kelsey! How does tomorrow at 3 work?,
+1194,1bd 1ba it was 668 rent and 718 sqft,
+1195,Ok. Which location is this again?,
+1196,What rental unit are we talking about?,
+1197,Sure let's set a time.,
+1198,"Good Morning Ryan, Where is Oxford Arms located?",
+1199,Not a problem. I just had other plans for Tuesday night that I will have to postpone.,
+1200,"Hi Ryan, thank you. I inquired about 1461 Alice street apt 107 property a couple of weeks ago. Before I schedule the tour I was wondering the prices because in your email it says the studio is $2500 but on Zillow it's listing price is $1395. Can you please explain the promotion and how it works ",
+1201,"Hi Ryan good morning , yeah im just wondering if u have studio available . I prefer a unit that has a washer and dryer . Please let me know and if u can give an idea regarding price differences of studio and 1 bed  thank u ",
+1202,"I was basically looking for a groundfloor unit, with a tub-shower, ceiling fans, dishwasher, washer, &,dryer, possibly a Rabbit with cage, a lizard with a tank. Thank you",
+1203,Amm both are late ... I would like Monday 2 pm if possible,
+1204,can you send me the website and address,
+1205,"Sounds good can I get an appointment for 3:30,p.m; I have something to do on Wednesday, April 14, 2021. I won't be able that day. Call me (510) 707-3043.",
+1206,I have to schedule in advance for Eastbay Transit Services so most likely Thursday at April 15th 2021; at 7:00P.M. Thank you,
+1207,The townhome with the wash & dryer included,
+1208,"Ryan: Sure, I would like to schedule something. What  is the property address? ",
+1209,Opt out,
+1210,I'm uninterested at this time. Thank you,
+1211,"Hi Ryan, is this an in person or virtual tour? ",
+1212,"Actually, would it be possible to book a virtual tour? My apologies. ",
+1213,Alright,
+1214,Yes I would like to know how soon I can move in and I'd like a call,
+1215,"you said the price on hyde is 1,245 it says a different price on the website ",
+1216,just not trying toget scammed it also says studios or higher than that,
+1217,Were you able to get the questions,
+1218,"Yes, please. I am available tomorrow after 5:30. What times do you have available? ",
+1219,Okay Thursday works for me,
+1220,How much is it going for exactly,
+1221,What are the lease terms,
+1222,And are any utilities included it would really help as im a new renter who is moving out for the first time,
+1223,Hello sorry I cannot come in today to see the place but I will pill up the application now,
+1224,What floor is it on,
+1225,"Yes, I believe so. Can you remind me of the property address?",
+1226,"Ok im interested 🙂 but also, i was planning to go through done deal Cosign because i have a broken lease thatll be 2 yrs old this November, Do you guys rent to people with broken lease ? ",
+1227,"Oh it actually looks like I've scheduled a tour with someone from SF Rent for 6pm today at that property -- 1461 Alice St, right? I'd be eager to see it earlier but if you're not available I'll stick with 6pm",
+1228,"Hello, I have had a work obligation arise and will need to reschedule this viewing. Apologies for the inconvenience. ",
+1229,"So, there is no more availability for tonight 6-7? In this case, it will have to be Saturday 1:15pm. Thank you.",
+1230,What is the best way for me to look at floor plans and photos of these?,
+1231,"Also, is there any storage space for a kayak? ",
+1232,Hey Ryan thanks for reaching out! Would tomorrow at 6pm be possible? Thanks!,
+1233,sounds good thanks!,
+1234,I am waiting on 4/23 for my 2nd pay stub and then I can submit my application,
+1235,I can go after 1:00 pm,
+1236,Hiii! Quick question: how much is the rent for 2people?,
+1237,Can I submit my application then once the 4/23 I can then forward my check stub to you ?,
+1238," Hey Rayan,
+
+Thanks for reaching out. I am available for a quick call to discuss details. And get some quick updates from you. Let me know if it's okay for me to give you a call.",
+1239,You guys do online tours or does it have to be in person?,
+1240,And do you guys allow Guinea Pigs?,
+1241,"Ok thank you, I will submit it tonight . ",
+1242,Im trying to get the status of my application,
+1243,what deposit amount?,
+1244,"On the other hand... What should I expect from your cheapest room? Like rent, utilities, what's included, and pictures of the place.",
+1245,Saturday at 4pm would work perfect.  What units are still available? 1300-1500 is my price range,
+1246,Yes please! Thanks for reaching out!,
+1247,Hi yeah I just cleared my schedule for tomorrow at 6 pm should I just meet your at the address?,
+1248,Hi Ryan thanks for reaching out! Do you have 2 bedrooms available if so how much are they going for?,
+1249,Sure which place is that please provide me with the address,
+1250,"Hello Ryan! 
+Sorry for contacting you so late, my fiancé Emanuel went and checked out a couple of your apartments on Saturday. We're interested in the $1500 apartment, if it's still available. Please get back to me when you get the chance. Thank you! Again, sorry for contacting you so late.",
+1251,Please cancel tour,
+1252,Okay can I come before 2 I have work,
+1253,I can do today 6pm what should I bring,
+1254,"yes, I would like to schedule a tour. ",
+1255,"Hi Ryan! Nice to meet you! I'd love to schedule a tour but I am currently living in LA, is there a virtual tour available?",
+1256,Good morning Ryan. Yes I would like to schedule a time to see place. Does this Thursday at 10am work?,
+1257,Hi how are you? I decided to move forward with an apartment I saw yesterday.,
+1258,"Hi Ryan, I have been sending out a number of inquiries. What is the address again?",
+1259,Saturday at 4 works well thank you,
+1260,My cousin called me earlier and she just signed a lease...thanks for the follow up,
+1261,Is there a virtual tour?,
+1262,I actually live in Santa Ana unfortunately,
+1263,Oh that would be nice,
+1264,"Hello, sorry i think im going to have to cancel my appointment ",
+1265,What is the pricing for both options?,
+1266,Thank you very much,
+1267,Is there an option to rent month-by-month?,
+1268,I can sign in on the website ?,
+1269,I select the $590 for the 1 bedroom right ?,
+1270,I will come by tomorrow when you guys open,
+1271,I'm applying right now,
+1272,Thursday at six is good,
+1273,Oh yes I like to schedule a tour. Would it via zoom or in person.,
+1274,Can we do it next Tuesday it better also can we do virtual tour,
+1275,What time are you open tomorrow?,
+1276,Hello Ryan. Im well thank you. How about you? I would like to schedule a tour if possible. Sometime next week? In the evening or next weekend. Im stuck at work the rest of the week on a quick break. Sorry can't talk right now. But we can text,
+1277,"Hi, yes, sorry can you remind me exactly which address this was for? I've just reached out to several properties. ",
+1278,Sure thing!,
+1279,Wat do I need to start renting,
+1280,If not 4/19 @ 6 is good,
+1281,How can I take steps further into getting in one of your apartment,
+1282,I'm looking for a studio or 1 bed 1 bath,
+1283,I would! Can you remind me the address of the apartment I inquired about?,
+1284,I can't on Saturday because I get off at work at 4:00,
+1285,Thursday at 6pm works,
+1286,Yes..how much is the rent? Total move in cost,
+1287,"Hi Ryan, thanks for reaching out. I won't be able to move in until July 1, but I'd like to start looking at apartments in June ",
+1288,"Hi Ryan. Nice to meet you. Yes, ill like to schedule a tour. Im looking for a 2 bedroom. Can you tell me what the rent for a 2 bed is going for at Jekyll? ",
+1289,April 17 would work best for me,
+1290,"And if so, how would it be",
+1291,"Do you know if the price is actually 1,795?",
+1292,My last question would be if 3 people could live in that 2 bedroom unit,
+1293,Saturday 4pm works for me.,
+1294,I won't be in San Fran until June I was just trying to get in touch with some agents in advance,
+1295,I'm available this evening,
+1296,Monday at 530 works,
+1297,"Yes,  can I apply online or in person? ",
+1298,Hi Ryan! Good to hear from you and i hope you're well and healthy too!! Could you remind me the address I asked about?,
+1299,"Oh yes! I wanted to ask about a virtual tour because I reside outside of SF right now and with COVID, I'm hoping to avoid flying over. do you think it'd be possible to do a facetime tour of the place? ",
+1300,Unfortunately I'm only available on the weekends. Does this Saturday work at all?,
+1301,Thank you! Can i ask where laundry is?,
+1302,And is this property rent controlled?,
+1303,Thanks yea I had a tour scheduled for yesterday but didn't get a reply back when I texted Larry,
+1304,Confirming that I was gonna come,
+1305,"Hi,
+Thank you for contacting me. Yes I would like to schedule a tour to see the place. Thanks again.
+Bette",
+1306,would you be able to give me a call :),
+1307,Just to make sure are the prices on this hot pads link still valid?,
+1308,but yes i would like to schedule a tour :),
+1309,"Hi,
+When I am trying to open it on zillow it says, it couldn't be found ",
+1310,And to sign the lease with a guarantor is ok ?,
+1311,all them are out of my price range . max is $1450-1500,
+1312,is it $2500 with the deposit included ?,
+1313,"Hello Ryan, good night, I would like to pay a visit to the apartments.",
+1314,what size mattress does the loft fit,
+1315,what is the rent  ?,
+1316,rent  ?,
+1317,"Hey Goodmorning, i get paid weekly at 1 job & biweekly at the other , how many check stubs do i need to enter when applying? ",
+1318,I tried to call the lease office however no one answered . Is there a property manger or lease consultant to answer my question,
+1319,I also had a question. Is Utilities included in rent?,
+1320,"Sure will check on browser, Thank you! ",
+1321,Yes I would like to book a tour,
+1322,"Alright thank you, I will see you on Tuesday ",
+1323,Yes how much is the rent? And I have a small dog,
+1324,Let's do it! I'm so excited thank you so much,
+1325,And I really need the studio to move on in June 30,
+1326,I live in San Francisco,
+1327,And pet is okay right?. My dog is a small Chihuahua,
+1328,"Hi Ryan thanks for getting back to me so promptly. 
+
+I would be interested into scheduling a tour ",
+1329,can you tell me more about the prices .,
+1330,I submitted Tuesday,
+1331,Is it studio with bathroom in unit?,
+1332,Let me check with my sister and I'll confirm,
+1333,Where are you located exactly? Downtown Oakland?,
+1334,"And from the floor plan, unit looks pretty old?",
+1335,We would like to check out the studio at claridge hotel,
+1336,My sister and I would like to see it tomorrow at 6 pm please,
+1337,"Hi there, for what address?",
+1338,So no bathroom inside?,
+1339,Sure what day do you have available next week to show?,
+1340,Monday will work,
+1341,Yes i would to like a schedule for tomorrow. What times do you have available for tomorrow?,
+1342,Who will the tour be with ?,
+1343,"Yes, that works. Though inquiry: how much are the studios at this address?",
+1344,How much are 1bd?,
+1345,"Hi Ryan, thanks dor reaching out. Just to make sure we are talking about the same unit, what is the address? I've contacted a couple of properties ",
+1346,I'll talk with my sister then if that's the case and maybe we will proceed with the smaller studio at the Alice building,
+1347,And what about parking?,
+1348,The single room at the Claridge does not have a bathroom right?,
+1349,"Can we please check it out tomorrow please?
+6 pm?",
+1350,Is this about the property on Hyde st?,
+1351,is there a pool ?,
+1352,What kind of amenities come with the pool,
+1353,Do you guys have a pool onsite?,
+1354,Do you guys have a POOL ?,
+1355,Can I bring  pets  ?,
+1356,Can I bring  pet ?,
+1357,Do you guys allow pets in the apartments?,
+1358,Can I bring  pets ?,
+1359,do you have gym in building ?,
+1360,do you have gym ?,
+1361,Is there a gym for residents?,
+1362,How about a gym ?,
+1363,"o i misread, no friday tours?",
+1364,Yes my sister and I will come for the tour tonight at 6 pm,
+1365,I have a dog with me,
+1366,"My apologies actually, Saturday will not work.",
+1367,Is it available for 6 months lease? I can move in this month.,
+1368,Is there a dining room or living room? When I click the floor plan it just shows the photos which are slightly vague,
+1369,Is this address?,
+1370,Hello Ryan!  I'm great hope all is well with you as well. Thank you for reaching out so fast and yes thank you I'd love to schedule a tour!,
+1371,i love to swim. Do you think there will be a pool in the property,
+1372,Do you think there will be a pool in the property,
+1373,is there a pool in the property,
+1374,I have some questions i want to ask you,
+1375,I love swimming. I am preparing for nationals. Is there a pool in the property ?,
+1376,do you have a pool ?,
+1377,do yosdfu have a pool ?,
+1378,okay great! when do you thkn i can come for a tour,
+1379,okay great! when can i come for tour,
+1380,What about next Saturday 4/24?,
+1381,Good afternoon my dear. I would like to reschedule my appointment for next Saturday 24 ?  Please and thank you I will be busy this Saturday,
+1382,On 2 bedroom 2 bathroom or 3 bed 2 bath,
+1383,"Hi thank you for the note, I'm in Manhattan Beach and planning to be up next week to hopefully see some places, prob Wed-sunday",
+1384,Thank you for checking!,
+1385,Does Tuesday or Sunday work for you I work Saturday,
+1386,Hi I was wondering if you had another available schedule for the viewing of the apartment?,
+1387,"Could I reschedule for Saturday at 4 please 
+Sorry I realized I had a doctors appointment during the first scheduled appointment ",
+1388,Next Saturday please,
+1389,Do I need anything,
+1390,"Questions about deposits and rent, this would be easier over the phone. I am at work and cannot talk right now. ",
+1391,Ok tour wed at 1000,
+1392,Hi Ryan! I'd love to set up a time to see the apartment! Did you send me an email as well?,
+1393,Are bills included?,
+1394,Okay and monthly rent for 1 br & 1bath is how much,
+1395,Is there any others fees to apply ?,
+1396,"Hey so sorry, I got called in to work. I won't be able to go.  I was wondering if I could reschedule for tomorrow?",
+1397,Ok that's fine I would also like to do the in person tour in June,
+1398,would you be free tomorrow ?,
+1399,Yes i saw your apartments online could you send me the address,
+1400,Hi I'm not sure if you remember me but I was wondering if I could get an application for Jekyll 2 bedroom apartment,
+1401,I would like to know more information,
+1402,Or I can do virtual tour,
+1403,"Hello, I thought I had scheduled the tour for Saturday, April 24th at 1:00 pm.",
+1404,I was wondering if you included utilities in your bill,
+1405,Hello Ryan! Yes I would like to schedule a tour...it would be for me and my partner.,
+1406,good*,
+1407,Monday at 6pm works,
+1408,Okay awesome! Which unit is the tour for? On the email it says 102. Are all the units at this location similar?,
+1409,Oh yeah we have seen the virtual tour and we really like the unit we saw!,
+1410,No I just waiting on a available unit in the price point I was looking for,
+1411,I will be in Willowbrook area in the afternoon but could come before my appointment,
+1412,Would a Tuesday work? Thanks,
+1413,Tuesday work for me. Is that okay ?,
+1414,How much is the deposit and application? How long would it take for me to get approved and the requirements,
+1415,2 bedrooms,
+1416,Price range is tight.  I make 2000 a month.,
+1417,Where are u located,
+1418,I'm actually here now but it's closed so I guess I'll try another day,
+1419,Yes closed,
+1420,Where are u exactly located,
+1421,https://www.google.com/maps/place/@/data=!4m2!3m1!1s0x8640cf63040060d5:0xd3a0d442aa3d5b6f,
+1422,I will go this afternoon after appointment. In Willowbrook will you be there,
+1423,No I've visited the property and this the quote I was given,
+1424,yes i would like to know more information,
+1425,Absolutely. I registered on your website for 5pm tomorrow. Im interested in a 1br!,
+1426,Do u have housing assistance,
+1427,Property and application specific,
+1428,How much is the rent? And how many bedrooms?.,
+1429,I'm looking for a 1 bedroom or a large studio. I currently have a large studio apartment with around 700 FQFT,
+1430,Ok great tomorrow 3pm works,
+1431,Just wanted to ask if any of the studios have a bath and toilet inside. The video tour didn't show anything but a sink.,
+1432,Sounds good 👍,
+1433,"Hi, sorry to change everything again.  I recently accepted a job which is closer to my current location and moving to SF area does not make sense due to this new job.  Please cancel my viewing on Saturday April 24, 2021",
+1434,"Yeah, may I schedule a tour around this Wednesday afternoon? 
+",
+1435,Hi! Thank you for reaching out! I received the email and scheduled for Thursday's at 7pm.,
+1436,Do you have any more place between there and spring. Since u am going to be out there.,
+1437,"6 PM will be tough for me, so can we pencil in Saturday for me and I give the final confirmation on Thursday?",
+1438,"Hi, thanks for your response. I would like to schedule a time to view it. Anytime tomorrow or afternoon/ evening Thursday or Friday work for me. -Dennis ",
+1439,not at this time,
+1440,I don't qualify for your properties because I'm a full-time student. Thanks though!,
+1441,rental for what?,
+1442,I'm not able to come by that late today. Would you be able to do 1:45 or sometime around 3:30?,
+1443,Yes i will be going!,
+1444,"Hi Ryan, I'm not currently in the area. If you're offering virtual tours I'd be interested in scheduling one with you. ",
+1445,I can come out there today,
+1446,do you think so? I been trying to get a apartment and we're really good people always pay rent on time but I'm guessing since we're young they thought they could put more on us and it's crazy that I'm just now finding out about it,
+1447,I'm back in Omaha.  Thanks,
+1448,"Hi Ryan, would I be able to do a virtual tour? ",
+1449,"I just got your email and I am going to have to pass. The 2 bedroom wasn't listed at $4,000 and that is a bit out of my price range ",
+1450,Please close out. Thanks.,
+1451,I am at work,
+1452,I see. I did not receive it for some reason. Do you mind sending it again?,
+1453,"Hello! Could I come view the apartment over the weekend sometime? Is there any availability Saturday? Let me know, thanks. ",
+1454,"I would love to come see the place, but I’m very far away, I will like to come take a look by next weekend if not possible due to my work here pictures would do for now.",
+1455,Yes I would and I would like to get more info on the apartment as well,
+1456,"Hi Ryan, thank you! I  hope all is well with you as well. And yes, I would like to schedule a tour. Is Thursday at 6:30pm doable for you? I saw that you are also showing the studio at 424 Jones St, would it be possible to see that studio as well?",
+1457,I need to know if there a dog deposit and what do I need to put down for the apartment,
+1458,And if there is any other requirements,
+1459,Yes you can book it,
+1460,"Perfect, I think I actually already registered online for Thursday, I got the email confirmation. Looking forward to seeing the place, thank you!",
+1461,I can come 6:30,
+1462,Quick clarification: what is the address of the listing?,
+1463,"Ok!
+Sounds good",
+1464,Maybe the same time,
+1465,I can do next week as well,
+1466,that can work,
+1467,Ok good,
+1468,Do you have 2beds 2 baths available?,
+1469,And what is monthly rent? Please,
+1470,Open weekends? I work Mon-Friday until 6pm but off weekends,
+1471,Perfect. When can I go ?,
+1472,Actually I'm looking for a portable Studio or one bedroom apartment,
+1473,I applied for apartment i seen few that im interested in what ever one is available now .. either a studio or a 1bd,
+1474,I have  a viewing  on Thursday April 24 its already scheduled,
+1475,Can I come in then.. still?,
+1476,Where's it located and the address?,
+1477,"Hey Ryan, thanks for reaching out. I am thinking of this coming Monday at 10am. ",
+1478,"Unfortunately I'll be out of town for those dates, and other future dates?",
+1479,"Thanks for the clarification.
+That's a fair price..
+I am very much interested.
+
+I shall check my schedule and clarify as soon as I can.
+What are the requirements?",
+1480,"Also,
+Are there virtual tours??",
+1481,"Please let me know the total move in cost as I am planning to move in by May 20th for the next one year, meanwhile I can pay the rent and deposit to hold the place before my arrival. I can stay there for few months if it would not be available for the whole year and look for another place before the end of my lease. Please let me know if it would be possible for me to pay for the place before my arrival.",
+1482,I have to cancel until Thursday same time have a doctor's appointment,
+1483,"Hello Ryan, I would like to schedule a tour. I am available today before 1 or tomorrow before 4.",
+1484,"Good morning!
+I have gone through the requirements but Good Credit Score disqualifies me.
+Also,
+I cannot get an employment letter as I work ""Under the table"".",
+1485,Yes what time do you all close today,
+1486,I'm unavailable at the moment,
+1487,To be honest with you am never comfortable sharing sensitive information about myself online,
+1488,I believe I found a place thank you,
+1489,I have reached out to my case worker; I'll revert soon as I hear back from her.,
+1490,No I already have a 3 bedroom it's crowded,
+1491,Is this a studio?,
+1492,My case worker and I are reaching out in a little bit.,
+1493,10am. Thank you so much!,
+1494,Yea an apartment,
+1495,"Hi Ryan, thank you for reaching out! That would have been great, but I'm actually out of state currently and will be for another month, so I won't be able to schedule any tours yet. ",
+1496,"Hi Ryan! Thanks for reaching out. I'd love to, but i'm not in Oakland right now. Are you doing any virtual tours at the moment? ",
+1497,Are dogs allowed,
+1498,if i could go sunday afternoon,
+1499,"Yes, where is this place located?",
+1500,Is the bathroom separate from the building ?,
+1501,Saturday at 2pm will be good,
+1502,"Hello Ryan, thank you so much for reaching out. Before scheduling a showing, I was wondering if a short term lease is available at all for this listing or if it is restricted to 12 months?",
+1503,"im unavailable for viewing this week, but would next week work? I am looking for a place starting in June. the 3 month lease would be perfect for me. ",
+1504,I'd love to!  Flying into oakland tomorrow to accept a job offer and should have some time this weekend,
+1505,"i am available tuesday, april 27 at 6pm !!",
+1506,thank you very much!,
+1507,"Hi Ryan, 
+I've stopped looking for housing due to denials from low credit score. I need to work on my credit. Thank you, 
+Kendra",
+1508,How big are the studio units?,
+1509,Okay before I even see it what are your rates? I am s senior living on a. Certain income at the moment.,
+1510,"Hi, I'd like to schedule a tour",
+1511,Is it in person or online?,
+1512,Is it a studio or a 1 bedroom?,
+1513,"No thank you,  I have found a place ",
+1514,What's the address,
+1515,Ok great! Thank you so much!,
+1516,should i fill out all the forms still online?,
+1517,"Hi, Ryan. Thanks for getting in touch with me! I'm in New York right now, so I can't take a live tour of apartments. I'm so sorry.",
+1518,Excel IF is an in-person tour I work on all those days my off days are Tuesdays and Wednesdays if you can do a virtual tour then anytime is fine,
+1519,Hi Ryan. I am interested in seeing the place if I could,
+1520,Yes  I would like you  have  apartment available?,
+1521,"Can I get the April 26th slot, please?",
+1522,Can you send address please thank you,
+1523,on Saturday 24 at 4pm it is good how much is the rent for a studio,
+1524,Greetings my friend! Thursday the 22nd 6:00 p.m. sounds awesome. If that works for you I'll see you then my friend.,
+1525,"Good morning, excuse, is there any room with private bathroom for rent?",
+1526,yes ma'am. i was wondering if you offered virtual tours for your 2 bedrooms? i live in Louisiana but will be moving to Houston in June for school and i'm looking for a safe environment within my budget,
+1527,"Okay sounds good, and thank you for your assistance!",
+1528,Thanks for the information! What's the monthly rent for a studio in Alice street?,
+1529,"I prefer to cancel the appointment for the hotel tour today please, as I prefer to have a privatice bathroom.",
+1530,Hello. I am unable to make it on time so I feel its best to do a virtual tour instead. Could I do that at 11 instead please?,
+1531,Can you Cancel and reschedule me for a virtual tour for me? I just hate risking being late.,
+1532,"sorry I didn't get back to you , been trying to contact my old property manager to see why I owe the amount , and what for but they changed managements a couple times so they don't know , I wanna apply but don't wanna get denied ",
+1533,I'll get off work at 5pm and then I'll be driving from SF,
+1534,So I hope to get there to meet up with Yohans by 6:30 latest,
+1535,Im good thnakls,
+1536,What what's the Pope ty address??,
+1537,Property***,
+1538,Hi Ryan! Can you please send me the original listing for reference? Thank you!,
+1539,"Hi Ryan,
+Can you remind me what the address of this listing is again?",
+1540,"Hi, I sent out a few inquiries last night. Would you remind me of the address please?",
+1541,"Hi there, thank you for reaching out! I won't be able to view the listing place until the following two weeks. I am currently living in LA and am searching for a new living experience depending on the status of my school applications in SF. I am currently paying a similar price here in LA and so this place is within my budget. I would appreciate any updates on the listing until then thank you!",
+1542,I am not looking to rent till august but could do a virtual tour.,
+1543,What is the pricing in all the units,
+1544,I was going to schedule a tour but it seems like the rent price for a studio displayed on the website is different from the email that was sent to me. Can you confirm what the actual monthly rent is for a studio?,
+1545,It's a live tour correct ?,
+1546,And does unit have bathroom,
+1547,And how much is the holding deposit,
+1548,thank you very much excellent afternoon,
+1549,I'm n Fremont getting oil change i had viewing today or maybe after 430,
+1550,Yes I’m am how soon can I come in for a tour,
+1551,"Hello, thanks for reaching out! I would like to come by on Monday, if possible. ",
+1552,Hi Ryan! I currently live in SoCal. Is there a way I could do a virtual tour?,
+1553,Do any of these units have balconies?,
+1554,I'm sorry I was crazy busy today at work... What was the address again,
+1555,"I was curious, are utilities included? And I have a 50 pound dog who is house trained. ",
+1556,"hello I have a question the price per month is $ 1500 or $ 2,500",
+1557,I'd like to know the rent for a studio,
+1558,Thank you. I appreciate it. I think i'll see other places as well cause I can only move by the end of June.,
+1559,Ok. We will get back to you. Are you on 15th street Oakland,
+1560,Thanks. Can you tell me if there is a space between the fridge and where the sink is?,
+1561,"Hey , how are you ? I currently stay in Montgomery,AL but I plan on moving to Texas when I graduate next month. I was wondering how old do you have to be to lease at Heatherwood apartments and do you guys allow co-signers ? ",
+1562,Hi I apologize for not getting back to you sooner. But I currently live in Pennsylvania and have been looking to move to the Houston area. I'm currently looking at getting my first apartment.,
+1563,I cannot come in for a tour I live in Pennsylvania.,
+1564,Hello I was talking to someone about doing a virtual tour because  I don't drive..,
+1565,"O wow! Sooo quick, thank you so much. ",
+1566,"Hi Ryan, 
+
+I'd like to schedule a virtual tour of possible. ",
+1567,"Is it possible that we do an in person tour? We are both vaccinated. If not, no worries",
+1568,Lets book next friday!,
+1569,Btw how does the $2500 promotion work ?,
+1570,"That's a perfect time, right after work",
+1571,"Do the $2500 apply for unit 106 on 555 O'Farrel st ?
+
+Thanks for getting back to me ",
+1572,Thanks so much !,
+1573,Tuesday would work.,
+1574,"Thank you! Tomorrow, Saturday, 4/26/21 at 11:30 AM will work for me. When I get there, do I ring a doorbell? Who am I going to meet?",
+1575,Is Yohans the property manager,
+1576,That would great,
+1577,"Hello, I live a bit far away at this time. Is it possible to have a video tour or just an application?",
+1578,"Hello Ryan, apologies for the delayed response. I just got back into town from NYC last night. I am interested in a tour. Will this be a virtual tour? ",
+1579,April 26th at 2:30 pm works for me!,
+1580,What is the address & price?,
+1581,Sunday @ 12pm works best?,
+1582,Thank you! I would like to tour 360 Hyde St saturday 5/1 @1pm,
+1583,I'm leaving back to Los Angeles tomorrow morning,
+1584,Thank you so much for your kind patience,
+1585,Hi and thanks for reaching out.  I'm going to pass on this building it's a little too TL for me but I'll keep an eye out for other units in the area.,
+1586,I can't do a tour cause I live in arkansas,
+1587,Is it 1 bedroom or a studio,
+1588,"Yes, I am currently looking for a studio because I am relocating for work. If possible, I would like to schedule a tour on Monday ",
+1589,The 27th from 5-5:30pm works for me,
+1590,How much for the 1br,
+1591,I can come tmr at 1pm,
+1592,Or before would be perfect,
+1593,"Okay, can youu please send me the address again, Ive been looking at so many I forget which is where.
+Thank you ",
+1594,I'm be here but no body in the office,
+1595,Hey sorry to bother u again but is the apartment still available?,
+1596,Are virtual tours available?,
+1597,That works as well I appreciate it,
+1598,Yes I would like to schedule...before hand my situation  is being handled  by a housing coordinator  my deposit and first month will be paid. I definitely  accept the tour. My housing coordinator is  Lawanda Oliver.  Her number is  5108507710 I would  definitely  like to move forward especially if she okays it,
+1599,Hi I was wondering the application I'm filling out for the apartment is it a shared room or studio,
+1600,Thank you but I've found a place.,
+1601,Alright thank you,
+1602,"That sounds great, would I be able to do one today or sometime this coming week? I was also hoping to talk about finances and such ",
+1603,Inside ?,
+1604,I'm finishing up application now,
+1605,How soon will it be available,
+1606,Does that include all utilities and what not?,
+1607,"Is there any way I could talk face to face,through a scheduled meeting to have all my answers answered, but not through text? ",
+1608,What unit is this?,
+1609,Can you send pictures,
+1610,I'm available for Monday  April 26 1200pm to 100pm,
+1611,"Hello Ryan, I'm actually thinking I'm going to need bigger unit. Im going cancel tomorrow's tour ",
+1612,I'd like to schedule a tour on Mon 26 at 6pm,
+1613,I'm located in New York. I'll be moving out to Berkeley next month. I have literally to idea about the rent range,
+1614,Thank you may you please send Address and link to the property,
+1615,"Okay thank you, I did notice a change in price, you mentioned the place would be  $1,345/mo, but on the email it says $1,545?",
+1616,The virtual tour that was sent earlier was carpet and smaller vs. the one online I'm having a view for. Since it's a studio but has a separate kitchen because there is a wall.,
+1617,The unit was 303,
+1618,"Hi Ryan, apologies for the delayed response. Would love to still see this place. Can we schedule for Monday at 6pm?",
+1619,It's a criminal mischief class b,
+1620,I was just checking Thankyou,
+1621,I didn't get that video..,
+1622,Can you ask your manager and get back to me,
+1623,Alright that's fine,
+1624,2bd2b unit,
+1625,I'm going to pass my criminal history will fail thanks though,
+1626,I would prefer to not be that close to downtown Oakland.,
+1627,I'm sorry I was unaware what property is this exactly,
+1628,"Hello Ryan, thank you for your help and sorry for responding back late, I was searching many things, is this apartment in your list 
+1425 Lakeside Dr #202 ? 
+$ 1650 month rent? 
+If so do you have parking available?
+Thank again, Meega",
+1629,"Hello Ryan! 
+
+I have a couple hesitations about the unit, but would love an opportunity to chat with you about it. 
+
+I am in Southern California, is there any way we can schedule a virtual tour? 
+
+Thanks for your persistence ",
+1630,Yes Where is the rent place,
+1631,How much is the price,
+1632,Two bedroom 1895 per month,
+1633,Is parking available in this unit?,
+1634,How much the rent?,
+1635,"The rent is actually above my available limit,",
+1636,"Hello, I inquired to many so I have forgotten which spot but yes still interested. What was the monthly rent and was it the studio? ",
+1637,I can afford about 850 in rent,
+1638,Is the apartment shared?,
+1639,"Oh ok thank you for your time, I was looking for an apartment studio to myself. ",
+1640,I noticed the property are sro units,
+1641,May 1st please! Thank you so much for your understanding!,
+1642,The rent is 1345 per month?,
+1643,Cool thank you 😊,
+1644,Monday 26th @6pm works!,
+1645,Tuesday works perfect for me,
+1646,Hi. Would you be able to tell me how big the sleeping loft is,
+1647,This week. What side of htx is the property on,
+1648,I would like to reschedule the tour on Wednesday the 28 at 1000 am,
+1649,"Hello, i would like to cancel my appointment. I apologize for the inconvenience ",
+1650,Hello what tour is this,
+1651,"Hello. Thank you for reaching out, but at this moment I wouldn't be interested. I found something else. Have a nice day ",
+1652,"Hi sorry, I don't live in San Francisco, I'm in San Diego so I can only do virtual tours  ",
+1653,Hi Ryan! I will be in the city tomorrow and would love to set up a time to see the property if possible. Let me know!,
+1654,I unfortunately will not be in the area on Thursday,
+1655,Tomorrow  at 6 p.m works for me perfectly,
+1656,"Thursday sounds good, thank you!",
+1657,Is that the efficiency cause if so i don't want that,
+1658,thank you id prefer you mention it after i tour i dont want any animosity when i tour,
+1659,"Thanks for the info! I am looking for a dog friendly, small apartment under 1500",
+1660,Would tomorrow work,
+1661,Saturday 4 pm works,
+1662,Yes! I am really interested in that place. I saw the open house times but I won't be in town until May 1st. Can we schedule something on May 2nd it after?,
+1663,That sounds good to me. I will be in town on May 2nd. So I will follow up then. Until then we can do a virtual tour. Thank you!,
+1664,Sounds good!,
+1665,I will apply for it tomorrow. It's what I'm looking for. So I hope it's still available when I get to town!,
+1666,"YES, but I am away from SF for now. I will let you know when I can schedule a tour if you still have vacancies. Thank you.",
+1667,This is a hotel not apartment,
+1668,Saturday May 1st will be good. Thank you,
+1669,Hi i just went to apply how i know if i qualified,
+1670,Sorry what location was this for,
+1671,Do you have apartments available,
+1672,The 2 bedroom?,
+1673,Yeah I was supposed to meet him Saturday but they said he was retired also reached out to him personally and he said he's retired as well and that there's somebody else in charge,
+1674,"Oh ok
+What are the requirements ",
+1675,It's ok and that's just what security told me and he told me through text maybe he just meant the weekend instead I must've had the wrong idea my apologies,
+1676,$1500 is too much,
+1677,"Hello Ryan, yes I noticed that you have viewings this week but are there any scheduled for next week on Friday? ",
+1678,How many bed this building,
+1679,No kitchen sink? How much,
+1680,I want it,
+1681,My problem is I'm going to get my self killed on the freeway .I cumute to Tracy  I get up at 4 am  and home by 7 at night sometimes .so I need something close to freemont  so,
+1682,"Sure we can do that does tomorrow work for you, I know that there's a slot tomorrow at 6:00 ",
+1683,I thought it was rockridge commons,
+1684,What was the address for this property?,
+1685,I need the application,
+1686,"Hi, I’m sorry I think the studio unit will be too small for me!",
+1687,Hi Ryan! If I could schedule the tour on Saturday at 1 that would be great,
+1688,Or actually are you guys doing virtual tours at all?,
+1689,Not a great location for me. Do you have anything that isn’t so close to downtown?,
+1690,Yes I would like it very much,
+1691,How much,
+1692,Thursday at 6:00 pm works !,
+1693,"No thanks, I have already signed a lease ",
+1694,What's the location,
+1695,Great thanks much,
+1696,"Hi Ryan, same to you. Yes, my partner and I would like to schedule a tour to see the studio. Because we both work a time on the weekends would be easiest. Do you guys offer tours on Sundays? ",
+1697,We can come on Saturday,
+1698,"Hi Ryan, thank you for getting back to me. Saturday at 1pm is perfect. ",
+1699,Wonderful. Thank you,
+1700,Thank you! Stay safe,
+1701,"Thanks! The tour is in person, correct?",
+1702,Would you guys basing the credit score?,
+1703,"Hi, thank you for following up. I would like to schedule a tour but won't be available this Saturday. Are there any other times we may meet? ",
+1704,May 4th at 5pm would be perfect,
+1705,possibly can we do a tuesday or thursday at 10 am ? i work at 12pm in san mateo so due to location variables,
+1706,"I'm sorry I forgot to clarify before scheduling, but is it possible to have a virtual tour of the space rather than in person ",
+1707,My email address is kahlapeterson@gmail. com,
+1708,Going to cancel wkin late..,
+1709,I guess. But it really isn't the same.  We can so Saturday afternoons.  How do I get sign up with SF Rent?,
+1710,"Hi, how much is it for a 2 bed 2 bath? We are flexible with the move in date. ",
+1711,I'm currently at work and don't get out till 6.,
+1712,When should I expect the virtual tour link?,
+1713,what hours?,
+1714,What's your address?,
+1715,Hi Ryan thanks for reaching out. When would be the best day and time to o view,
+1716,I'm currently at work,
+1717,"Okay, I can go today at 6pm",
+1718,Perfect are utilities included? Also could I come and see it possibly tomorrow at 1pm?,
+1719,Sorry I'm at work,
+1720,Is there availability this Tuesday,
+1721,I am working,
+1722,Liked “Great! Let me book that for you. I will send you the confirmation and the tour details you'll need through email and SMS in a bit.”,
+1723,I work from 10:30am to 6:30pm,
+1724,How much is application an etc for a 2 bedroom,
+1725,Can you tell me a total move-in price?,
+1726,Then I couldn't rent until June because I am about to pay rent here,
+1727,Do residents get their own parking spot?,
+1728,"Hello, Thank you for reaching out. Sorry I missed your call, I was working. Saturday May 1st @ 11:00 am it's perfect. ",
+1729,Can I schedule an online tour,
+1730,I am wondering if you accept rental subsidies?,
+1731,How much is application,
+1732,I'd appreciate that very much,
+1733,"Hi, this is Terrye again. My son filled out the online application. It say
+100% when he pushed submit it won't. It just won't submit he went over everything. 
+510-828-0529",
+1734,I'm sorry for missing our appointment had a family emergency. I would like to know if we could meet tomorrow about 4:00,
+1735,Ok not a problem! I'll make it for that scheduled tour! Thanks for letting me know!,
+1736,"I am sending this on behalf of Russel Ramharack .  Please cancel tour scheduled on May 1, 2021 @ 1:00 PM.  Thank you!",
+1737,Which location is this?,
+1738,Sure I work near the location but I am in the field today. Do you have any thing for Sunday,
+1739,What about 2 bedroom,
+1740,What are the requirements,
+1741,How much is the application fee so the deposit is is required by background correct,
+1742,Ryan. Does this place accept cats?,
+1743,Okay when can I go in,
+1744,Hi Ryan! Which unit is it?,
+1745,"Hey , how much is the 1br with den ??? I didn't see the prices ",
+1746,"The upgraded unit with the den included , how much for all bills included ?",
+1747,Your saying for him too start all over with a new application.,
+1748,Where is it located?,
+1749,We are thinking of moving in late June.,
+1750,Hi! Is there anyway for me to have a virtual tour?,
+1751,Yeah I want it,
+1752,What time tomorrow,
+1753,Send me the address please and when would be the soonest I can move in,
+1754,"Hi Ryan, which apartments are we talking about exactly.",
+1755,"Do they have roach or cockroach, rats problems there because my son is autistic an he is very very very afraid of those things ",
+1756,I’m looking for either 1 bedroom or 2 bedroom Apartment. Can you tell me the price for the available units? And is there a link or photos available?,
+1757,"I don't have an email address.
+Thanx Terrye
+",
+1758,Hi Ryan! Thank you I am well. I would love to schedule a tour,
+1759,Liked “Just let me know please so I can book you a tour.”,
+1760,I was calling for a friend,
+1761,I might be a little late no more than 25 m,
+1762,"Hi Ryan, yes thank you. The only day I have off from both of my jobs is Wednesdays. Hope all is well and healthy with you. ",
+1763,Do you have any room right now,
+1764,For how much,
+1765,I just got to work right now and I don't get off till 9:30 but tomorrow morning is good,
+1766,Oh that would be great,
+1767,Okay text me the address,
+1768,Is this apartment in Oakland,
+1769,"Hi Ryan, Thankyou for getting back to me. Yes please, would Sunday suit ? ",
+1770,Utilities are i cluded?,
+1771,What address is this again?,
+1772,I'm looking forward to seeing the place tomorrow.,
+1773,But I work from 1 to 10,
+1774,Text me the address,
+1775,I'm waiting the address,
+1776,Okay because I'm confuse I believe I didnot have to share kitchen with anyone right,
+1777,"Hi Kelsey. Thanks for getting in touch. How much is your available place for stay, what is the terms like duration and mode of payment. I am Geno looking for a short term lease like 2-3 months. Thanks again",
+1778,The room is nice,
+1779,How much the rent and the deposit,
+1780,Saturday will work for me,
+1781,I'm currently living out of state,
+1782,Hello I was looking for prices for a 1 and 2 bedroom its just me that will live there i will be moving here from louisiana,
+1783,do you have any virtual tours ?,
+1784,i would like more information on the 1 bed,
+1785,Can I get back to you? I'm still interested. This is my first time moving out on my own and I still have a lot of questions,
+1786,"Hello. Thank you for reaching out. At the moment, my company won't need me to relocate until the end of August or beginning of September. I'd have to postpone my apartment search but ill be sure to keep you guys in mind. ",
+1787,I already saw it on video and it interests me just that I do not fear good credit,
+1788,Saturday May 8th 4pm works for me,
+1789,Can you refresh my memory how much is the asking price,
+1790,"Hi...I'm currently out of town right now, but what are the qualifications for rental. I do have an eviction against me and it's stopping me from getting in. I currently need somewhere to stay.",
+1791,Ok of I have to pay more that's fine...do you work with evictions,
+1792,Either or will work for me,
+1793,Yes I would like to schedule May 3 at 6:00 pm tomorrow,
+1794,Yes can I book for Tuesday anytime before 1,
+1795,Sorry I just signed my lease thank you for reaching out,
+1796,Sunday at 12 would work.,
+1797,Ok can you let me know when it becomes available,
+1798,I need at least a 2bd 2ba,
+1799,Tuesday may 4th @6pm works for me,
+1800,"Hi Ryan, this Friday 5/7 at noon works",
+1801,Where do I go?,
+1802,I also had question about parking,
+1803,Is the price listed on the website accurate? Yes,
+1804,Hi Kelsey I would like to schedule a tour if possible next Saturday around  1100 am or 1 pm.,
+1805,Yes that is correct. And 4PM works for me. I hope to see you and the place then! Best!,
+1806,1 bedroom.  Do you also have town homes?  I dont know do you have townhome too if I could get a tour too ?,
+1807,Thank you so much!!,
+1808,Yes hello and you please tell me how many bedrooms you have and price also can you send website,
+1809,So no tour for Saturday?,
+1810,"Just to confirm, the apartment is dog friendly, right?",
+1811,And I'm pretty sure I did the tour online. Which is why I'd like to see the place now.,
+1812,"I guess if you guys aren't willing to accommodate me, I'll just keep looking. 🤷🏽‍♀️",
+1813,My girlfriend will be stay with me around 3 months and then I will be alone the all time,
+1814,"Yes please, when do you have open time slots? ",
+1815,When is it available?,
+1816,Do I need to have renters insurance?,
+1817,Is there a pool?,
+1818,When can I come in for a tour,
+1819,Do you allow subleasing?,
+1820,When can I come in for a tour?,
+1821,can i schedule a tour ?,
+1822,when can i come for tour ?,
+1823,how much is the rent ?,
+1824,what is the monthly rent?,
+1825,when can i come for a tour ?,
+1826,do i need to have renters insurance ?,
+1827,when can i come in for tour ?,
+1828,parking available ?,
+1829,parking is there ?,
+1830,can i come in for a tour ?,
+1831,tour ?,
+1832,when can i come for a tour,
+1833,do i neee renter insurance ?,
+1834,do i need renters insurance ?,
+1835,When can I come in for a tour ?,
+1836,"How much is the rent?
+VK",
+1837,how much is the rent,
+1838,how much is the rent per month,
+1839,do i need to have renters insurance,
+1840,"do i need to have renters insurance
+VK",
+1841,next Thursday at 2 pm,
+1842,When is it available ?,
+1843,is subleasing allowed,
+1844,What is the application fee?,
+1845,How much does the rent cost?,
+1846,next Tuesday at 4 pm,
+1847,when is it availalable,
+1848,what are application requirements,
+1849,"No problem,  I'm at work but I'll be there. Thank you ",
+1850,Is this a virtual tour or an I. Person tour. And can you remind me of the rent,
+1851,How much are the rent,
+1852,Would you be able to do a tour on the weekends?,
+1853,"I live here , I was just trying to schedule a maintenance visit but everything been taken care of. I didn't realize this number was to schedule a tour sorry.",
+1854,Hi Ryan. Can you remind when the address of the location. I'm looking at a few places this rekey,
+1855,And I would like to talk about eligibility of renting here,
+1856,Is unit 3-112 still available?,
+1857,Studio?,
+1858,"Hello, I am currently in CO. Do you do virtual tours? Also any august move in dates? ",
+1859,"Also, do any of the apartments include parking?",
+1860,Yes thank you! What's the address again?,
+1861,What about the 3 bed room,
+1862,Tuesday at 5pm would be perfect,
+1863,I already found an apartment thank you though.,
+1864,Ok let me come up with a time and get back to you,
+1865,By the end of the month,
+1866,I'm only available weekends,
+1867,And I'll looking to start renting in July :),
+1868,Hi I'm in front of the building,
+1869,Mine was September of 2020. Do you guys work with done deal?,
+1870,I like the pictures and had a couple of questions.  Is this a one bedroom and is there parking on site?,
+1871,Is there parking?,
+1872,Yes. Do you have any studio or 1 bedroom apartments available?,
+1873,"Schedule a tour, for tomorrow.",
+1874,Monday tuesday wesday work,
+1875,I would like more info,
+1876,How much monthly,
+1877,What's the website again?,
+1878,I don't find the email address to request the rest for the back unit,
+1879,Can I get the address pls,
+1880,Hi Kelsey yes I want to know what the cost for utilities were I noticed on the site that the pricing listed did not include the price for the utilities provided,
+1881,Thanks for your response. $1595 is out of my budget. I am trying to not go over $1500.,
+1882,I will be there. If anything does change I'll let either you or molly know,
+1883,"I contacted Larry and asked him if we can do the meeting virtual or by phone because I'm on the east coast, I didn't get a response ",
+1884,"Hi Ryan, Friday 5:30 would work best for me",
+1885,3 bedroom?,
+1886,Hi Ryan! Yes I would like to! Do you have time today after 2p?,
+1887,Okay thank you so much!,
+1888,Can I see some pictures and know the pricing? Does it allow cats?,
+1889,What apartment this for again I'm sorry,
+1890,"My husband will be reaching out, at the moment im out of state",
+1891,Thank you! Sorry I have to cancel that area is a little too far,
+1892,If we give the whole money when can we get the apartment?,
+1893,Alright that sounds good,
+1894,"yes, that would be great. however, I am not able to sign/pay deposit etc until end of june/beginning of July, as I am still paying rent in my current place thru June",
+1895,Hey Ryan. Yes I would like to schedule a tour. Can I do it sometime at 5pm today ?,
+1896,Thankyou I appreciate it.. I am looking for both studio and 1bed apartments.,
+1897,Until I move,
+1898,Yes and I was wondering is y'all taking unemployment,
+1899,Is there a washer n dryer,
+1900,Is there a deposit,
+1901,And do we pay 1sr months rent before we move in,
+1902,"Hi, thanks! I already watched it and filled out my application ",
+1903,This is our first apartment,
+1904,Yes I would like to tour that.,
+1905,Do y'all have a 3 bed room,
+1906,Thursday 5/6 @ 6p will work for me. Thank you,
+1907,I’m wondering what the pet policy is? I have a large Greyhound,
+1908,Also what is the monthly rent?,
+1909,And when can i move in?,
+1910,What is the monthly rent,
+1911,whats the deposit,
+1912,what income’s needed?,
+1913,can i sublet,
+1914,Send me your website again so I can look at the website,
+1915,amenities,
+1916,also jw about how i’d pay my rent? credit?,
+1917,Another question I don't get paid till nxt week anyway I can hold it,
+1918,cool thx,
+1919,do you have other options,
+1920,"Hi Ryan, I am here for my appointment,  but I am not able to reach both the numbers.",
+1921,do you have other apt options,
+1922,My wife will come Thursday at 4 pm,
+1923,"Just 1, or if any people currently living there are looking to sublet a single bedroom for the summer that would work too",
+1924,"Ok, thank you. I can't do a 6 month lease unfortunately",
+1925,"Alright, thank you!",
+1926,Thanks for getting back to me so quickly! Yes I would love to schedule a tour.,
+1927,I'm unfortunately working at that time. Do you have anything else?,
+1928,Okay that works too,
+1929,Thank you so much for contacting me,
+1930,hello i was wondering the prices for 1 bed,
+1931,These are not base on income apartments,
+1932,"Also, is this close by 94536 zip code?",
+1933,i cant im at work can we text?,
+1934,or anywhere close to 94063,
+1935,How much a month,
+1936,Will that work?,
+1937,Patsa2@yahoo.com,
+1938,"Hi Kelsey, Thanks for answering. I think it would be 3:00 pm tomorrow Thursday.",
+1939,Which apartment are you,
+1940,I need apt by first so thank you,
+1941,I'm sorry I'm going to have to cancel,
+1942,These are not base on income apartment,
+1943,Ok .12 pm sounds good,
+1944,what is the zip code of the available unit?,
+1945,I ended up finding another place. Thank you,
+1946,I hope so too since I dont wanna drive that far from home to work.,
+1947,Do you know when you'll have any available at your location?,
+1948,"Hi Kelsey, yes I would like to schedule a tour. I will be in the area this weekend and Monday, Tuesday next week. What is your availability? ",
+1949,"Hi, I need to cancel the appointment ",
+1950,Tomorrow it's good,
+1951,Let me check,
+1952,This is month to month correct?,
+1953,Or is it a lease,
+1954,Can I schedule a tour for the 1 bed 1 bath,
+1955,"Yes
+I'm available next wk Thursday or Friday mornings",
+1956,Oh cool ok,
+1957,hi! i actually booked an appointment for may 15 but could i please cancel it?,
+1958,"Hello, i have signed on another property. Thanks for reaching out.",
+1959,"Yes, so sorry I will get back to you on those dates ",
+1960,okay cool! are the tours virtual?,
+1961,"Hi! No I'm all good, thank you! ",
+1962,Hey! Yes! Sorry this message slipped through. I would like to come by and see the place,
+1963,No just wanna know is my package located there,
+1964,"Hey thanks, I already did the tour",
+1965,Does the apartment have a washer and dryer in it?,
+1966,I will be in town May 16th if that works?,
+1967,I can potentially do this Saturday or next Saturday !:),
+1968,I will check and let you know by tonight!,
+1969,I'm moving soon the apartment is beautiful,
+1970,Ando en busca de un estudio,
+1971,May 15 would be perfect,
+1972,San Francisco is not the city I want to move to.,
+1973,"Good evening Kelsey. 
+Yes! I would love to schedule a tour. What does your availability look like?",
+1974,Un estudio,
+1975,Can you remind me what the property addresses?,
+1976,Let me check my schedule & get back to you. Thank you,
+1977,I actually don't live in the area I currently live in LA I was just wondering what the requirements are to rent.,
+1978,Is this available on a month-to-month?,
+1979,"Monday, May 10 @ 6pm would be perfect ",
+1980,Okay yea that sounds good thank you!,
+1981," Ok, thank you so much",
+1982,Please schedule me for a viewing of the apartment for Thursday 5/13/21 at 6: 00 pm. Thank You.,
+1983,"Oakland and studio/1 bedroom , either or is fine, just looking for something in our price range ",
+1984,"That sounds good, Is there any pictures you have of the apartment? this Saturday 1:15 sounds great! ",
+1985,Hello! Btw. Also I would have to do a virtual tour because I live about 3 hours away,
+1986,I live about 3 plus hours away and I have small children my husband works daily is there any way I can do a virtual tour?,
+1987,Do you when the 2 bedrooms price will drop to 900 in something instead of a 1000?,
+1988,The Oakland apartments do they have in-laundry and parking space? How much is it again?,
+1989,How's the crime rate in that area?,
+1990,how much is the rent for this one?,
+1991,A cuanto esta el estudio,
+1992,I know that you guys have studio and junior unit,
+1993,I wanted the studio,
+1994,Have a good one. I will do the application once I get home today,
+1995,"Hi Ryan, sorry I didn't see you message yesterday. Do you offer month-to-month or 6-month lease option?",
+1996,Yes close it out,
+1997,What's the monthly payment?,
+1998,When will monthly payment drop to 900 in something?,
+1999,2 bedroom 1.5+ bath,
+2000,hello . i just found out i have broken lease on my credit,
+2001,Hi Kelsey! Are the 2 bed 2 bad available and the price? Is the 1 bed 1 den available and the price?,
+2002,That location an hour away,
+2003,Income Base,
+2004,No thank you! I found another place,
+2005,"Hello! I just scheduled a private viewing for Saturday, May 08 @ 11am!",
+2006,I would like if y'all have any 2 bedrooms apartment available before the 19th and how much is the rent ?,
+2007,I'm sorry I'm at work,
+2008,I would like to know *,
+2009,Estoy buscando un apartamento d 2 habitación,
+2010,I think I'm more interested in the $765 price ranges.,
+2011,And where is the exact location I'm not from Oakland,
+2012,Also this is low income correct?,
+2013,Thankyou so very much,
+2014,And these are low income right?,
+2015,I need a virtual tour because I'm in Illinois and I won't be there til possibly the 21,
+2016,"Hello. Can we do an online tour through Zoom or something similar? If so, I'll be available for the May 8th time slot",
+2017,I'm at work right now and I will get in contact with y'all Monday thank you,
+2018,I need to cancel,
+2019,"What is the down payment, ",
+2020,I found a cheaper option in Oakland,
+2021,Yup! Sounds good,
+2022,Do you have garages? How far are you from Hermann Memorial Texas medical Center?,
+2023,"I am at a business meeting, not paying attention, but cannot talk. Do you have garages to rent ?",
+2024,"So you do not have garages, then sorry. I need a garage.",
+2025,Perfect. Currently I'm looking for a studio apartment if any are open. I am available Tuesday at 5.,
+2026,That works perfectly.,
+2027,"Liked “Thank you for scheduling a tour on Tuesday, May 11, 2021, 5:00 PM for 138 Hyde Street San Francisco, CA 94102. You’ll be meeting with Larry Gothberg who can be reached at 415-671-5200. Do let us know if you have questions. Thank you and take care!”",
+2028,Thanks. I'll reach out when I am able to choose a time,
+2029,Oh sorry. I found an apartment,
+2030,I work today. So the May 15 2021 at 4pm is good. If you have a virtual tour will be better. Thank you.,
+2031,I can book online no probs. I'll take care of it!,
+2032,"I have a cat, is that allowed there?",
+2033,"Liked “Yes, it is allowed.”",
+2034,Well I'm been really busy with work . I'm at work now. even Sunday I work . Maybe next weekenf,
+2035,We are in Texas so a live tour would be hard right now. Can I call you now?,
+2036,My son is moving to SF for a job. We are interested in learning more about the studio,
+2037,Ok 👍 once I get back in town I'll contact u,
+2038,Is this unit  upstairs  downstairs,
+2039,And can u tell me what price range will I be n,
+2040,I dont have  no broken  leases r  evictions,
+2041,Yes I am interested in a tour. Is there a virtual tour option? I am coming from out of state,
+2042,"Hi! I would not be able to come into for an in-person visit, unfortunately",
+2043,I had an app at the same address 138 Hyde st.  #15. Just want to see the #28. At the same time.,
+2044,Yes I would like to I'm just not sure when,
+2045,"Hi Kelsey, Is there a way to fill out an application? You do allow a little dog, correct?",
+2046,"no thank you very much
+",
+2047,Hi can I reschedule the viewing please?,
+2048,Could we please schedule for may 15th at 4PM?,
+2049,Monday 6:00 PM works great! Thank you 😊,
+2050,"Hi Rockridge, im interested but im also not in houston at the moment im still living in oregon",
+2051,No .peeo yo tengo mis cosas,
+2052,I'd prefer to text atm if that's alright with you. I'm currently working,
+2053,May i ask the address?,
+2054,No thank you I purchase house,
+2055,What apartments is this,
+2056,"For which establishment, I had inquired into 2 different apts recently ",
+2057,"A tour won't be necessary, I had seen the floor plans for the units and I'm not picky. The main thing was pricing and location ",
+2058,Have to be next Saturday,
+2059,Saw it manager holly said price was more,
+2060,Price negotiable,
+2061,Okay I'm outside the building,
+2062,No budge on price,
+2063,"Liked “Thank you for the greeting and for reaching out. regarding the application requirements and process, https://sfrent.net/pages/apply-now and for further assistance, you may talk to the leasing agent about it during your tour as they know more about it. Thank you.”",
+2064,May 11 at 5 sounds good,
+2065,I would to have an virtual tour on May 15th at 1:15  pm,
+2066,"Hi Kelsey, just to confirm, is it on 1pm the tour?",
+2067,This will be a virtual tour correct?,
+2068,Thats fine  l  would  like an virtual  tour first please  tyvm,
+2069,And comparing prices,
+2070,Filled out and paid for the application & submitted,
+2071,What kind of breeds the boy dog is well below 50 he is 38 lbs and the girl dog is 28 lbs the boy dog is boxer mixed with lab and the girl is Labrador retriever,
+2072,Wednesday and Thursday I am off is that a available time,
+2073,Sure thing and if you do not mind may get a name,
+2074,I'm looking for an apartment only for myself for a low price since I'm a college student and I have a job,
+2075,Yeah sure that would be great,
+2076,"Hi Kelsey, I would love to set up a tour. ",
+2077,Sound good,
+2078,Sounds good ! Thank you,
+2079,"Hi, my name is Mirna and I am helping my son David to find a place, he's disabled high functioning adult. Independent and going to alameda college. I would like to schedule a Tuesday at 12pm",
+2080,Are you available Monday?,
+2081,Ok did I get approved and tmrrw is fine,
+2082,Did you guys get my application?,
+2083,What do I need to bring,
+2084,"My uncle is in San Diego, so he would have to fly out to San Francisco. But I think a live tour for now would be good ",
+2085,"Hey I'm sorry I wasn't sure if there would be an option for an online tour, I am not actually in the San Francisco area at the moment.  Thank you for reaching out",
+2086,"Alright thank you, do you know how much the utilities amount to ? ",
+2087,"Le encantó “Thank you for scheduling a tour on Tour Booked: Saturday, May 15 2021 @ 1:00 PM for 780 Post Street San Francisco, CA 94109. You’ll be meeting with Gustavo Herrera who can be reached at (954) 245-8763. Please feel free to let us know if you have questions. Thank you and take care!”",
+2088,Hey go ahead and close it out I'm still doing a lot of research,
+2089,"Hi Kelsey. Thank you for writing back. 
+Yes my daughter and I would like to schedule an appointment. Possible 05/14 afternoon around 230? Or Saturday morning 10?",
+2090,Send it to me address please,
+2091,"Yes ma'am, I tried to reschedule for tomorrow at 10am. I spoke to a gentleman named Patrick yesterday and he told me to reach out to property manager via text and I did, I am still waiting for a response. ",
+2092,We are moving in August 1,
+2093,And I bedroom,
+2094,Yes would I be able to stop by tmr ? Morning ?,
+2095,Ok is it on the first floor,
+2096,"I am Interested,I am OTR truck driving for 3Weeks ,is there anyway to still process my application?",
+2097,"Not at the moment, I will reach out again once I'm able to go see the property.",
+2098,I really would like to move right in I get paid next I'm ready sir,
+2099,No can I book a tour today at 3:30 pm,
+2100,Anything after 1 is good,
+2101,Okay that works for me thank you,
+2102,Can I have the address please,
+2103,What your price for a one bedroom,
+2104,Great. Thank you Kelsey!! I will let you know sometime next week. Thank you again,
+2105,"Yes, I'd like to schedule a tour. Can you tell me how much is a 2 bed room available for that will be ready to move in 3 weeks ",
+2106,I'm gonna be out of town til next week.....do you have any floor plans I can look at with pricing?,
+2107,Can we shoot for May 20th same time,
+2108,i just talk to someone in your office. I will reach out if i need anything,
+2109,"Nvm, no full size w/d connections",
+2110,"Hi Kelsey thank you for getting back to me. Could you possibly do sometime May 11, Tuesday morning? If not, I can do Saturday at 4. Thanks! ",
+2111,No maybe next week,
+2112,is it an online or in person tour?,
+2113,Thank you so much for reaching out. I will contact you soon,
+2114,Where is Serena Grove Apartments?,
+2115,"Hi Kelsey, thanks for reaching out! I would love to schedule a tour. Would this be a virtual tour or in person ? ",
+2116,What time,
+2117,After 2 im available,
+2118,Oh this is perfect! I was requesting on behalf of someone else so I can ask him. I know he wants to see the place so I’ll see if he prefers Thursday or Saturday.,
+2119,Can I come by Wednesday May 12th to talk with you and see the apartments?,
+2120,Hello. I'd love to see a virtual tour,
+2121,I actually live in Florida currently so I wouldn't be able to do that,
+2122,Yes that would be wonderful!,
+2123,"So I've applied for the place, how soon do you think I will get a reply?",
+2124,Which apartment complex is this for,
+2125,I don't have a car right now,
+2126,For what unit?,
+2127,"Yes I am still interested....I'm located in Louisiana, so I'll be relocating to the Houston area at the end of June....",
+2128,Sure  should  i bring all my cash?,
+2129,How many square feet is the unit and is there a site I can access the layout on,
+2130,I had an eviction almost three years ago in Louisiana do you all deal with that?,
+2131,How much higher?,
+2132,They have a 2 bedroom?,
+2133,"Hi Kelsey, 
+I apologize I forgot to mention that I do not currently live in the area so I would not be able to tour in-person. I completely understand if virtual tours are not available, but I would be willing to set up a time to come out (I currently live in Massachusetts) and tour apartments. Please let me know the best way to continue this process!",
+2134,Great thank you so much!,
+2135,"Yes, I am very well and Healthy, thanks Lord. So I will have to talk to my Mom about tomorrow to see the place. ",
+2136,Can I schedule a tour and get specific price for this unit,
+2137,This month,
+2138,Sat at 11am works,
+2139,That  will   cost  a blow  job gs  theqe  any  one avalable that could take care  of this  now  i  do  have  extra  cash,
+2140,Hello  where  did ugo,
+2141,Im here  wheredid u go,
+2142,"Good afternoon, 
+
+I made a appointment for a tour already online. ",
+2143,What part of town,
+2144,What is it close too?,
+2145,What is your availability,
+2146,Do you offer virtual touring or are they in person?,
+2147,Sorry that won't work. I work until 7pm,
+2148,"I am available next week, do you have any available times in the afternoon?",
+2149,Yes that would be great! Do you do virtual tours?,
+2150,Hey I'm 5 minutes late,
+2151,how much the price of the apartment ranges?,
+2152,whats the address,
+2153,No eviction or broken leased,
+2154,Leases,
+2155,Hi Kelsey! Thanks for reaching out. I would absolutely  love to schedule a tour with the place. 6:00 PM tomorrow works well for me,
+2156,They said you were on property with someone,
+2157,It was rescheduled due to an emergency at the complex,
+2158,The 13th at 6 would be great!,
+2159,"Yes please, May you send me the address?",
+2160,Do you have any today? I won't be available until next week Wednesday,
+2161,Awesome! And this dog friendly apartments??,
+2162,"Hey, I actually have already rented a unit. Thanks! ",
+2163,Yes please! Can you please send me the address? I lost it in my Zillow tabs,
+2164,I'm available next week,
+2165,Thank you ! I'm going to take a look,
+2166,Can you remind me which apartments these are again?,
+2167,I will prefer Stafford or Richmond areas,
+2168,"At work now can't talk
+",
+2169,Yes could I come today,
+2170,And my name is Michelle that sounds love tomorrow at 3if it's ok with u I get off at 2,
+2171,"Hello Kelsey, a tour sounds great. I was going to be in town the 21st of May ",
+2172,Do you have a earlier time for Monday,
+2173,Ok ill come may 22nd,
+2174,Can I come on Saturday,
+2175,For a tour,
+2176,Is 3oclock good,
+2177,I apologize but this isn't Aiyona. Inquiring would like to know how much is the rent on Alice Street? Thank you.,
+2178,Please do!! Thank you. Is there a laundry & what's the parking situation?,
+2179,Cual es la página Web para checar estos apartamentos que me acaba de sugerir,

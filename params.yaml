@@ -1,0 +1,9 @@
+# This contains params to be used by the stages to train or predict
+train:
+  seed: 2022
+  epoch: 2
+  lr: 0.0001
+
+evaluation:
+  threshold: 0.2
+  UnknownIntent: UnknownIntent
